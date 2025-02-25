@@ -1,0 +1,15 @@
+python-dotenv
+langchain
+openai
+youtube-transcript-api
+faiss-cpu
+streamlit
+chromadb
+cohere
+pandas
+db-sqlite3
+tqdm
+sentence-transformers
+pandas
+rank_bm25
+jupyterlab
