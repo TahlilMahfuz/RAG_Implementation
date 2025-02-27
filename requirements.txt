@@ -11,4 +11,4 @@ tqdm
 sentence-transformers
 pandas
 rank_bm25
-jupyterlab
+notebook
