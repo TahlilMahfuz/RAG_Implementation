@@ -13,3 +13,11 @@ sentence-transformers
 pandas
 rank_bm25
 jupyterlab
+torch
+transformers   
+torch 
+torchvision 
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
+huggingface_hub
+hf_xet
+tqdm
