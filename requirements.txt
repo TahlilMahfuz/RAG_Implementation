@@ -21,3 +21,5 @@ torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
 huggingface_hub
 hf_xet
 tqdm
+seaborn
+matplotlib
