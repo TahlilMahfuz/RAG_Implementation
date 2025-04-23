@@ -23,3 +23,5 @@ hf_xet
 tqdm
 seaborn
 matplotlib
+datasets
+torch-lr-finder
