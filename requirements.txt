@@ -14,9 +14,9 @@ pandas
 rank_bm25
 jupyterlab
 torch
-transformers   
-torch 
-torchvision 
+transformers
+torch
+torchvision
 torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
 huggingface_hub
 hf_xet
@@ -25,3 +25,7 @@ seaborn
 matplotlib
 datasets
 torch-lr-finder
+googlesearch-python
+newspaper3k
+beautifulsoup4
+lxml_html_clean
