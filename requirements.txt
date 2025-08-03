@@ -1,5 +1,7 @@
 python-dotenv
 langchain
+langchain-community
+langchain-core
 openai
 youtube-transcript-api
 faiss-cpu
@@ -29,3 +31,12 @@ googlesearch-python
 newspaper3k
 beautifulsoup4
 lxml_html_clean
+google-play-scraper
+cerebras_cloud_sdk
+# -qU chromadb langchain-chroma
+rich
+numpy
+langchain
+llama-index
+langchain_experimental
+langchain_openai
