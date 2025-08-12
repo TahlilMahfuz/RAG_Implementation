@@ -33,10 +33,11 @@ beautifulsoup4
 lxml_html_clean
 google-play-scraper
 cerebras_cloud_sdk
-# -qU chromadb langchain-chroma
+langchain-chroma
 rich
 numpy
 langchain
 llama-index
 langchain_experimental
 langchain_openai
+umap-learn>=0.5.0
