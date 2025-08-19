@@ -41,3 +41,4 @@ llama-index
 langchain_experimental
 langchain_openai
 umap-learn>=0.5.0
+pyabsa
