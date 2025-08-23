@@ -1,0 +1,1240 @@
+{
+    "7e8ab": {
+        "chunk_id": "7e8ab",
+        "propositions": [
+            "[\"Audio is available to listen to the Quran.\", ",
+            "\"Listening to the Quran can help to memorise and recharge your soul.\", ",
+            "\"The app provides Quran recitations by over 50 renowned reciters.\", ",
+            "\"The reciters include Mishary Al Afasy, Husary (Muallim), Ayman Suwaid, Abdur Rahman As-Sudais, Abdul Basit, and Minshawi.\", ",
+            "\"Ayman Suwaid and Husary (Muallim) are suitable for improving recitation and tajweed.\", ",
+            "\"Yasser Salama Hadr has a faster recitation.\", ",
+            "\"Audio translations are available in English, Bangla, and Urdu.\", ",
+            "\"More audio translations are planned.\", ",
+            "\"The app allows downloading audio for offline listening.\", ",
+            "\"The app allows streaming audio to save storage space.\", ",
+            "\"The repeat option assists with Quran memorization (Hifz).\", ",
+            "\"Users can choose from different reciters.\", ",
+            "\"Users can choose from different audio translations.\", ",
+            "  \"The Quran Planner helps users break down their reading into manageable daily sessions.\",",
+            "  \"The Quran Planner keeps users organized and motivated to reach their goal.\",",
+            "  \"Users can read the Quran in 29 days.\",",
+            "  \"Reading the Quran in 29 days is ideal for Ramadan.\",",
+            "  \"Users can complete the Quran in one year.\",",
+            "  \"Completing the Quran in one year requires reading about 2 pages daily.\",",
+            "  \"Users can read the Quran translation in 90 days.\",",
+            "  \"Reading the Quran translation in 90 days improves understanding.\",",
+            "  \"To start using the Quran Planner, users create a plan.\",",
+            "\"The Al Quran app provides translation and explanations of the ayahs.\", ",
+            "\"The app provides word-by-word translations and recitations.\", ",
+            "\"You can connect with every ayah on a deeper level using the app.\", ",
+            "\"The app offers over 90 translations and tafsirs.\", ",
+            "\"The app includes 8 Arabic Tafsirs.\", ",
+            "[\"The Library section is designed to help you engage deeply with the Quran.\", ",
+            "\"Engaging deeply with the Quran involves bookmarking ayahs, taking notes, and organizing reflections.\", ",
+            "[\"The Mushaf Mode allows reading the Quran in familiar Mushaf pages.\", ",
+            "\"Mushaf Mode provides a digital version of a favourite hard-copy mushaf.\", ",
+            "\"Mushaf Mode is perfect for focused recitation with a classic Quran layout without translations.\", ",
+            "\"The Mushaf reading mode is popular among the Arab demographic.\", ",
+            "\"The Mushaf reading mode is popular among students of knowledge.\", ",
+            "\"The Mushaf reading mode is popular among people doing hifz.\", ",
+            "\"Consistency in mushaf layouts helps memorization by building photographic memory.\", ",
+            "\"Consistency in mushaf layouts helps traditional readers.\", ",
+            "\"The Al Quran app offers various mushafs.\", ",
+            "\"The Mushaf unicode is a customisable mushaf with options to resize and change fonts.\", ",
+            "\"Mushaf reading mode can be enabled by tapping the book icon at the top right corner.\", ",
+            "\"Mushaf reading mode can be switched back to regular mode by tapping the 3-bar icon.\", ",
+            "\"Translations or tafsirs can be accessed while reciting in mushaf mode by long-pressing any ayah.\", ",
+            "\"Mushaf mode is designed to enhance the Quran reading experience.\", ",
+            "\"Mushaf mode offers a familiar and intuitive way to connect with the Quran.\"]"
+        ],
+        "title": "Islamic Digital Quran Resources",
+        "summary": "This chunk outlines digital Quran resources\u2014audio recitations, multilingual translations, reading planners, and Mushaf mode\u2014to aid remembrance, understanding, and memorization of the Qur\u2019an in line with Islamic devotion.",
+        "chunk_index": 0
+    },
+    "cdb9f": {
+        "chunk_id": "cdb9f",
+        "propositions": [
+            "\"The app has a quick start guide.\", ",
+            "\"The quick start guide explains how to play a Surah.\", ",
+            "\"The quick start guide explains how to play a range of ayahs or the entire Surah.\", ",
+            "\"The quick start guide explains how to change reciters or audio translations.\", ",
+            "\"The quick start guide explains how to use repeat options.\", ",
+            "\"The app allows adjusting the playback speed.\", ",
+            "\"The app has a single recitation mode.\", ",
+            "\"The app has a multiple recitation mode.\", ",
+            "\"In the single recitation mode, one reciter plays at a time.\", ",
+            "\"In the multiple recitation mode, up to 3 reciters play sequentially.\"]"
+        ],
+        "title": "Qur'an Audio Recitation Guide",
+        "summary": "This chunk provides a quick\u2011start guide to Qur\u2019an audio playback features, enabling easy access to the Holy Qur\u2019an for worship and learning.",
+        "chunk_index": 1
+    },
+    "7273e": {
+        "chunk_id": "7273e",
+        "propositions": [
+            "[\"The Al Quran (Tafsir & by Word) app has a search function.\", ",
+            "\"The search function allows users to find a specific ayah or topic in the Quran.\", ",
+            "\"The search can be used to find surah names.\", ",
+            "\"The search can be used to find Arabic ayahs.\", ",
+            "\"The search can be used to find translations.\", ",
+            "\"The search can be used to find tafsirs.\", ",
+            "\"The search understands minor spelling variations.\", ",
+            "\"Users can type a surah name to open it instantly.\", ",
+            "\"Users can search for specific translations or tafsirs.\", ",
+            "\"Users can filter results by specific translations or tafsirs.\", ",
+            "\"The Al Quran (Tafsir & by Word) app has a collection of Quranic topics.\", ",
+            "\"Users can explore Quranic topics to find related ayahs.\", ",
+            "\"The Al Quran (Tafsir & by Word) app has a word analysis search function.\", ",
+            "\"The word analysis search function shows occurrences of Arabic words across the Quran.\", ",
+            "\"The word analysis search function shows occurrences of lemma across the Quran.\", ",
+            "\"The word analysis search function shows occurrences of roots across the Quran.\", ",
+            "\"Voice search is available on Android experimentally.\", ",
+            "\"The Al Quran (Tafsir & by Word) app is available for users to start searching.\"]",
+            "[\"The Quran can be explored by topics.\", ",
+            "\"The Al Quran app allows users to explore topics and read related ayahs.\", ",
+            "\"The app provides knowledge on a particular topic.\", ",
+            "\"The menu drawer has an 'Explore by Topic' option.\", ",
+            "\"The Search icon provides the entire topics list.\", ",
+            "\"The topics are available in multiple languages including Arabic, Bangla, German, Indonesian, Filipino, Turkish, and Urdu.\", ",
+            "\"The Al Quran app provides guidance on daily life and learning about particular topics.\", ",
+            "\"The app helps users find relevant ayahs in one place.\"]",
+            "\"There are explorer badges for achievements like the Search Explorer or Audio Explorer.\", ",
+            "\"These features also motivate you to explore the Quran deeply.\", ",
+            "[\"Al Quran (Tafsir & by Word) app makes it easy to understand the Quran in your language with reliable translations and tafsirs.\", ",
+            "\"The app offers word-by-word analysis and translations.\", ",
+            "\"The app provides Arabic grammar insights, including root/lemma information, grammar details, and verb forms.\", ",
+            "\"Tafsir Ibn Kathir is a comprehensive and detailed explanation of the Quran.\", ",
+            "\"The app offers additional tools like E\u2018rab and Gharib to help with studies.\", ",
+            "[\"Deepening Quran Understanding is for students of knowledge and Arabic learners.\", ",
+            "\"The Quran app offers tools for learning Arabic.\", ",
+            "\"Gharib helps learn the meanings of uncommon words.\", ",
+            "\"Gharib helps understand the context of uncommon words in Quranic ayahs.\", ",
+            "\"The Word Lemma and Root tool highlights the base form of words.\", ",
+            "\"The Word occurrences tool tracks how words appear in different forms.\", ",
+            "\"The Word occurrences tool finds every instance of a word in the Quran.\", ",
+            "\"The Word occurrences tool remembers words better by recognizing patterns.\", ",
+            "\"The Word occurrences tool studies how the same word is used in different contexts.\", ",
+            "\"The Library brings all study tools together in one place.\", ",
+            "\"Collections are folders where multiple ayahs can be saved together.\", ",
+            "\"Collections are perfect for grouping related ayahs under topics.\", "
+        ],
+        "title": "Quranic Search & Knowledge Tools",
+        "summary": "This chunk outlines the Al\u202fQur\u2019an app\u2019s search, topic\u2011exploration, word\u2011analysis, multilingual translations, tafsirs, and achievement features that aid the Islamic pursuit of knowledge (Ilm).",
+        "chunk_index": 2
+    },
+    "f47c4": {
+        "chunk_id": "f47c4",
+        "propositions": [
+            "[",
+            "\"Fi Sabilillah (For Allah's sake) is a giving of charity.\", ",
+            "\"Those who can should continue to spend on those less fortunate.\", ",
+            "\"The Prophet (pbuh) said, 'Your smile for your brother is a charity.'\", ",
+            "\"The Prophet (pbuh) said, 'Whoever relieves a Muslim of a burden from the burdens of this world, Allah will relieve him of a burden from the burdens on the Day of Judgement.'\", ",
+            "\"The Prophet (pbuh) said, 'The one who looks after a widow or a poor person is like a Mujahid (warrior) who fights for Allah's cause.'\", ",
+            "\"The Quran says, 'So as for the orphan, do not oppress [him]. And as for the petitioner, do not repel [him].'\", ",
+            "\"The Prophet (pbuh) said, 'The believer's shade on the Day of Resurrection will be his charity.'\", ",
+            "\"The Prophet (pbuh) said, 'Protect yourselves from Hell-fire even by giving a piece of date as charity.'\", ",
+            "\"The Prophet (pbuh) said, 'The upper hand is better than the lower hand (i.e., he who gives in charity is better than him who takes it).'\", ",
+            "\"The Quran says, 'But whoever volunteers excess, it is better for him.'\"]",
+            "  \"The Prophet said, 'Your smile for your brother is a charity.'\", ",
+            "  \"The Prophet said, 'Whoever relieves a Muslim of a burden from the burdens of this world, Allah will relieve him of a burden from the burdens on the Day of Judgement.'\", ",
+            "  \"The Prophet said, 'The one who looks after a widow or a poor person is like a Mujahid (warrior) who fights for Allah's cause.'\", ",
+            "  \"The Quran states, 'So as for the orphan, do not oppress [him]. And as for the petitioner, do not repel [him].'\", ",
+            "  \"The Prophet said, 'The believer's shade on the Day of Resurrection will be his charity.'\", ",
+            "  \"The Prophet said, 'Protect yourselves from Hell-fire even by giving a piece of date as charity.'\", ",
+            "  \"The Prophet said, 'The upper hand is better than the lower hand (i.e., he who gives in charity is better than him who takes it).'\", ",
+            "  \"The Quran states, 'But whoever volunteers excess, it is better for him.'\" "
+        ],
+        "title": "Islamic Charity & Generosity",
+        "summary": "This chunk discusses Islamic charity, emphasizing the virtue of giving, kindness, and support for the needy as essential acts of faith.",
+        "chunk_index": 3
+    },
+    "31803": {
+        "chunk_id": "31803",
+        "propositions": [
+            "  \"Users can create their own custom schedule.\",",
+            "  \"To create a plan, users select the start and end range.\",",
+            "  \"To create a plan, users set the number of days.\",",
+            "  \"Users should set a notification time to stay on track.\",",
+            "  \"Users read the Quran following their schedule.\",",
+            "  \"Users track progress by checking their planner.\",",
+            "  \"Users celebrate completion by marking the planner as complete.\",",
+            "  \"A tip for success is to start with a realistic goal.\",",
+            "  \"A tip for success is to set reminders at a consistent time.\",",
+            "  \"A tip for success is to adjust the schedule if needed.\"",
+            "[\"Build a daily Quran reading habit.\", ",
+            "\"Daily Quran reading is key to developing a deeper connection with the Quran.\", ",
+            "\"Consistency helps you build a lasting connection with Allah's words.\", ",
+            "\"Whether you read one ayah or several pages, it helps.\", ",
+            "\"These features make the journey of reading the Quran more rewarding and motivational.\", ",
+            "\"You can set a daily reading goal.\", ",
+            "\"The daily reading target can fit your schedule.\", ",
+            "\"The target can be 1 minute or 60 minutes.\", ",
+            "\"Personalized goals will be introduced to adjust to your reading patterns.\", ",
+            "\"The goal is to help you build a stronger connection with the Quran.\", "
+        ],
+        "title": "Personalized Quran Reading Habits",
+        "summary": "This chunk offers guidance on creating a personalized daily Qur'an\u2011reading schedule\u2014with realistic goals, reminders, and progress tracking\u2014to help Muslims build consistent, meaningful connection with the Qur'an.",
+        "chunk_index": 4
+    },
+    "75b25": {
+        "chunk_id": "75b25",
+        "propositions": [
+            "  \"After creating a plan, users tap Read to begin.\",",
+            "  \"A tip for success is to plan ahead for busy days.\",",
+            "\"You can start small and grow gradually.\", ",
+            "\"These goals will help you progress naturally in the future.\", ",
+            "\"There are milestones to build your habit.\", ",
+            "\"3 days is a milestone for getting started.\", ",
+            "\"7 days is a milestone for completing your first week.\", ",
+            "\"30 days is a milestone for being one month strong.\", ",
+            "\"New milestones are unlocked every 15 days.\", ",
+            "\"Examples of milestones are 45, 60, 75 days.\", ",
+            "\"You should target small milestones and establish your habit of reading the Quran daily.\", "
+        ],
+        "title": "Quran Reading Habit & Sabr",
+        "summary": "This chunk offers guidance on building a daily Quran\u2011reading habit through planning, incremental milestones, and the Islamic virtues of sincere intention (niyyah) and perseverance (sabr).",
+        "chunk_index": 5
+    },
+    "8106d": {
+        "chunk_id": "8106d",
+        "propositions": [
+            "  \"After completing a session, users save their progress.\",",
+            "\"The app has new Stats, Streaks, and Badges features.\", ",
+            "\"You can track your daily progress.\", ",
+            "\"Streak tracks the number of days in a row you've read the Quran in the app.\", ",
+            "\"Streak is designed to motivate reading the Quran daily.\", ",
+            "\"Each day of reading builds your streak.\", ",
+            "\"Streak helps you stay consistent.\", ",
+            "\"You can earn badges for completing milestones or exploring app features.\", ",
+            "\"Badges celebrate your progress and help you stay motivated.\", ",
+            "\"There are milestone badges for 7-day, 14-day, 30-day, and 100-day streaks.\", ",
+            "\"More badges are coming soon to celebrate your Quran journey.\", ",
+            "\"You can visualize how much time you've spent reading the Quran with a daily breakdown for the current week.\", ",
+            "\"You can see your total ayah read, time spent and best streak.\", ",
+            "\"Lifetime stats are tracked for logged-in users only.\", ",
+            "\"A streak widget will be available soon.\", ",
+            "\"These features encourage daily reading and help you stay consistent.\", ",
+            "\"Study tools include saving ayahs for study, tracking recitation progress, and jotting down thoughts.\", "
+        ],
+        "title": "Quran Reading Accountability & Rewards",
+        "summary": "This chunk outlines app tools\u2014session saving, stats, streaks, and badges\u2014that promote daily Quran recitation through Islamic self\u2011accountability (mu\u1e25\u0101sabah) and motivation.",
+        "chunk_index": 6
+    },
+    "9cc99": {
+        "chunk_id": "9cc99",
+        "propositions": [
+            "]",
+            "\"Feed the poor.\", "
+        ],
+        "title": "Islamic Charity & Feeding the Poor",
+        "summary": "This chunk covers Islamic charity, emphasizing feeding the poor and giving zakat to support those in need.",
+        "chunk_index": 7
+    },
+    "27550": {
+        "chunk_id": "27550",
+        "propositions": [
+            "\"There are 9 important topics broken down into 200+ topics and subtopics.\", ",
+            "\"The topics include the 'Etiquette of Honoring the Guests' and 'Riba (Interest)'.\", ",
+            "\"The top level 9 topics are categorized into more sub-categories.\", ",
+            "\"Topics include Salah or Zakat.\", ",
+            "\"In Islam, manners and etiquette are essential and impact how Muslims interact with others daily.\", ",
+            "\"The Prophet Muhammad was a perfect example of kindness, generosity, and respect.\", ",
+            "\"The actions of the Prophet Muhammad show Muslims how to be good to others, treat people with care, and follow the teachings of Islam.\", ",
+            "\"Learning good manners isn't just about behaving well in front of others; it's about following the Sunnah and earning the blessings of Allah.\", ",
+            "\"Allah commands Muslims to speak kindly to mankind.\", ",
+            "\"Speaking kindly, helping others, and showing respect are key parts of Islamic manners.\", ",
+            "\"The Prophet Muhammad was known for his incredible patience, kindness, and compassion.\", ",
+            "\"A neighbor of the Prophet Muhammad would throw garbage in front of his house every day.\", ",
+            "\"The Prophet Muhammad never retaliated or got angry with his neighbor.\", ",
+            "\"The Prophet Muhammad visited his neighbor when he was sick and found out he was ill.\", ",
+            "\"The neighbor of the Prophet Muhammad became a follower of Islam after being shown kindness.\", ",
+            "\"Kindness and patience can change hearts, even when others aren't.\", ",
+            "\"Compassion is a vital part of good manners and reflects the teachings of the Prophet Muhammad.\", ",
+            "\"Saying 'Bismillah' before eating helps bring the blessings of Allah to a meal.\", ",
+            "\"The Prophet Muhammad taught Muslims to say 'Bismillah' before eating and to use their right hand.\", ",
+            "\"Cleanliness is an important part of Islam.\", ",
+            "\"Cleanliness is often said to be half of faith.\", ",
+            "\"The Prophet Muhammad taught Muslims to keep themselves and their surroundings clean.\", ",
+            "\"Speaking kindly can make someone's day and bring peace to one's heart.\", ",
+            "\"The Prophet Muhammad always used gentle words when speaking to others.\", ",
+            "\"Respecting parents and elders is a key part of Islamic manners.\", ",
+            "\"The Prophet Muhammad showed love and care toward his parents, grandparents, and other elders.\", ",
+            "\"The Golden Rule in Islam is 'Do unto others as you would have them do unto you'.\", ",
+            "\"The Prophet Muhammad said that none of you truly believes until he loves for his brother what he loves for himself.\"]",
+            "[\"The primary Islamic greeting is \u201cAs-Salamu Alaikum\u201d (\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645).\", ",
+            "\"As-Salamu Alaikum translates to \u201cPeace be upon you.\u201d\", ",
+            "\"The phrase As-Salamu Alaikum encapsulates Islam's core mission: to establish tranquility in human hearts and societies.\", ",
+            "\"The customary reply to As-Salamu Alaikum is \u201cWa Alaikum As-Salam\u201d (\u0648\u0639\u0644\u064a\u0643\u0645 \u0627\u0644\u0633\u0644\u0627\u0645).\", ",
+            "\"Wa Alaikum As-Salam means \u201cAnd peace be upon you.\u201d\", ",
+            "\"As-Salamu Alaikum wa Rahmatullahi wa Barakatuh (\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645 \u0648\u0631\u062d\u0645\u0629 \u0627\u0644\u0644\u0647 \u0648\u0628\u0631\u0643\u0627\u062a\u0647) is an extended Islamic greeting.\", ",
+            "\"As-Salamu Alaikum wa Rahmatullahi wa Barakatuh means \u201cPeace, mercy, and blessings of Allah be upon you.\u201d\", ",
+            "\"Wa Alaikum As-salam Wa Rahmatullahi Wa Barakatuh is a response to As-Salamu Alaikum wa Rahmatullahi wa Barakatuh.\", ",
+            "\"Allah instructs in Surah An-Nisa (4:86): \u201cWhen you are greeted with a greeting, respond with a better one or return it.\u201d\", ",
+            "\"The Prophet Muhammad (\ufdfa) highlighted the importance of spreading Salam.\", ",
+            "\"The Prophet Muhammad (\ufdfa) said: \u201cYou will not enter Paradise until you believe, and you will not believe until you love one another. Shall I inform you of something that makes you love one another? Spread Salam (greetings) among yourselves.\u201d\", ",
+            "\"The Prophet Muhammad (\ufdfa) said: \u201cThe one who initiates Salam is free from pride.\u201d\", ",
+            "\"JazakAllah / JazakAllahu Khairan (May Allah reward you) is an expression of thanks.\", ",
+            "\"BarakAllahu Feek/Feekum (May Allah bless you) is a reply to gratitude.\", ",
+            "\"Alhamdulillah (Praise be to Allah) is an expression of thanks to Allah.\", ",
+            "\"Maa Shaa Allah (As Allah has willed) is an expression used to admire something without invoking envy.\", ",
+            "\"Bismillah (In the name of Allah) is used to start any action with Allah's name.\", ",
+            "\"Insha Allah (If Allah wills) is used to plan future endeavors with humility.\", ",
+            "\"Hayyak Allah (May Allah sustain you) is a warm greeting.\"]",
+            "[\"When learning Arabic, one of the first things you'll encounter is the beauty of Arabic greeting words.\", ",
+            "\"Arabic greetings go beyond simple pleasantries\u2014they carry deep meanings of respect, peace, and blessings, particularly in Muslim culture.\", ",
+            "\"Learning how to greet in Arabic opens doors to understanding the rich cultural and spiritual nuances of the Arabic language.\", ",
+            "\"Arabic greetings are rich in culture and meaning.\", ",
+            "\"Each Arabic greeting offers something unique\u2014sometimes a blessing, other times a gesture of respect.\", ",
+            "\"As-salamu alaykum is the most common greeting among Muslims and Arabic speakers.\", ",
+            "\"As-salamu alaykum means \u201cPeace be upon you.\u201d\", ",
+            "\"You can use As-salamu alaykum any time, in both formal and informal situations.\", ",
+            "\"It's a very polite and respectful way to say hello, and it is important in Islamic culture.\", ",
+            "\"As-salamu alaykum is used with friends, family, or even strangers.\", ",
+            "\"The response to As-salamu alaykum is \u201cWa alaykumu as-salam\u201d, meaning \u201cAnd peace be upon you too.\u201d\", ",
+            "\"Marhaban is a more casual greeting, meaning \u201cHello\u201d or \u201cWelcome.\u201d\", ",
+            "\"Marhaban is not as formal as As-salamu alaykum, but still polite.\", ",
+            "\"You can use Marhaban in both formal and informal situations.\", ",
+            "\"Marhaban is very friendly.\", ",
+            "\"Marhaban is used with friends, colleagues, or when you meet someone for the first time.\", ",
+            "\"The response to Marhaban is \u201cMarhaban bik\u201d, which means \u201cHello to you too\u201d or \u201cWelcome to you.\u201d\", ",
+            "\"Ahlan wa sahlan means \u201cWelcome\u201d and is often used to show hospitality.\", ",
+            "\"Ahlan wa sahlan is a warm greeting, and it's common when you invite someone to your home or when you meet them.\", ",
+            "\"Ahlan wa sahlan is used when you welcome guests or when someone arrives at your house, office, or event.\", ",
+            "\"The response to Ahlan wa sahlan is \u201cAhlan bik\u201d, which means \u201cYou are welcome.\u201d\", ",
+            "\"Sabah al-khair means \u201cGood morning.\u201d\", ",
+            "\"Sabah al-khair is used in the morning, and it's a polite way to start the day.\", ",
+            "\"Sabah al-khair is used when you see someone in the morning, whether at work, school, or even at home.\", ",
+            "\"The response to Sabah al-khair is \u201cSabah al-noor\u201d, meaning \u201cMorning of light.\u201d\", ",
+            "\"Masa' al-khair means \u201cGood evening\u201d and is used after the afternoon, usually from late afternoon till night.\", ",
+            "\"Masa' al-khair is used when you meet someone in the evening, whether it's formal or informal.\", ",
+            "\"The response to Masa' al-khair is \u201cMasa' al-noor\u201d, meaning \u201cEvening of light.\u201d\", ",
+            "\"Tabba sabahak is a polite way to wish someone a pleasant morning.\", ",
+            "\"Tabba sabahak is more formal than Sabah al-khair, and is less commonly used.\", ",
+            "\"Tabba sabahak is used when you want to sound more poetic in the morning.\", ",
+            "\"Tabba masa'ak is used in the evening to greet someone with wishes of a good evening when you want to sound more poetic.\", ",
+            "\"Salam is a very short and informal way to say \u201cHello\u201d or \u201cPeace.\u201d\", ",
+            "\"Salam is used mostly between close friends or in quick conversations.\", ",
+            "\"The response to Salam is \u201cSalam\u201d again.\", ",
+            "\"Naharak sa'eed is a cheerful and positive greeting, wishing someone happiness throughout the day.\", ",
+            "\"Naharak sa'eed is used in the morning or afternoon.\", ",
+            "\"The response to Naharak sa'eed is \u201cWa naharak as'ad\u201d, meaning \u201cAnd may your day be happier.\u201d\", ",
+            "\"Kayfa al-haal is a common greeting used to ask about someone's well-being.\", ",
+            "\"Kayfa al-haal is used in all kinds of conversations, from casual to formal.\", ",
+            "\"The response to Kayfa al-haal is \u201cAlhamdulillah\u201d, meaning \u201cPraise be to God,\u201d or \u201cAna bekhair\u201d, meaning \u201cI am fine.\u201d\", ",
+            "\"Ya Hala is an informal, friendly greeting used mostly in Gulf countries.\", ",
+            "\"Ya Hala means \u201cYou are welcome\u201d or \u201cHello.\u201d\", ",
+            "\"Ya Hala is used when welcoming friends or during casual conversations.\", ",
+            "\"The response to Ya Hala is \u201cYa Hala feek\u201d, meaning \u201cYou are welcome here.\u201d\", ",
+            "\"As-salamu alaykum is the primary greeting used by Muslims.\", ",
+            "\"The full version of the Muslim greeting is As-salamu alaykum wa rahmatullahi wa barakatuh, which translates to \u201cPeace be upon you, and the mercy of Allah and His blessings.\u201d\", ",
+            "\"As-salamu alaykum wa rahmatullahi wa barakatuh is typically used in more formal settings or during religious occasions.\", ",
+            "[\"Human nature desires a society based on morals and manners.\", ",
+            "\"Human nature desires a society based on morals and manners which provides a stable and secure life.\", ",
+            "\"Human nature desires a society based on morals and manners which provides a stable and secure life leading to liberty.\", ",
+            "\"Human nature desires a society based on morals and manners which provides a stable and secure life leading to liberty and happiness.\", ",
+            "\"Don't insult.\", ",
+            "\"Don't backbite.\", ",
+            "\"Be good to guests.\", ",
+            "\"Don't be rude to parents.\", ",
+            "\"Don't make fun of others.\", ",
+            "\"Don't insult others' false gods.\", ",
+            "\"Don't ask unnecessary questions.\", ",
+            "\"Don't be miserly nor extravagant.\", ",
+            "\"Don't call others with bad names.\", ",
+            "\"Speak nicely, even to the ignorant.\", ",
+            "\"Don't ask for repayment for favours.\", ",
+            "\"Make room for others at gatherings.\", ",
+            "\"Return a greeting in a better manner.\", ",
+            "\"Lower your voice and talk moderately.\", ",
+            "\"Don't ask too many favours from people.\", ",
+            "\"Greet people when entering their home.\", ",
+            "\"Speak gently, even to leaders of disbelief.\", ",
+            "\"Don't criticize small contributions of others.\", ",
+            "\"Preach to others in a good and wise manner.\", ",
+            "\"Consider wives of the Prophet like your mothers.\", ",
+            "\"Seek permission before entering someone's room.\", ",
+            "\"Be patient with your teacher & follow his instructions.\", ",
+            "\"Don't frown, turn away or neglect those who come to you.\", ",
+            "\"If unable to help a needy person, at least speak nice words.\", ",
+            "\"Don't enter homes without permission & return if refused entry.\", ",
+            "\"Don't sit with those who mock religion until they change the subject.\", ",
+            "\"Say it's not appropriate to talk of slander when it's mentioned to you.\", ",
+            "\"Don't take women by force, nor take back bridal gift without a valid reason & live with them in kindness.\"]",
+            "[\"Making room for newcomers in a gathering is a rule of refined conduct taught and encouraged by the Prophet Muhammad, sallallahu alayhe wa sallam.\", ",
+            "\"Allah, subhanahu wa ta'ala, says: \\\"O you who have believed, when you are told, 'Make room [for one another]' in gatherings, then make room; Allah will make room for you.\\\"\", ",
+            "\"These rules address assemblies, social gatherings, groups, and study circles.\", ",
+            "\"The first rule commands making space for newcomers when sitting in an assembly.\", ",
+            "\"Making space for newcomers allows them to sit down, feel welcome and part of the assembly.\", ",
+            "\"The Companions used to be reluctant to concede a space for newcomers in their assemblies with Allah's Messenger, sallallahu alayhe wa sallam.\", ",
+            "\"When room is made for someone, it should be accepted, and the person should sit down next to those who made it, and thank them.\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"When people take their places and sit, and a man invites a [Muslim] brother of his and makes room for him, let the latter take it.\\\"\", ",
+            "\"It is a generous gesture offered to someone when they are made room for.\", ",
+            "\"Making room for newcomers in a gathering is characteristic of Islam.\", ",
+            "\"It is a sign of affability and mutual affection of all Muslims.\", ",
+            "\"It is both a courtesy and a good deed.\", ",
+            "\"When someone arrives late to a learning session, the people already there should make room.\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"No one among you should cause a man to stand and then sit in his place\\\".\", ",
+            "\"The best practice is for a person joining a group to sit next to the last person in it.\", ",
+            "\"Another important rule of conduct at assemblies is to take the initiative when entering by greeting the people already there.\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"Do not admit a person who does not begin with a greeting\\\".\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"O People! Spread greetings. Offer food. Keep in touch with your blood relatives. And pray while people are asleep. And you will be admitted into Paradise in peace\\\".\", ",
+            "\"When leaving a group, it is proper for a Muslim to commend the people there with salutations of peace.\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"If one of you joins an assembly, let him greet (the People there). And if he gets up while others are still sitting, let him greet (them).\\\"\", ",
+            "\"When Muslims visit one another, they should not stay overly long.\", ",
+            "\"Abdurrahman ibn Zaid said: \\\"People used to gather at the house of the Prophet, sallallahu alayhe wa sallam, and when they wanted to leave, each desired to be the last to leave him, sallallahu alayhe wa sallam.\\\"\", ",
+            "\"If someone sneezes and then praises Allah (saying alhamdulillah), the people around should respond with a prayer for Allah's mercy for him.\", ",
+            "\"When yawning, the mouth should be covered and further yawning resisted as much as possible.\", ",
+            "\"In a group of three, it is not right for two to talk intimately and privately, leaving the third out.\"]",
+            "\"Praising other people is permissible in Islam.\", ",
+            "\"Praising other people means speaking highly of someone.\", ",
+            "[\"When you meet one another, greet with a greeting from Allah, blessed and good.\", \"The Prophet (pbuh) said that greeting with a greeting from Allah is blessed and good.\", \"The Quran says that when you are greeted with a greeting, greet in return with what is better than it or at least return it equally.\", \"The Prophet (pbuh) said that your smile for your brother is a charity.\", \"The Prophet (pbuh) said that truthfulness leads to righteousness, and righteousness leads to Paradise.\", \"The Prophet (pbuh) said that truthfulness is certainty and tranquility, while lying is doubt and confusion.\", \"The Prophet (pbuh) said that falsehood leads to wickedness, and wickedness leads to Hell.\", \"The Quran says that you should not mix the truth with falsehood or conceal the truth while you know it.\", \"The Quran says that you should fear Allah and be with those who are true.\", \"The Prophet (pbuh) said that backbiting is to mention about your brother something that he dislikes.\", \"The Prophet (pbuh) said that whoever believes in Allah and the Last Day, let him speak good or remain silent.\", \"The Quran says that you should not pursue that of which you have no knowledge.\", \"The Quran says that you should not spy or backbite each other.\", \"The Prophet (pbuh) said that whoever humbles himself for the sake of Allah, Allah will exalt him.\", \"The Quran says that the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace.\", \"The Prophet (pbuh) said that the signs of a hypocrite are three: whenever he speaks, he tells a lie; whenever he promises, he breaks it; and whenever he is entrusted, he betrays his trust.\", \"The Quran says that you should fulfill [all] contracts.\", \"The Prophet (pbuh) said that no one is given a gift better and more comprehensive than patience.\", \"The Quran says that you should seek help through patience and prayer.\", \"The Prophet (pbuh) said that the believer who associates with people and bears their annoyance with patience will have a greater reward than the believer who does not associate with people and does not put up with their annoyance.\", \"The Prophet (pbuh) said that the prayer of a person in congregation is twenty-seven times superior to that of a person praying alone.\", \"The Prophet (pbuh) said that no fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that.\", \"The Quran says that Allah will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient.\", \"The Prophet (pbuh) said that whoever relieves a Muslim of a burden from the burdens of this world, Allah will relieve him of a burden from the burdens on the Day of Judgement.\", \"The Prophet (pbuh) said that the one who looks after a widow or a poor person is like a Mujahid (warrior) who fights for Allah's cause.\", \"The Quran says that you should not oppress the orphan and not repel the petitioner.\", \"The Quran says that you should cooperate in righteousness and piety, but do not cooperate in sin and aggression.\", \"The Prophet (pbuh) said that he who does not thank people, does not thank Allah.\", \"The Quran says that if you are grateful, Allah will surely increase you [in favor].\", \"The Prophet (pbuh) said that seeking knowledge is obligatory upon every Muslim.\", \"The Quran says that only those who know will remember [who are] people of understanding.\", \"The Prophet (pbuh) said that indeed, those who are just will be in the presence of Allah upon pulpits of light.\", \"The Prophet (pbuh) said that you should give the worker his wages before his sweat dries.\", \"The Quran says that you should fulfill [all] contracts and render trusts to whom they are due and judge with justice.\", \"The Prophet (pbuh) said that he who does not show mercy to people, Allah will not show mercy to him.\", \"The Prophet (pbuh) said that the merciful are shown mercy by The Merciful.\", \"The Quran says that Allah was lenient with the people through mercy.\", \"The Prophet (pbuh) said that the believer's shade on the Day of Resurrection will be his charity.\", \"The Prophet (pbuh) said that you should protect yourselves from Hell-fire even by giving a piece of date as charity.\", \"The Prophet (pbuh) said that the upper hand is better than the lower hand.\", \"The Quran says that whoever volunteers excess, it is better for him.\"]",
+            "\"The Messenger of Allah (sa) commanded us to do seven things: to visit the sick, to attend funerals, to bless a Muslim, when he sneezes, to support the weak, to help the one, who is oppressed, to spread Salam (peace), and to help people fulfil their oaths.\", ",
+            "\"The Messenger of Allah (sa) said that spreading Salam amongst yourselves will make you love one another.\", ",
+            "\"A simple 'Assalam Alaikum Wa Rahmatullahi Wa Barakatahu' can earn thirty rewards from Allah (swt).\", ",
+            "\"Impatiently ringing the doorbell, yelling out the inmates name, and grumbling, when the person we had intended to visit is unavailable, are signs of impoliteness and impertinence.\", ",
+            "\"The Prophet (sa) advised Muslims to suppress yawning as much as possible.\", ",
+            "\"If the urge to yawn cannot be resisted, then a Muslim should cover his mouth with his hand.\", ",
+            "\"The Prophet (sa) commanded that if any of you yawns, let him cover his mouth with his hand, so that the Shaytan does not enter.\", ",
+            "\"Islam teaches a Muslim what he should say, when he sneezes, and what he should say, when he hears another sneeze.\", ",
+            "\"The Prophet (sa) said that Allah (swt) likes the act of sneezing and dislikes the act of yawning.\", ",
+            "\"The Prophet (sa) issued a stern warning against the danger of slandering other people's honour and exposing their faults.\", ",
+            "\"The Prophet (sa) said that do not hurt the feelings of the servants of Allah (swt), do not embarrass them, do not seek to expose their faults.\"]",
+            "[\"Islam has professed the use of the Islamic greeting when encountering another Muslim or leaving the company of another Muslim.\", ",
+            "\"Islamic greeting unifies the hearts and strengthens bonds between Muslims.\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'May I tell you something, that if you practice it you will love another, spread the (salam) Islamic greeting among you.'\", ",
+            "\"Spreading salam among Muslims is the first step towards paradise.\", ",
+            "\"Spreading salam leads to increasing the love between our hearts.\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'Oh you people, spread salam among you, serve the food, behave kindly with your blood relations, and offer prayer at night when others are asleep, and you will enter paradise safely.'\", ",
+            "\"The prophet (Salallahu Alayhi Wasallam) answered, 'To feed people and to say salam to everyone whether you know them or not.'\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'When Allah created Adam he told him to go and say Assalamu Alikum to a group of Angels and listen to their reply.'\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'It is your greeting and the greeting of your descendants.'\", ",
+            "\"Adam said, 'Assalamu Alikum' and the Angels said, 'Assalamu Alikum Wa Rahmatulah.'\", ",
+            "\"The complete form for the Islamic greeting is Assalamu Alilkum Wa Rahmatulah Wa Barakatuh.\", ",
+            "\"The complete form for the Islamic greeting means peace, mercy, and blessings be upon from Allah (Subhanhu Wa Ta'ala).\", ",
+            "\"Another man came and said, 'Assalamu Alikum Wa Rahmatullh.'\", ",
+            "\"Another man came and said, 'Assalamu Alakum Wa Rahmatulah Wa Barakatuh.'\", ",
+            "\"Scholars have agreed that starting with salam is highly recommended.\", ",
+            "\"Responding to salam is obligatory.\", ",
+            "\"Allah (Subhanhu Wa Ta'ala) said in surat An-Nisaa, (verse 86), 'When a courteous greeting is offered to you, meet it with a greeting still more courteous, or at least of equal courtesy.'\", ",
+            "\"It is enough for one to say the Islamic greeting to a group.\", ",
+            "\"The one who comes greets the Muslims that are present.\", ",
+            "\"The one who is riding greets the one who is walking.\", ",
+            "\"The one who is walking greets the one who is sitting.\", ",
+            "\"The smaller group greets the bigger group.\", ",
+            "\"The young greet the elder.\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'A rider should greet a pedestrian, a pedestrian should greet one who is sitting, and a small party should greet a large party, a younger should greet an elder one.'\", ",
+            "\"Salams are recommended when leaving as well as when you meet.\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'When one of you joins a gathering he should greet those present; and when he leave them he should greet them because the first salutation is not better than the last one.'\", ",
+            "\"The majority of scholars reported that starting with Assalamu Alikum is not permitted when encountering Jews or Christians.\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'Don't start with the (salam) Islamic greeting when encountering Jews or Christians.'\", ",
+            "\"Some scholars see no problem in starting with the Islamic greeting to the People of the Book.\", ",
+            "\"Ibn-Abbas said, 'Whoever says Assalamu Alakum to you, you have to return his greeting even if he was a Majos (fire-worshipper).'\", ",
+            "\"The scholar had agreed upon starting the greeting with the non-Muslims is allowed with any word but Assalamu Alikum.\", ",
+            "\"When meeting another Muslim shaking hands is highly recommended.\", ",
+            "\"The Prophet Muhammad said, \u201cYou will not enter Paradise until you believe, and you will not believe until you love one another. Shall I tell you something that will increase love among you? Spread Salam among yourselves.\u201d\", ",
+            "\"The Prophet (pbuh) said, 'It is to mention about your brother something that he dislikes.'\", ",
+            "\"The Prophet (pbuh) said, 'Whoever believes in Allah and the Last Day, let him speak good or remain silent.'\", ",
+            "\"The Quran says, 'And do not spy or backbite each other.'\", ",
+            "  \"The Prophet said, 'Do you know what backbiting is? It is to mention about your brother something that he dislikes.'\", ",
+            "  \"The Prophet said, 'Whoever believes in Allah and the Last Day, let him speak good or remain silent.'\", ",
+            "  \"The Quran states, 'And do not spy or backbite each other.'\", "
+        ],
+        "title": "Comprehensive Islamic Etiquette (Adab)",
+        "summary": "This chunk outlines Islamic etiquette (Adab) organized into 9 major topics and over 200 sub\u2011topics, covering proper greetings, hospitality, cleanliness, kind speech, praising others, and charitable deeds like visiting the sick and supporting the weak.",
+        "chunk_index": 8
+    },
+    "6bf36": {
+        "chunk_id": "6bf36",
+        "propositions": [
+            "\"Users can change the language in the Settings.\", ",
+            "\"More languages will be added in the coming months.\", ",
+            "\"The app supports multiple languages, including Bangla, Chinese, English, French, German, Hindi, Indonesian, Ingush, Malay, Russian, Tamil, Turkish, and Urdu.\", ",
+            "\"The app provides access to translations and tafsirs in over 60 languages.\", ",
+            "\"Differences in color & language are signs of Allah, not means of superiority.\", "
+        ],
+        "title": "Islamic Linguistic Diversity",
+        "summary": "This chunk covers the app\u2019s multilingual capabilities and reminds users that linguistic and cultural diversity are signs of Allah\u2019s creation, not a basis for superiority.",
+        "chunk_index": 9
+    },
+    "d3377": {
+        "chunk_id": "d3377",
+        "propositions": [
+            "\"Users can refresh the topics list by swiping down.\", ",
+            "\"Allah, subhanahu wa ta'ala, says: \\\"Allah will raise those who have believed among you and those who were given knowledge by degrees.\\\"\", ",
+            "\"The Quran says, 'And do not pursue that of which you have no knowledge.'\", ",
+            "\"The Prophet (pbuh) said, 'Seeking knowledge is obligatory upon every Muslim.'\", ",
+            "\"The Quran says, 'Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding.'\", ",
+            "  \"The Quran states, 'And do not pursue that of which you have no knowledge.'\", ",
+            "  \"The Prophet said, 'Seeking knowledge is obligatory upon every Muslim.'\", ",
+            "  \"The Quran states, 'Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding.'\", "
+        ],
+        "title": "Islamic Knowledge & Learning",
+        "summary": "This chunk combines a user tip for refreshing the topics list with Islamic teachings that highlight the obligatory and elevating nature of seeking knowledge.",
+        "chunk_index": 10
+    },
+    "455c2": {
+        "chunk_id": "455c2",
+        "propositions": [
+            "\"You can identify your most productive days and aim to improve.\", ",
+            "\"Don't waste.\", "
+        ],
+        "title": "Islamic Time Stewardship",
+        "summary": "This chunk offers guidance on using time wisely and avoiding waste, linking personal productivity to the Islamic principles of stewardship (amana) and ihsan.",
+        "chunk_index": 11
+    },
+    "cdfa7": {
+        "chunk_id": "cdfa7",
+        "propositions": [
+            "\"The features are available in the Profile section in the Al Quran app.\"]"
+        ],
+        "title": "Islamic App Navigation",
+        "summary": "This chunk outlines how to access features within the Profile section of the Al\u202fQur\u2019an app, illustrating user navigation in an Islamic digital resource.",
+        "chunk_index": 12
+    },
+    "6606a": {
+        "chunk_id": "6606a",
+        "propositions": [
+            "\"Tafsir Ibn Kathir uses the best way and method for interpreting the Quran.\", ",
+            "\"Tafsir Ibn Kathir is available in Arabic, Bangla, English, French, and Urdu.\", ",
+            "\"Tafsir As-Sa'di is a concise and accessible tafsir.\", ",
+            "\"Tafsir As-Sa'di is available in 7 languages.\", ",
+            "\"The app provides a collection of 7+ Arabic tafsirs, including Tafsir Tabari and Tafsir Baghawi.\", ",
+            "\"You can study and compare different tafsirs using the app.\", ",
+            "\"You can access tafsirs easily by clicking the tafsir icon below any ayah.\", ",
+            "\"You can access tafsirs using the three-dot menu and selecting \u201cTafsir/note view\u201d.\", ",
+            "\"The app provides a vast library of tafsirs and translations in various languages.\"]"
+        ],
+        "title": "Multilingual Quranic Tafsir Access",
+        "summary": "This chunk offers multilingual Quranic tafsir resources and app navigation tools for easy access, study, and comparison of scholarly exegesis.",
+        "chunk_index": 13
+    },
+    "5acef": {
+        "chunk_id": "5acef",
+        "propositions": [
+            "\"The tools make learning Arabic easier and more meaningful.\", ",
+            "\"E3rab explains the grammatical structure of each word in the Quran.\", ",
+            "\"E3rab helps understand how words fit into an ayah.\", ",
+            "\"E3rab helps see how grammar changes the meaning of ayahs.\", ",
+            "\"E3rab improves knowledge of Quranic Arabic grammar.\", ",
+            "\"Gharib helps build vocabulary for classical and modern Arabic.\", ",
+            "\"The Word Lemma and Root tool highlights the core meaning of words by studying their roots.\", ",
+            "\"Most Arabic words come from three or four letter roots.\", ",
+            "\"The Grammar details tool labels the grammar for each word.\", ",
+            "\"The Verb forms and conjugation tool helps learn verb forms.\", ",
+            "\"The Verb forms and conjugation tool helps understand how verbs change with tense and case.\", ",
+            "\"These tools make learning Quranic Arabic easier and more effective.\"]",
+            "\"The Arabic root \u201cS-L-M\u201d (\u0633\u0644\u0627\u0645) signifies peace, safety, and submission to God.\", "
+        ],
+        "title": "Qur'anic Arabic Study Tools",
+        "summary": "This chunk provides tools for mastering Quranic Arabic\u2014e\u02bfr\u0101b analysis, root\u2011lemma study, grammar labeling, and vocabulary resources\u2014to deepen Qur'anic understanding and welcomes additional educational aids.",
+        "chunk_index": 14
+    },
+    "20b6a": {
+        "chunk_id": "20b6a",
+        "propositions": [
+            "\"Any number of ayahs can be saved in each collection.\", ",
+            "\"Pins are simple bookmarks that save one ayah at a time.\", ",
+            "\"Pins are perfect for tracking recitation progress.\", ",
+            "\"Pins can be given a meaningful name.\", ",
+            "\"Pins can be updated with new ayahs as progress is made.\", ",
+            "\"Notes can be taken for any ayah.\", ",
+            "\"Notes are automatically organized by surah for easy access.\", ",
+            "\"Ayahs can be saved to collections or pins.\", ",
+            "\"Ayahs can be saved by tapping the bookmark icon or using the three dots menu.\", ",
+            "\"Notes can be added by opening the Tafsir reading view.\", ",
+            "\"Notes can be added by selecting 'Add Note'.\", ",
+            "\"Saved ayahs and notes can be accessed conveniently in the library.\", ",
+            "\"Collections or pins can be found easily by searching for their names.\", ",
+            "\"Notes are organized by surah under the Notes section.\", ",
+            "\"Collections, pins, and ayahs can be sorted in several ways.\", ",
+            "\"Sorting options include name, date, or custom order.\", ",
+            "\"Collections, pins, and ayahs can be edited or deleted.\", ",
+            "\"The Library section helps build a deeper connection with the Quran.\"]"
+        ],
+        "title": "Qur'an Organization & Reflection Tools",
+        "summary": "This chunk explains Islamic study tools\u2014collections, pins, and notes\u2014that let Muslims organize, bookmark, and reflect on Qur'anic ayahs to deepen their connection with the Quran.",
+        "chunk_index": 15
+    },
+    "56c78": {
+        "chunk_id": "56c78",
+        "propositions": [
+            "\"Library data can be kept safe by syncing it online.\", ",
+            "\"Library data can be exported as a backup or to share with others.\", "
+        ],
+        "title": "Islamic Knowledge Safeguarding",
+        "summary": "This chunk outlines ways to preserve library knowledge\u2014through online syncing and backup exports\u2014in line with the Islamic principle of protecting and safeguarding valuable information.",
+        "chunk_index": 16
+    },
+    "08e6f": {
+        "chunk_id": "08e6f",
+        "propositions": [
+            "\"The Uthmanic mushaf is a classic mushaf.\", ",
+            "\"The Madani mushaf is from the King Fahd Quran Complex (Hijri 1405).\", ",
+            "\"The Updated madani mushaf was published in Hijri 1440.\", ",
+            "\"The Shemerly Mushaf is popular in Egypt and a few other countries.\", ",
+            "\"The Naskh (Indopak) mushaf is popular in Bangladesh, India, Indonesia, and Pakistan.\", ",
+            "\"There are different riwayahs, including the Warsh mushaf.\", ",
+            "\"The Warsh mushaf is used by people in Maghreb, Western and Central Africa, and Western Europe.\", ",
+            "\"There are different riwayahs, including the Qaloon mushaf.\", ",
+            "\"The Qaloon mushaf is used by people in North African countries, including Libya, Tunisia, and some areas in Mauritania, Algeria.\", ",
+            "\"Users should choose a specific riwayah only if they understand it.\", ",
+            "\"To change the mushaf type, go to settings and select the mushaf type option.\", ",
+            "\"The app supports the Hafs riwayah in both Uthmanic and Indopak scripts in normal reading mode.\", ",
+            "\"The app supports the Warsh or Qaloon riwayah only in mushaf mode.\", ",
+            "[\"Reading the Quran with proper Tajweed is a key aspect of reciting beautifully and accurately.\", ",
+            "\"The Quran app makes it easier with Tajweed colour coding.\", ",
+            "\"Tajweed colour coding is a system where specific Tajweed rules are highlighted in different colours directly on the Quran text.\", ",
+            "\"Tajweed rules are highlighted in different colours directly on the Quran text to make it easy for readers to apply the rules in real time without needing to memorize them separately.\", ",
+            "\"The Quran app covers several Tajweed rules.\", ",
+            "\"Ghunna (nasalisation) is a Tajweed rule where any \u0646\u0651 or \u0645\u0651 will have a sound that emanates from the nose.\", ",
+            "\"Ikhfaa (lenition/hiding) is a Tajweed rule that highlights where the sound of a letter should be softened or partially hidden.\", ",
+            "\"Idgham (elision/merging) is a Tajweed rule that indicates where letters should merge smoothly during recitation.\", ",
+            "\"Idgham without Ghunnah is a Tajweed rule that marks merging without nasalization.\", ",
+            "\"Iqlab (assimilation/flipping) is a Tajweed rule that is marked to show where a letter changes sound when followed by a specific letter.\", ",
+            "\"Qalqala (echoing) is a Tajweed rule that is highlighted to guide where the echoing sound should be applied.\", ",
+            "\"Tajweed colour coding is perfect for beginners learning Tajweed.\", ",
+            "\"Tajweed colour coding ensures that you don't skip or misapply rules.\", ",
+            "\"Tajweed colour coding helps readers feel more assured while reciting aloud.\", ",
+            "\"The Quran app allows users to enable or disable colour-coded Tajweed.\", ",
+            "\"Users can enable colour-coded Tajweed in the Quran app by ticking the Tajweed checkbox in Quick settings.\", ",
+            "\"Users can disable colour-coded Tajweed in the Quran app by unticking the Tajweed checkbox in Quick settings.\"]"
+        ],
+        "title": "Quran Mushaf Editions & Tajweed Colour\u2011Coding",
+        "summary": "This chunk offers guidance on selecting Quranic mushaf editions and riwayahs and using Tajweed colour\u2011coding to ensure beautiful, proper recitation in line with Islamic teachings.",
+        "chunk_index": 17
+    },
+    "dd184": {
+        "chunk_id": "dd184",
+        "propositions": [
+            "[\"The Prophets greeted each other and shared meals.\", ",
+            "\"Sharing food with others is a kind gesture and a Sunnah.\", ",
+            "\"The Prophet Muhammad encouraged sharing food with family and friends.\", ",
+            "\"Ibn Umar quoted the Prophet Muhammad, sallallahu alayhe wa sallam, as saying: \\\"Let no person get up only to have another to sit in his place, but rather make room and enlarge your circle\\\".\", "
+        ],
+        "title": "Islamic Hospitality & Meal Sharing",
+        "summary": "This chunk covers the prophetic Sunnah of sharing meals and hospitality as acts of kindness, generosity, and brotherhood in Islam.",
+        "chunk_index": 18
+    },
+    "a314e": {
+        "chunk_id": "a314e",
+        "propositions": [
+            "[\"The Dhuhr prayer has a specific number of rakats.\", ",
+            "\"A rakat is a unit of prayer.\", ",
+            "\"Non-Arabic speakers need guidance on performing Dhuhr prayer correctly.\", ",
+            "\"The guidance for performing Dhuhr prayer is provided in a step-by-step manner.\", ",
+            "\"The Dhuhr prayer is performed in a specific way.\", ",
+            "\"There is a correct way to perform rakats in Dhuhr prayer.\"]"
+        ],
+        "title": "Dhuhr Prayer Guidance",
+        "summary": "This chunk provides guidance on the Islamic Dhuhr prayer, detailing its rak\u2018ah count and offering step\u2011by\u2011step instructions for correct performance, especially for non\u2011Arabic speakers.",
+        "chunk_index": 19
+    },
+    "26d85": {
+        "chunk_id": "26d85",
+        "propositions": [
+            "\"Tabarak Allah (Blessed be Allah) is a reaction to joyous news.\", "
+        ],
+        "title": "Islamic Praise (Tabarak\u202fAllah)",
+        "summary": "This chunk covers the Islamic expression of praise \u201cTabarak\u202fAllah\u201d and its appropriate use as a response to joyous or good news.",
+        "chunk_index": 20
+    },
+    "25542": {
+        "chunk_id": "25542",
+        "propositions": [
+            "\"Tawakkal-tu-Allah (I rely on Allah) / Tawakkaltu Alai Allah (We trust in Allah) is an expression of surrendering worries to Him.\", ",
+            "\"Hasbi Allah (Allah is sufficient for me) is an expression of seeking solace in hardship.\", ",
+            "\"La Hawla Wa La Quwwata Illa Billah (No power except by Allah) is an expression used to face adversity.\", ",
+            "\"When you have decided on a course of action, put your trust in God.\", ",
+            "\"God loves those who put their trust in Him.\", ",
+            "\"Ahmad cited the Prophet Muhammad, sallallahu alayhe wa sallam, as saying: \\\"...but rather make space, and Allah will make space for you.\\\"\", "
+        ],
+        "title": "Tawakkul \u2013 Trust in Allah",
+        "summary": "This chunk presents Islamic expressions of tawakkul, showing how trust and reliance on Allah guide believers through hardship and decision\u2011making.",
+        "chunk_index": 21
+    },
+    "2b0ab": {
+        "chunk_id": "2b0ab",
+        "propositions": [
+            "\"Astaghfirullah (I seek Allah's forgiveness) is an expression of repenting sincerely.\", ",
+            "\"So pardon them and ask forgiveness for them.\", ",
+            "\"Forgive others, as you would like Allah to forgive you.\", "
+        ],
+        "title": "Islamic Repentance & Forgiveness",
+        "summary": "This chunk covers Islamic repentance and forgiveness, highlighting sincere use of Astaghfirullah and the importance of seeking and granting forgiveness.",
+        "chunk_index": 22
+    },
+    "9df13": {
+        "chunk_id": "9df13",
+        "propositions": [
+            "\"Rahmah Allah (May Allah have mercy on him/her) is an expression used for those in distress.\", ",
+            "\"Rahimakallahu means \u201cMay Allah have mercy on you,\u201d this phrase is often used when speaking about someone who has passed away.\"]"
+        ],
+        "title": "Islamic Mercy Invocations",
+        "summary": "This chunk covers Islamic expressions of mercy\u2014Rahmah\u202fAllah and Rahimakallahu\u2014used to invoke Allah\u2019s compassion for those in distress and for the deceased.",
+        "chunk_index": 23
+    },
+    "5d48e": {
+        "chunk_id": "5d48e",
+        "propositions": [
+            "\"Na'uzhu-bi-Allah (We seek refuge in Allah) is an expression used to reject harm or evil.\", ",
+            "\"Allah yahmeek means \u201cMay Allah protect you.\u201d\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"Shall I give you an account of these three? The first took refuge with Allah. As for the second, he felt shy and sat behind the people. The third turned away, so Allah turned away from him.\\\"\", "
+        ],
+        "title": "Islamic Protective Dhikr",
+        "summary": "This chunk presents Islamic protective dhikr and prayers, highlighting \u201cNa\u02bf\u016bdh\u016b bi\u2011All\u0101h,\u201d \u201cAllah yahmeek,\u201d and a prophetic teaching on the importance of seeking Allah\u2019s refuge.",
+        "chunk_index": 24
+    },
+    "4a7f2": {
+        "chunk_id": "4a7f2",
+        "propositions": [
+            "\"Salallahu Alaihi Wasallam (S.A.W.) is invoked after Prophet Muhammad's name.\", "
+        ],
+        "title": "Islamic Etiquette of Salawat",
+        "summary": "This chunk covers the Islamic etiquette of invoking blessings (Salawat) after mentioning the name of Prophet\u202fMuhammad (peace be upon him).",
+        "chunk_index": 25
+    },
+    "41721": {
+        "chunk_id": "41721",
+        "propositions": [
+            "\"Alaihis Salam (A.S.) is used for other prophets.\", ",
+            "\"Don't call the Prophet how you call others'.\", ",
+            "\"Don't call the Prophet from outside his rooms.\", ",
+            "\"Don't raise your voice above that of the Prophet's.\", ",
+            "\"Seek Prophet's permission when leaving his gathering.\", ",
+            "\"Don't remain in the Prophet's home unnecessarily after a meal.\", ",
+            "\"A man came to the Prophet (Salallahu Alayhi Wasallam) and said, 'Assalamu Alikum.'\", "
+        ],
+        "title": "Prophetic Respect & Etiquette",
+        "summary": "This chunk covers Islamic etiquette for honoring the Prophet (peace be upon him), detailing proper honorifics, respectful speech, and appropriate conduct in his presence.",
+        "chunk_index": 26
+    },
+    "da0c4": {
+        "chunk_id": "da0c4",
+        "propositions": [
+            "\"Radi Allah Anhu/Anha/Anhum (R.A.) is used to honor male/female companions of the Prophet.\", "
+        ],
+        "title": "Islamic Honorifics for Companions",
+        "summary": "This chunk covers Islamic honorifics (Radi\u202fAll\u0101hu\u202fanh\u016b/anh\u0101/anhum) used to respectfully refer to the Prophet\u2019s male and female companions.",
+        "chunk_index": 27
+    },
+    "b6c89": {
+        "chunk_id": "b6c89",
+        "propositions": [
+            "\"Inna Lillahi Wa Inna Ilayhi Raji'oon (To Allah we belong and return) is an expression used to mourn a loss.\", "
+        ],
+        "title": "Islamic Mourning & Condolences",
+        "summary": "This chunk covers Islamic expressions of grief, explaining the meaning and use of \u201cInna Lillahi\u202fWa\u202fInna\u202fIlayhi\u202fRaji\u02bfoon\u201d when mourning a loss.",
+        "chunk_index": 28
+    },
+    "2bb7c": {
+        "chunk_id": "2bb7c",
+        "propositions": [
+            "\"Fi Amanullah (May Allah protect you) is a heartfelt farewell.\", "
+        ],
+        "title": "Islamic Farewell Blessings",
+        "summary": "This chunk covers Islamic farewell expressions, highlighting the phrase \u201cFi\u202fAmanullah\u201d as a heartfelt wish for Allah\u2019s protection.",
+        "chunk_index": 29
+    },
+    "7df28": {
+        "chunk_id": "7df28",
+        "propositions": [
+            "\"Atqaa Allah (Fear Allah) is an advice against wrongdoing.\", ",
+            "[\"However, this is not an excuse for those who step outside the boundaries.\", ",
+            "\"Those who step outside the boundaries become carried away.\", ",
+            "\"Human nature desires a society based on morals and manners which provides a stable and secure life leading to liberty and happiness for all people.\", ",
+            "\"Had you been harsh, or hard-hearted, they would have dispersed and left you.\", ",
+            "\"Don't lie.\", ",
+            "\"Don't spy.\", ",
+            "\"Keep your oaths.\", ",
+            "\"Don't take bribes.\", ",
+            "\"Honour your treaties.\", ",
+            "\"Don't spread gossip.\", ",
+            "\"Think good of others.\", ",
+            "\"Don't harm believers.\", ",
+            "\"Turn away from ill speech.\", ",
+            "\"Don't say what you don't do.\", ",
+            "\"Keep your trusts & promises.\", ",
+            "\"Don't deceive people in trade.\", ",
+            "\"Don't take items without right.\", ",
+            "\"Don't let hatred cause you to be unjust.\", ",
+            "\"Be just, even against yourself & relatives.\", ",
+            "\"Oppression/corruption is worse than killing.\", ",
+            "\"Don't accuse others of immorality without proof.\", ",
+            "\"Don't call someone a disbeliever without knowing.\", ",
+            "\"Don't wrongly consume the wealth of the vulnerable.\", ",
+            "\"Don't hold secret meetings for sin, rather do so for piety.\", ",
+            "\"Don't order others to do good while forgetting it yourself.\", ",
+            "\"Verify information from a dubious source before acting upon it.\", ",
+            "\"Someone did a good deed.\", ",
+            "\"Someone possesses good characteristics.\"]",
+            "\"A man asked the prophet (Salallahu Alayhi Wasallam) 'what in Islam is the best?'\", ",
+            "\"The Prophet said, 'Ten rewards.'\", ",
+            "\"Muslims are encouraged to extend kindness and good will to all people.\", ",
+            "\"The Prophet (pbuh) said, 'Truthfulness leads to righteousness, and righteousness leads to Paradise.'\", ",
+            "\"The Prophet (pbuh) said, 'Leave that which makes you doubt for that which does not make you doubt, for truthfulness is certainty and tranquility, while lying is doubt and confusion.'\", ",
+            "\"The Prophet (pbuh) said, 'Truthfulness leads to righteousness, and righteousness leads to Paradise. Falsehood leads to wickedness, and wickedness leads to Hell.'\", ",
+            "\"The Prophet (pbuh) said, 'Do you know what backbiting is?'\", ",
+            "\"The Quran says, 'And those who are patient, seeking the countenance of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - those will have the good consequence of [this] home.'\", ",
+            "\"The Quran says, 'And cooperate in righteousness and piety, but do not cooperate in sin and aggression.'\", ",
+            "\"The Prophet (pbuh) said, 'Indeed, those who are just will be in the presence of Allah upon pulpits of light.'\", ",
+            "  \"The Quran states, 'O you who have believed, fear Allah and be with those who are true.'\", ",
+            "  \"The Quran states, 'And those who are patient, seeking the countenance of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - those will have the good consequence of [this] home.'\", ",
+            "  \"The Quran states, 'And cooperate in righteousness and piety, but do not cooperate in sin and aggression.'\", ",
+            "  \"The Prophet said, 'Indeed, those who are just will be in the presence of Allah upon pulpits of light.'\", "
+        ],
+        "title": "Islamic Ethics & Virtues",
+        "summary": "This chunk outlines Islamic ethical teachings, emphasizing taqwa, truthfulness, justice, kindness, and upright conduct.",
+        "chunk_index": 30
+    },
+    "6ce50": {
+        "chunk_id": "6ce50",
+        "propositions": [
+            "\"Allahu Yahdika (May Allah guide you) is a correction.\", "
+        ],
+        "title": "Islamic Etiquette of Gentle Correction",
+        "summary": "This chunk discusses the Islamic etiquette of giving correction by invoking Allah\u2019s guidance, exemplified by the phrase \u201cAllahu\u202fYahdika (May\u202fAllah\u202fguide\u202fyou).\u201d",
+        "chunk_index": 31
+    },
+    "ed564": {
+        "chunk_id": "ed564",
+        "propositions": [
+            "\"Allah A'lam (Allah knows best) is an acknowledgment of human limitation.\", ",
+            "\"Don't exult.\", ",
+            "\"Walk in a humble manner.\", ",
+            "\"Don't claim yourselves to be pure.\", ",
+            "\"Don't remind others of your favours.\", ",
+            "\"Don't turn your cheek away from people in arrogance.\", ",
+            "\"The Prophet (pbuh) said, 'Whoever humbles himself for the sake of Allah, Allah will exalt him.'\", ",
+            "  \"The Prophet said, 'Whoever humbles himself for the sake of Allah, Allah will exalt him.'\", "
+        ],
+        "title": "Islamic Humility & Modesty",
+        "summary": "This chunk covers Islamic humility, urging modest conduct, avoidance of arrogance, and reliance on Allah\u2019s knowledge.",
+        "chunk_index": 32
+    },
+    "dfc49": {
+        "chunk_id": "dfc49",
+        "propositions": [
+            "\"Azhak Allah Sinnaka (May Allah keep you cheerful) is an encouragement of positivity.\", ",
+            "\"Barakallahu feek means \u201cMay Allah bless you.\u201d\", ",
+            "\"Barakallahu feek is used in a variety of situations, from offering thanks to praising someone's efforts.\", ",
+            "\"Mashallah means \u201cWhat Allah has willed,\u201d it's often said to express admiration or gratitude without invoking jealousy.\", ",
+            "\"Jazakallahu khairan means \u201cMay Allah reward you with goodness,\u201d it's often said when someone does a kind act.\", ",
+            "\"The Prophet (pbuh) said, 'He who does not thank people, does not thank Allah.'\", ",
+            "\"The Quran says, 'If you are grateful, I will surely increase you [in favor].'\", ",
+            "  \"The Prophet said, 'He who does not thank people, does not thank Allah.'\", ",
+            "  \"The Quran states, 'If you are grateful, I will surely increase you [in favor].'\", "
+        ],
+        "title": "Islamic Gratitude & Blessings",
+        "summary": "This chunk presents Islamic expressions of gratitude, blessings, and positivity, emphasizing thankfulness to Allah and to others as taught in the Qur\u2019an and Sunnah.",
+        "chunk_index": 33
+    },
+    "25f20": {
+        "chunk_id": "25f20",
+        "propositions": [
+            "\"Yaa Allah (O Allah) is a call upon Him in pain or joy.\", ",
+            "\"Aameen (May it be so) is a conclusion of duas.\", "
+        ],
+        "title": "Islamic Du\u02bf\u0101\u202fPractices (Yaa\u202fAllah & Ameen)",
+        "summary": "This chunk outlines Islamic supplication practices, highlighting the invocation \u201cYaa\u202fAllah\u201d in hardship or joy and the concluding affirmation \u201cAameen.\u201d",
+        "chunk_index": 34
+    },
+    "5fd8f": {
+        "chunk_id": "5fd8f",
+        "propositions": [
+            "\"It's especially used in Muslim-majority countries.\", ",
+            "[\"Arabic is spoken in many parts of the world.\", \"Many people are deciding to learn Arabic.\", \"Arabic is considered one of the fastest-growing languages in the world.\", \"25 countries have Arabic as an official or spoken language.\", \"Learning Arabic can be useful for work, travel, and social opportunities.\", \"Learning basic Arabic greetings and farewells is a good way to begin learning Arabic.\", \"In Arabic, 'hello' can be expressed as 'As-salamu alaikum' or 'Marhaba'.\", \"As-salamu alaikum means 'peace be upon you'.\", \"Marhaba is a commonly used greeting across Arabic-speaking regions.\", \"As-salamu alaikum is an Islamic greeting.\", \"Not all Arabic speakers are Muslims.\", \"Ahlan is a non-religious way to greet someone in Arabic.\", \"Greetings in Arabic change depending on the time of day.\", \"Saying 'good morning' in Arabic is 'sabah al kheir'.\", \"Kheir means 'goodness'.\", \"The literal translation of 'sabah al kheir' is 'morning of goodness'.\", \"The response to 'sabah al kheir' is to change 'goodness' to an equally positive word.\", \"There are both religious and non-religious ways to greet and respond to others in Arabic.\", \"Saying hello is often followed by the question 'how are you?'.\", \"There are several ways to say 'how are you?' in Arabic depending on who you are speaking to.\", \"Shukran means 'thank you'.\", \"Afwan means 'you're welcome'.\", \"Min eyooni means 'from my eyes'.\", \"Samahni is a formal way of saying 'forgive me'.\", \"Asif means 'sorry'.\", \"Al-afuw means 'forgiveness'.\", \"Hasal kheir means 'no worries'.\", \"Ma huwa ismuk means 'what's your name?'.\", \"Shu ismuk is an informal way of saying 'what's your name?'.\", \"Ana... [name] means 'my name is...'.\", \"Min aina ant means 'where are you from?'.\", \"Inta min ween is an informal way of saying 'where are you from?'.\", \"Ana min... means 'I am from...'.\", \"Hel tatakalum lugha ukhra means 'do you speak another language?'.\", \"Lo samaht, ain al hamam means 'pardon me, where is the restroom?'.\", \"Bikam hatha means 'how much is this?'.\", \"Fi aman illa Allah ma'ik is a religious way of saying goodbye.\", \"Ma'assalama is a non-religious way of saying goodbye.\", \"Tisbah 'ala kheir means 'goodnight'.\", \"Arabic places a lot of importance on etiquette and politeness.\", \"It is customary to stand up when someone enters the room.\", \"It is customary to wait until the host is sitting at the table and invites everyone to start eating.\", \"Referring to elders in Arabic is important.\", \"Hadartik is a formal pronoun used to address elders or strangers.\"]",
+            "[\"The Muslim greeting \u201cAs-salamu alaykum\u201d means \u201cPeace be upon you\u201d.\", ",
+            "\"The Muslim greeting \u201cAs-salamu alaykum\u201d is a profound act of worship.\", ",
+            "\"The Muslim greeting \u201cAs-salamu alaykum\u201d is a reminder of faith.\", ",
+            "\"The Muslim greeting \u201cAs-salamu alaykum\u201d is a means of strengthening bonds among Muslims.\", ",
+            "\"The Muslim greeting \u201cAs-salamu alaykum\u201d is rooted in the teachings of the Quran.\", ",
+            "\"The Muslim greeting \u201cAs-salamu alaykum\u201d is rooted in the teachings of the Sunnah.\", ",
+            "\"The complete version of the greeting is \u201cAs-salamu alaykum wa rahmatullahi wa barakatuh\u201d.\", ",
+            "\"The phrase \u201cAs-salamu alaykum wa rahmatullahi wa barakatuh\u201d translates to \u201cPeace be upon you, and the mercy of Allah, and His blessings\u201d.\", ",
+            "\"The Prophet Muhammad placed great emphasis on the practice of exchanging greetings.\", ",
+            "\"Greeting others with Salam is a Sunnah of the Prophet Muhammad.\", ",
+            "\"Greeting others with Salam is rewarded by Allah.\", ",
+            "\"The Prophet Muhammad said, \u201cThe one who is first to greet with Salam is free from pride.\u201d\", ",
+            "\"Responding to Salam is obligatory.\", ",
+            "\"Muslims are encouraged to initiate the greeting whenever they meet others.\", ",
+            "\"The Prophet Muhammad said, \u201cThe one riding should greet the one walking, the one walking should greet the one sitting, and a smaller group should greet a larger group.\u201d\", ",
+            "\"When greeted, it is obligatory to respond with an equal or better greeting.\", ",
+            "\"Allah commands in the Quran, \u201cAnd when you are greeted with a greeting, greet in return with one better than it or at least return it.\u201d\", ",
+            "\"The greeting of Salam serves as a daily reminder of Islam's core values\u2014peace, love, and unity.\", ",
+            "\"The greeting of Salam fosters unity among Muslims.\", ",
+            "\"The greeting of Salam promotes peace among Muslims.\", ",
+            "\"The greeting of Salam strengthens bonds among Muslims.\", ",
+            "\"Leading by example is a way to make Salam a consistent part of life.\", ",
+            "\"Teaching children to practice Salam from an early age is important.\", ",
+            "\"Spreading Salam in the community creates a welcoming atmosphere.\"]",
+            "[\"Just as the face is the index to the mind, in the same way the words of greetings which are exchanged amongst people indicate the spiritual role of a society.\", \"The gestures, and the expressions of salutations are, therefore, the indicators of the ideals for which a particular society stands.\", \"The common practice with the pre-Islamic Arabs and the modern West is to greet one another with Good Morning and Good Evening accompanied by a gesture of the hand or the nodding of head.\", \"These words have no spiritual and moral significance, but just a wish that one should find one's mornings and evenings happy.\", \"The words of greeting which Islam has exhorted its followers to use at the time of meeting are as-Salam-u-'Alaikum.\", \"The words as-Salam-u-'Alaikum have a deep spiritual and moral significance behind them.\", \"The predominant feature of Islamic faith and practice is peace within and peace without.\", \"Peace within and peace without has been made a watchword which should be repeated on every occasion when two Muslims meet.\", \"The words as-Salam-u-'Alaikum convey the message of peace not only to the person who is greeted but to the whole of the Muslim society.\", \"The Muslims have been commanded to add to this expression some other words with a view to excelling one another in showering blessing upon the Muslims.\", \"The words as-Salam-u-'Alaikum are generally suffixed with these words Rahmat Allah wa Barakaatuh (mercy of Allah and His blessings).\", \"These three words: \\\"peace... ,mercy\\\" and \\\"blessings of Allah\\\" in fact form the sum and substance of Islam.\", \"The Muslims are asked to shower upon one another these benedictions.\", \"Greeting with the words of as-Salam-u-'Alaikum is a Sunnah.\", \"Responding to it is Wajib (obligatory).\", \"This essentiality is of the nature of Kifaya.\", \"If a few persons out of the whole assembly or group respond to the greeting it will absolve all of the responsibility of response.\", \"If no response comes forth from any quarter all are held responsible for it.\", \"Abu Huraira reported Allah's Messenger (may peace be upon him) as saying: The rider should first greet the pedestrian, and the pedestrian the one who is seated and a small group should greet a larger group (with as-Salam-u-'Alaikum).\", \"Abu Talha reported: While We were sitting in front of the houses and talking amongst ourselves, Allah's Messenger (may peace be upon him) happened to come there.\", \"He stood by us and said: What about you and your meetings on the paths?\", \"Avoid these meetings on the paths.\", \"We said: We were sitting here without (any intention of doing harm to the passers-by) ; we are sitting to discuss matters and to hold conversation amongst ourselves.\", \"Thereupon he said: If there is no help (for you but to sit on these paths), then give the paths their rights and these are lowering of the gaze, exchanging of greetings and good conversation.\", \"Abu Sa'id Khudri reported Allah's Apostle (may peace be upon him) as saying : Avoid sitting on the paths.\", \"They (the Companions) said: Allah's Messenger, we cannot help but holding our meetings (in these paths) and discuss matters (there).\", \"Thereupon Allah's Messenger (may peace be upon him) said: If you insist on holding meetings, then give the path its due right.\", \"They said: What are its due rights ?\", \"Upon this he said: Lowering the gaze, refraining from doing harm, exchanging of greetings. commanding of good and forbidding from evil.\", \"Abu Huraira reported Allah's Messenger (may peace be upon him) as saying: Five are the rights of a Muslim over his brother: responding to salutation, saying Yarhamuk Allah when anybody sneezes and says al-Hamdulillah, visiting the sick. following the bier.'\", \"Abd al-Razzaq said that this hadith has been transmitted as mursal hadith from Zuhri and he then substantiated it on the authority of Ibn Musayyib.\", \"Abu Huraira reported Allah's Messenger (may peace be upon him) as saying: Six are the rights of a Muslim over another Muslim.\", \"When you meet him, offer him greetings;\", \"When he invites you to a feast accept it.\", \"When he seeks your council give him,\", \"When he sneezes and says: \\\"All praise is due to Allah,\\\" you say Yarhamuk Allah (may Allah show mercy to you);\", \"When he fails ill visit him;\", \"When he dies follow his bier.\", \"Anas b. Malik reported Allah's Messenger (may peace be upon him) as saying: When the People of the Book offer you salutations, you should say: The same to you.\", \"Anas reported that the Companions of Allah's Apostle (may peace be upon him) said to him: The People.of the Book offer us salutations (by saying as-Salamu- 'Alaikum). How should we reciprocate them ?\", \"Thereupon he said: Say: Wa 'Alaikum (and upon you too).\", \"Ibn 'Umar reported Allah's Messenger (may peace be upon him) as saying: When the Jews offer you salutations, some of them say as-Sam-u-'Alaikum (death be upon you).\", \"You should say (in response to it): Let it be upon you.\", \"'A'isha reported that a group of Jews came to Allah's Messenger (may peace be upon him) and sought his audience and said: As-Sam-u-'Alaikum.\", \"'A'isha said in response: As-Sim-u-'Alaikum (death be upon you) and curse also.\", \"Allah's Messenger (may peace be upon him) said : 'A'isha, verily Allah loves kindness in every matter.\", \"Did you not hear that I said (to them): Wa 'Alaikum.\", \"'A'isha reported that some Jews came to Allah's Apostle (may peace be upon him) and they said: Abu'l-Qasim (the Kunya of the Holy Prophet), as-Sam-u-'Alaikum, whereupon he (the Holy Prophet) said: Wa 'Alaikum.\"]",
+            "[\"The Prophet (pbuh) said, 'When you meet one another, greet with a greeting from Allah, blessed and good.'\", ",
+            "\"Allah is the one who is being referred to in the greeting.\", ",
+            "\"The Quran says, 'And when you are greeted with a greeting, greet in return with what is better than it or at least return it equally.'\", ",
+            "  \"The Prophet said, 'When you meet one another, greet with a greeting from Allah, blessed and good.'\", ",
+            "  \"The Quran states, 'And when you are greeted with a greeting, greet in return with what is better than it or at least return it equally.'\", "
+        ],
+        "title": "Islamic Greetings & Arabic Etiquette",
+        "summary": "This chunk covers Arabic greetings and etiquette, emphasizing the Islamic greeting As\u2011salaamu\u202falaykum and its Qur'anic and prophetic teachings on peace, unity, and courteous conduct.",
+        "chunk_index": 35
+    },
+    "a2221": {
+        "chunk_id": "a2221",
+        "propositions": [
+            "\"Their Islamic identity is completely lost.\", ",
+            "\"It becomes difficult for those whose Islamic identity is completely lost.\"]"
+        ],
+        "title": "Reviving Islamic Identity",
+        "summary": "This chunk examines the challenges of a lost Islamic identity and emphasizes the need to revive and uphold Islamic values and practices.",
+        "chunk_index": 36
+    },
+    "cc83a": {
+        "chunk_id": "cc83a",
+        "propositions": [
+            "\"Muslims believe Prophet Muhammad had a character.\", ",
+            "\"Prophet Muhammad had a character as a model for all humanity to follow.\", ",
+            "\"The Quran describes the Prophet Muhammad.\", ",
+            "\"By an act of mercy from God, you O' Prophet were gentle in your dealings with them.\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, was beloved by his Companions (Sahabah).\", ",
+            "[\"Umm Saad highlights the noble mannerism and grace portrayed by Allah's Messenger (sa) in times when ignorance and indecency was rife.\", ",
+            "\"Allah (swt) states in the holy Quran that in the Messenger of Allah (swt) Muhammad (sa) you have a good example to follow.\", ",
+            "\"The Prophet (sa) is the best role model for every Muslim.\", ",
+            "\"The Prophet (sa) has provided numerous examples in every aspect of human behaviour.\", "
+        ],
+        "title": "Prophet Muhammad: Moral Example",
+        "summary": "This chunk presents the Prophet\u202fMuhammad\u2019s exemplary character as the supreme moral example prescribed by Islamic teachings for Muslims and all humanity.",
+        "chunk_index": 37
+    },
+    "5d481": {
+        "chunk_id": "5d481",
+        "propositions": [
+            "\"Consult with them about matters.\", ",
+            "\"Be lenient to those under you, and consult them in matters.\", ",
+            "  \"The Quran states, 'So by mercy from Allah, [O Muhammad], you were lenient with them.'\", "
+        ],
+        "title": "Shura \u2013 Islamic Consultation & Leniency",
+        "summary": "This chunk discusses the Islamic principle of\u202fshura\u202f(consultation) and the importance of leniency toward those under one\u2019s authority.",
+        "chunk_index": 38
+    },
+    "77d99": {
+        "chunk_id": "77d99",
+        "propositions": [
+            "\"Restrain your anger.\", ",
+            "\"Respond to evil with good.\", ",
+            "\"If enemy wants peace, then accept it.\", ",
+            "\"Make peace between fighting groups.\", ",
+            "\"Try to make peace between husband & wife.\", ",
+            "\"Know your enemies can become your close friends.\", ",
+            "\"Divorce in an amicable manner instead of keeping & harming your wife.\", ",
+            "\"Punish in an equivalent manner to how you were harmed or be patient.\", ",
+            "\"The Quran says, 'And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace.'\", ",
+            "\"The Prophet (pbuh) said, 'No one is given a gift better and more comprehensive than patience.'\", ",
+            "\"The Quran says, 'O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.'\", ",
+            "\"The Prophet (pbuh) said, 'The believer who associates with people and bears their annoyance with patience will have a greater reward than the believer who does not associate with people and does not put up with their annoyance.'\", ",
+            "\"The Prophet (pbuh) said, 'No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that.'\", ",
+            "\"The Quran says, 'And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient.'\", ",
+            "\"The Prophet (pbuh) said, 'The merciful are shown mercy by The Merciful. Be merciful on the earth, and you will be shown mercy from above.'\", ",
+            "\"The Quran says, 'So by mercy from Allah, [O Muhammad], you were lenient with them.'\", ",
+            "  \"The Quran states, 'And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace.'\", ",
+            "  \"The Prophet said, 'No one is given a gift better and more comprehensive than patience.'\", ",
+            "  \"The Quran states, 'O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.'\", ",
+            "  \"The Prophet said, 'The believer who associates with people and bears their annoyance with patience will have a greater reward than the believer who does not associate with people and does not put up with their annoyance.'\", ",
+            "  \"The Prophet said, 'No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that.'\", ",
+            "  \"The Quran states, 'And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient.'\", ",
+            "  \"The Prophet said, 'He who does not show mercy to people, Allah will not show mercy to him.'\", ",
+            "  \"The Prophet said, 'The merciful are shown mercy by The Merciful. Be merciful on the earth, and you will be shown mercy from above.'\", "
+        ],
+        "title": "Islamic Patience, Mercy & Reconciliation",
+        "summary": "This chunk presents Islamic teachings on patience, mercy, and peacemaking, highlighting Quranic verses and prophetic guidance for restraining anger, responding with goodness, and fostering reconciliation.",
+        "chunk_index": 39
+    },
+    "712b2": {
+        "chunk_id": "712b2",
+        "propositions": [
+            "\"If required to ask the Prophet's wives, then do so from behind a screen.\", ",
+            "\"When sitting with others, Muslims should be both modest and attentive in the way they sit.\", ",
+            "\"One should not sit with one's back to other people.\", ",
+            "\"In a gathering, a Muslim should sit wherever he finds space.\", ",
+            "\"The Messenger of Allah (sa) said that none of you should make another get up, then sit in his place.\", "
+        ],
+        "title": "Modest Seating & Interaction in Islam",
+        "summary": "This chunk outlines Islamic etiquette for modest and respectful seating behavior in gatherings, emphasizing modesty, attentiveness, and proper conduct when inquiring about the Prophet\u2019s wives.",
+        "chunk_index": 40
+    },
+    "26f8a": {
+        "chunk_id": "26f8a",
+        "propositions": [
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, is a religious leader.\", ",
+            "\"The Prophet (pbuh) is the messenger of Allah.\", "
+        ],
+        "title": "Prophethood in Islam",
+        "summary": "This chunk covers the Islamic concept of prophethood, emphasizing Prophet\u202fMuhammad\u202f(sallall\u0101hu\u202falayhi\u202fwa\u202fsallam) as Allah\u2019s messenger and the supreme religious leader.",
+        "chunk_index": 41
+    },
+    "34237": {
+        "chunk_id": "34237",
+        "propositions": [
+            "\"Allah, subhanahu wa ta'ala, says: \\\"And when you are told: 'Arise!' then arise.\\\"\", ",
+            "\"Allah, subhanahu wa ta'ala, says: \\\"And when you are told, 'Arise,' then arise.\\\"\", "
+        ],
+        "title": "Prompt Obedience to Allah",
+        "summary": "This chunk covers the Islamic principle of promptly obeying Allah\u2019s command to arise, emphasizing diligence and responsive obedience.",
+        "chunk_index": 42
+    },
+    "fad5c": {
+        "chunk_id": "fad5c",
+        "propositions": [
+            "\"Allah, subhanahu wa ta'ala, is acquainted with what people do.\", "
+        ],
+        "title": "Divine Omniscience (Allah\u2019s All\u2011Knowing)",
+        "summary": "This chunk covers the Islamic principle of Allah\u2019s omniscience, emphasizing that He is fully aware of all human actions.",
+        "chunk_index": 43
+    },
+    "204f4": {
+        "chunk_id": "204f4",
+        "propositions": [
+            "\"The Qur'an holds divine instructions and rules of social conduct.\", ",
+            "\"The Quran says, 'And do not mix the truth with falsehood or conceal the truth while you know [it].'\", ",
+            "\"The Quran says, 'O you who have believed, fear Allah and be with those who are true.'\", ",
+            "\"The Prophet (pbuh) said, 'The signs of a hypocrite are three: Whenever he speaks, he tells a lie; whenever he promises, he breaks it; and whenever he is entrusted, he betrays his trust.'\", ",
+            "\"The Quran says, 'O you who have believed, fulfill [all] contracts.'\", ",
+            "\"The Prophet (pbuh) said, 'Give the worker his wages before his sweat dries.'\", ",
+            "\"The Quran says, 'O you who have believed, fulfill [all] contracts.'\", ",
+            "\"The Quran says, 'Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice.'\", ",
+            "  \"The Prophet said, 'Truthfulness leads to righteousness, and righteousness leads to Paradise.'\", ",
+            "  \"The Prophet said, 'Leave that which makes you doubt for that which does not make you doubt, for truthfulness is certainty and tranquility, while lying is doubt and confusion.'\", ",
+            "  \"The Prophet said, 'Truthfulness leads to righteousness, and righteousness leads to Paradise. Falsehood leads to wickedness, and wickedness leads to Hell.'\", ",
+            "  \"The Quran states, 'And do not mix the truth with falsehood or conceal the truth while you know [it].'\", ",
+            "  \"The Prophet said, 'The signs of a hypocrite are three: Whenever he speaks, he tells a lie; whenever he promises, he breaks it; and whenever he is entrusted, he betrays his trust.'\", ",
+            "  \"The Quran states, 'O you who have believed, fulfill [all] contracts.'\", ",
+            "  \"The Prophet said, 'Give the worker his wages before his sweat dries.'\", ",
+            "  \"The Quran states, 'O you who have believed, fulfill [all] contracts.'\", ",
+            "  \"The Quran states, 'Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice.'\", "
+        ],
+        "title": "Islamic Ethics of Truthfulness & Justice",
+        "summary": "This chunk covers Islamic ethics of truthfulness, honesty, trustworthiness, and justice as taught in the Qur'an and Hadith.",
+        "chunk_index": 44
+    },
+    "81ad2": {
+        "chunk_id": "81ad2",
+        "propositions": [
+            "\"Richard Sermon is not mentioned in the text, however,  Qatadah was a great Successor (Tabi'ee).\", ",
+            "\"Qatadah said that the verse was revealed concerning assemblies of learning and discussion.\", "
+        ],
+        "title": "Qatadah & Qur'anic Learning Assemblies",
+        "summary": "This chunk focuses on the Islamic figure Qatadah as a distinguished Tabi\u2018ee and underscores the Qur'anic emphasis on assemblies of learning and discussion.",
+        "chunk_index": 45
+    },
+    "63126": {
+        "chunk_id": "63126",
+        "propositions": [
+            "\"The Companions sought to sit as close to the Prophet Muhammad, sallallahu alayhe wa sallam, as possible.\", ",
+            "\"Jabir Ibn Samurah said: \\\"When we joined the Prophet, sallallahu alayhe wa sallam, we used to sit where the end was\\\".\", "
+        ],
+        "title": "Prophetic Proximity",
+        "summary": "This chunk highlights the Islamic virtue of seeking closeness to the Prophet\u202f(sallallahu\u202falayhi\u202fwa\u202fsallam) as demonstrated by the companions\u2019 reverence.",
+        "chunk_index": 46
+    },
+    "c1db7": {
+        "chunk_id": "c1db7",
+        "propositions": [
+            "\"It is not lawful for any man to separate two people without their permission.\", ",
+            "[\"You must ask permission to enter a house if it is not your house.\", ",
+            "\"Asking permission could result in harm.\", ",
+            "\"Asking for permission will cause someone to lose their right.\", ",
+            "\"Allah (swt) commands that you should not enter houses other than your own, until you have asked permission and saluted those in them.\", ",
+            "\"The Prophet (sa) would stand to the right or to the left, and if he was given permission, he would enter; otherwise, he would leave.\", ",
+            "\"The Prophet (sa) taught his companions to adopt these etiquettes, when joining a gathering.\", "
+        ],
+        "title": "Islamic Permission Etiquette",
+        "summary": "This chunk outlines the Islamic etiquette of obtaining permission before entering a home or separating individuals, emphasizing respect for personal boundaries and rights.",
+        "chunk_index": 47
+    },
+    "af534": {
+        "chunk_id": "af534",
+        "propositions": [
+            "\"A person who sits in a place first is more entitled to it.\", "
+        ],
+        "title": "Islamic Fairness & First Claim",
+        "summary": "This chunk addresses the Islamic principle of fairness and priority, stating that the first person to occupy a place holds a stronger claim to it.",
+        "chunk_index": 48
+    },
+    "8dfdc": {
+        "chunk_id": "8dfdc",
+        "propositions": [
+            "\"A house is your house.\", ",
+            "\"No one else is living in the house.\", ",
+            "\"You may enter a house without asking anyone for permission if it is your house and no one else is living in it.\", "
+        ],
+        "title": "Islamic Property Rights",
+        "summary": "This chunk discusses Islamic principles of lawful ownership and exclusive occupancy of one\u2019s home, permitting entry without permission when the house belongs solely to the owner.",
+        "chunk_index": 49
+    },
+    "f53ec": {
+        "chunk_id": "f53ec",
+        "propositions": [
+            "\"Seeking permission to enter someone's house is waived.\", ",
+            "\"The Prophet (sa) said that whoever looks into someone's house without his permission, then it is permissible for the people of the house to take his eyes out.\", "
+        ],
+        "title": "Islamic Privacy & Home Etiquette",
+        "summary": "This chunk discusses Islamic etiquette on privacy, emphasizing the need to seek permission before entering someone\u2019s home.",
+        "chunk_index": 50
+    },
+    "a3d22": {
+        "chunk_id": "a3d22",
+        "propositions": [
+            "\"It is not possible to give permission.\", "
+        ],
+        "title": "Islamic Prohibition of Haram Acts",
+        "summary": "This chunk addresses the Islamic principle that no one may grant permission for actions that are prohibited by\u202fSharia.",
+        "chunk_index": 51
+    },
+    "0ba07": {
+        "chunk_id": "0ba07",
+        "propositions": [
+            "\"Someone has a right.\", "
+        ],
+        "title": "Islamic Rights & Moral Responsibility",
+        "summary": "This chunk discusses the Islamic view of individual rights and the moral responsibility to uphold them.",
+        "chunk_index": 52
+    },
+    "dd965": {
+        "chunk_id": "dd965",
+        "propositions": [
+            "\"He also said that you will not enter Paradise, until you believe, and you will not believe, until you love one another.\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'I swear by the one whose hand my soul is in that you will not enter paradise until you believe.'\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'And you won't be believed until you love one another.'\", ",
+            "\"The increase of love between our hearts will increase the Iman, (faith).\", ",
+            "\"The Prophet (pbuh) said, 'He who does not show mercy to people, Allah will not show mercy to him.'\", "
+        ],
+        "title": "Faith, Love, and Mercy in Islam",
+        "summary": "This chunk emphasizes the Islamic teaching that genuine belief, mutual love, and mercy are essential conditions for attaining Paradise.",
+        "chunk_index": 53
+    },
+    "1ffca": {
+        "chunk_id": "1ffca",
+        "propositions": [
+            "\"The prophet responded and the man sat down.\", ",
+            "\"The prophet responded and the man sat down.\", ",
+            "\"The prophet responded and the man sat down.\", "
+        ],
+        "title": "Prophetic Humility & Listening Etiquette",
+        "summary": "This chunk covers the prophetic example of humility and proper etiquette when responding to a supplicant, and should be expanded with additional teachings on respectful interaction.",
+        "chunk_index": 54
+    },
+    "a0773": {
+        "chunk_id": "a0773",
+        "propositions": [
+            "\"The prophet said, 'twenty rewards.'\", ",
+            "\"The prophet said, 'thirty rewards.'\", "
+        ],
+        "title": "Prophetic Multiplication of Rewards",
+        "summary": "This chunk compiles prophetic teachings on the multiplied rewards (e.g., twenty\u2011fold, thirty\u2011fold) for good deeds, highlighting the Islamic principle of abundant reward for righteousness.",
+        "chunk_index": 55
+    },
+    "5ab0c": {
+        "chunk_id": "5ab0c",
+        "propositions": [
+            "\"It is enough for one of the group to return it.\", "
+        ],
+        "title": "Islamic Collective Responsibility",
+        "summary": "This chunk discusses Islamic collective responsibility, noting that the deed of a single group member can suffice to fulfill the group\u2019s obligation.",
+        "chunk_index": 56
+    },
+    "1da7c": {
+        "chunk_id": "1da7c",
+        "propositions": [
+            "\"Shaking hands with another Muslim will result in forgiveness from Allah (Subhanhu Wa Ta'ala).\", ",
+            "\"The Prophet (Salallahu Alayhi Wasallam) said, 'If Muslims meet and shake hands with each other, they will be forgiven before they leave.'\", ",
+            "\"Tirmidhi reported that Anass (RadiAllahu Anhu) said, 'When the prophet use to meet a man, he shook hands with him and the prophet (Salallahu Alayhi Wasallam) would not pull away his hand until the man would pull his hand away first.'\"]",
+            "  \"I never reach to shake a woman's hand out of respect.\",",
+            "  \"It is polite to wait for a woman to present her hand.\","
+        ],
+        "title": "Islamic Handshake Etiquette",
+        "summary": "This chunk covers Islamic greeting etiquette, emphasizing the forgiveness associated with handshakes among Muslims and the propriety of refraining from shaking a woman's hand.",
+        "chunk_index": 57
+    },
+    "8fbf6": {
+        "chunk_id": "8fbf6",
+        "propositions": [
+            "["
+        ],
+        "title": "Islamic Charity & Zakat",
+        "summary": "This chunk covers Islamic charity, highlighting the importance of zakat as a means for Muslims to support those in need.",
+        "chunk_index": 58
+    },
+    "f9016": {
+        "chunk_id": "f9016",
+        "propositions": [
+            "  \"I was raised in America.\","
+        ],
+        "title": "Muslim Life in the West",
+        "summary": "This chunk shares a personal background of being raised in America, illustrating the experience of Muslims living and growing up within a Western cultural context.",
+        "chunk_index": 59
+    },
+    "7dd62": {
+        "chunk_id": "7dd62",
+        "propositions": [
+            "  \"I am not of a particular faith.\","
+        ],
+        "title": "Islamic Freedom of Belief",
+        "summary": "This chunk addresses personal religious identity and underscores the Islamic principle of respecting each individual\u2019s freedom of belief.",
+        "chunk_index": 60
+    },
+    "aba80": {
+        "chunk_id": "aba80",
+        "propositions": [
+            "  \"An article is helpful to me.\","
+        ],
+        "title": "Beneficial Knowledge in Islam",
+        "summary": "This chunk highlights the value of beneficial knowledge, emphasizing how helpful articles align with the Islamic principle of seeking and sharing useful information.",
+        "chunk_index": 61
+    },
+    "ff162": {
+        "chunk_id": "ff162",
+        "propositions": [
+            "  \"The article contains some very interesting points.\""
+        ],
+        "title": "Islamic Reflection & Knowledge",
+        "summary": "This chunk offers a brief, general reflection on the article\u2019s interesting points, encouraging thoughtful contemplation in line with the Islamic emphasis on seeking knowledge.",
+        "chunk_index": 62
+    },
+    "338c1": {
+        "chunk_id": "338c1",
+        "propositions": [
+            "]"
+        ],
+        "title": "Islamic Charity & Zakat",
+        "summary": "This chunk covers Islamic charity, emphasizing the role of zakat in supporting those in need.",
+        "chunk_index": 63
+    },
+    "3843f": {
+        "chunk_id": "3843f",
+        "propositions": [
+            "\"The Prophet (pbuh) said, 'The prayer of a person in congregation is twenty-seven times superior to that of a person praying alone.'\", ",
+            "  \"The Prophet said, 'The prayer of a person in congregation is twenty-seven times superior to that of a person praying alone.'\", "
+        ],
+        "title": "Jama'ah Prayer Merit",
+        "summary": "This chunk highlights the Islamic virtue of congregational prayer and its greater reward compared to praying alone.",
+        "chunk_index": 64
+    },
+    "56735": {
+        "chunk_id": "56735",
+        "propositions": [
+            "[ "
+        ],
+        "title": "Islamic Charity & Zakat",
+        "summary": "This chunk contains information about Islamic charity and the importance of zakat in supporting the needy.",
+        "chunk_index": 65
+    },
+    "b8fbc": {
+        "chunk_id": "b8fbc",
+        "propositions": [
+            "]"
+        ],
+        "title": "Islamic Charity & Zakat",
+        "summary": "This chunk covers Islamic charity, highlighting the encouragement for Muslims to give zakat to support those in need.",
+        "chunk_index": 66
+    }
+}
