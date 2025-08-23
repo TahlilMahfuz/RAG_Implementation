@@ -1,0 +1,2923 @@
+{
+    "1e16f": {
+        "chunk_id": "1e16f",
+        "propositions": [
+            "[\"Audio is available to listen to the Quran.\", ",
+            "\"Listening to the Quran can help to memorise and recharge your soul.\", ",
+            "\"The app provides Quran recitations by over 50 renowned reciters.\", ",
+            "\"The reciters include Mishary Al Afasy, Husary (Muallim), Ayman Suwaid, Abdur Rahman As-Sudais, Abdul Basit, and Minshawi.\", ",
+            "\"Ayman Suwaid and Husary (Muallim) are suitable for improving recitation and tajweed.\", ",
+            "\"Yasser Salama Hadr has a faster recitation.\", ",
+            "\"The repeat option assists with Quran memorization (Hifz).\", ",
+            "\"Users can choose from different reciters.\", ",
+            "\"The quick start guide explains how to play a Surah.\", ",
+            "\"The quick start guide explains how to play a range of ayahs or the entire Surah.\", ",
+            "\"The quick start guide explains how to change reciters or audio translations.\", ",
+            "\"The app has a single recitation mode.\", ",
+            "\"The app has a multiple recitation mode.\", ",
+            "\"In the single recitation mode, one reciter plays at a time.\", ",
+            "\"In the multiple recitation mode, up to 3 reciters play sequentially.\"]",
+            "\"The search function allows users to find a specific ayah or topic in the Quran.\", ",
+            "[\"Audio is available to listen to the Quran.\", ",
+            "\"The app provides Quran recitations by over 50 renowned reciters.\", ",
+            "\"The reciters include Mishary Al Afasy, Husary (Muallim), Ayman Suwaid, Abdur Rahman As-Sudais, Abdul Basit, and Minshawi.\", ",
+            "\"Ayman Suwaid and Husary (Muallim) are suitable for improving recitation and tajweed.\", ",
+            "[\"Audio is available to listen to the Quran.\", ",
+            "\"The app provides Quran recitations by over 50 renowned reciters.\", ",
+            "\"The reciters include Mishary Al Afasy, Husary (Muallim), Ayman Suwaid, Abdur Rahman As-Sudais, Abdul Basit, and Minshawi.\", ",
+            "\"Ayman Suwaid and Husary (Muallim) are suitable for improving recitation and tajweed.\", ",
+            "\"Users can choose from different reciters.\", ",
+            "\"The quick start guide explains how to change reciters or audio translations.\", "
+        ],
+        "title": "Quran Recitation & Reflection Resources",
+        "summary": "This chunk provides resources for accessing and listening to the Quran, reflecting the Islamic value of reciting and reflecting on the holy book.",
+        "chunk_index": 0
+    },
+    "68448": {
+        "chunk_id": "68448",
+        "propositions": [
+            "\"Audio translations are available in English, Bangla, and Urdu.\", ",
+            "\"More audio translations are planned.\", ",
+            "\"The app allows downloading audio for offline listening.\", ",
+            "\"Users can choose from different audio translations.\", "
+        ],
+        "title": "Multilingual Islamic Audio Resources",
+        "summary": "This chunk provides information about the availability of multilingual audio resources, facilitating access to Islamic knowledge and teachings for diverse communities.",
+        "chunk_index": 1
+    },
+    "4153a": {
+        "chunk_id": "4153a",
+        "propositions": [
+            "\"The app allows streaming audio to save storage space.\", ",
+            "\"The app allows streaming audio to save storage space.\", ",
+            "\"The app allows streaming audio to save storage space.\", "
+        ],
+        "title": "Optimizing Resources with Technology",
+        "summary": "This chunk discusses the convenience of technology in Islam, specifically exploring how modern tools like audio streaming can be utilized to optimize resource management, such as saving storage space, while maintaining mindful consumption habits in accordance with Islamic values of moderation and stewardship.",
+        "chunk_index": 2
+    },
+    "3a2b7": {
+        "chunk_id": "3a2b7",
+        "propositions": [
+            "\"The app has a quick start guide.\", ",
+            "\"The app allows adjusting the playback speed.\", "
+        ],
+        "title": "Facilitating Knowledge & Ease",
+        "summary": "This chunk contains information about user-friendly resources and guides for utilizing technology, reflecting the Islamic value of seeking knowledge and facilitating ease in daily life.",
+        "chunk_index": 3
+    },
+    "18308": {
+        "chunk_id": "18308",
+        "propositions": [
+            "\"The quick start guide explains how to use repeat options.\", "
+        ],
+        "title": "Islamic Productivity & Efficiency",
+        "summary": "This chunk provides guidance on utilizing repetition effectively, reflecting the Islamic value of diligence and efficiency in one's endeavors.",
+        "chunk_index": 4
+    },
+    "05317": {
+        "chunk_id": "05317",
+        "propositions": [
+            "[\"The Al Quran (Tafsir & by Word) app has a search function.\", ",
+            "\"The repeat option assists with Quran memorization (Hifz).\", "
+        ],
+        "title": "Quranic Study & Memorization Tools",
+        "summary": "This chunk provides information about beneficial digital tools, specifically a Quranic study app, that facilitate learning, exploration, and memorization of the Quran, reflecting the Islamic value of seeking knowledge.",
+        "chunk_index": 5
+    },
+    "f3789": {
+        "chunk_id": "f3789",
+        "propositions": [
+            "\"The search can be used to find surah names.\", ",
+            "\"The search can be used to find Arabic ayahs.\", ",
+            "\"The search can be used to find translations.\", ",
+            "\"The search can be used to find tafsirs.\", ",
+            "\"The search understands minor spelling variations.\", ",
+            "\"Users can type a surah name to open it instantly.\", ",
+            "\"Users can search for specific translations or tafsirs.\", ",
+            "\"Users can filter results by specific translations or tafsirs.\", ",
+            "\"The Al Quran (Tafsir & by Word) app has a collection of Quranic topics.\", ",
+            "\"Users can explore Quranic topics to find related ayahs.\", ",
+            "\"The Al Quran (Tafsir & by Word) app has a word analysis search function.\", ",
+            "\"The word analysis search function shows occurrences of Arabic words across the Quran.\", ",
+            "\"The word analysis search function shows occurrences of lemma across the Quran.\", ",
+            "\"The word analysis search function shows occurrences of roots across the Quran.\", ",
+            "\"The Al Quran (Tafsir & by Word) app is available for users to start searching.\"]",
+            "  \"The Quran Planner helps users break down their reading into manageable daily sessions.\",",
+            "  \"The Quran Planner keeps users organized and motivated to reach their goal.\",",
+            "  \"Users can read the Quran in 29 days.\",",
+            "  \"Reading the Quran in 29 days is ideal for Ramadan.\",",
+            "  \"Users can complete the Quran in one year.\",",
+            "  \"Completing the Quran in one year requires reading about 2 pages daily.\",",
+            "  \"Users can read the Quran translation in 90 days.\",",
+            "  \"Reading the Quran translation in 90 days improves understanding.\",",
+            "  \"To start using the Quran Planner, users create a plan.\",",
+            "[\"The Quran can be explored by topics.\", ",
+            "\"The Al Quran app allows users to explore topics and read related ayahs.\", ",
+            "\"The Al Quran app provides translation and explanations of the ayahs.\", ",
+            "\"The app helps users find relevant ayahs in one place.\"]",
+            "\"These features make the journey of reading the Quran more rewarding and motivational.\", ",
+            "\"The app provides word-by-word translations and recitations.\", ",
+            "\"You can connect with every ayah on a deeper level using the app.\", ",
+            "\"The app offers word-by-word analysis and translations.\", ",
+            "[\"The Library section is designed to help you engage deeply with the Quran.\", ",
+            "\"Engaging deeply with the Quran involves bookmarking ayahs, taking notes, and organizing reflections.\", ",
+            "\"Listening to the Quran can help to memorise and recharge your soul.\", ",
+            "\"Listening to the Quran can help to memorise and recharge your soul.\", ",
+            "\"The quick start guide explains how to play a Surah.\", ",
+            "\"The quick start guide explains how to play a range of ayahs or the entire Surah.\", "
+        ],
+        "title": "Quranic Search & Study Tools",
+        "summary": "This chunk provides information about utilizing search functions, exploring Quranic topics, and planning reading sessions to facilitate a deeper understanding and connection with the Quran, reflecting the Islamic value of seeking knowledge and contemplation on its teachings.",
+        "chunk_index": 6
+    },
+    "79d5b": {
+        "chunk_id": "79d5b",
+        "propositions": [
+            "\"Voice search is available on Android experimentally.\", "
+        ],
+        "title": "Islamic Values & Technology",
+        "summary": "This chunk explores the intersection of technology and Islamic values, specifically focusing on the use of voice search on Android devices, and invites discussion on responsible and beneficial use of technology in a Muslim's daily life.",
+        "chunk_index": 7
+    },
+    "bfd42": {
+        "chunk_id": "bfd42",
+        "propositions": [
+            "["
+        ],
+        "title": "Please go ahead and provide the summary. I'll generate a concise chunk title that reflects Islamic context and anticipates generalization.",
+        "summary": "I'm ready to help. What is the proposition that will go into the new chunk?",
+        "chunk_index": 8
+    },
+    "a0948": {
+        "chunk_id": "a0948",
+        "propositions": [
+            "  \"Users can create their own custom schedule.\",",
+            "  \"Users should set a notification time to stay on track.\",",
+            "  \"Users read the Quran following their schedule.\",",
+            "  \"A tip for success is to set reminders at a consistent time.\",",
+            "[\"Build a daily Quran reading habit.\", ",
+            "\"Daily Quran reading is key to developing a deeper connection with the Quran.\", ",
+            "\"Consistency helps you build a lasting connection with Allah's words.\", ",
+            "\"Whether you read one ayah or several pages, it helps.\", ",
+            "\"You can set a daily reading goal.\", ",
+            "\"The daily reading target can fit your schedule.\", "
+        ],
+        "title": "Establishing a Quran Reading Routine",
+        "summary": "This chunk provides guidance on establishing a consistent Quran reading habit, focusing on practical tips for effective time management and organization from an Islamic perspective.",
+        "chunk_index": 9
+    },
+    "221a4": {
+        "chunk_id": "221a4",
+        "propositions": [
+            "  \"To create a plan, users select the start and end range.\",",
+            "  \"To create a plan, users set the number of days.\",",
+            "  \"After creating a plan, users tap Read to begin.\",",
+            "  \"A tip for success is to start with a realistic goal.\",",
+            "  \"A tip for success is to plan ahead for busy days.\",",
+            "  \"A tip for success is to adjust the schedule if needed.\"",
+            "\"You can identify your most productive days and aim to improve.\", "
+        ],
+        "title": "Islamic Planning & Productivity",
+        "summary": "This chunk discusses the process of creating a plan, specifically setting start and end ranges or defining the number of days, and provides tips for successful planning and goal achievement, reflecting the importance of organization, clear goal-setting, and adaptability, values that align with Islamic principles of diligence, responsibility, and striving for excellence.",
+        "chunk_index": 10
+    },
+    "ba48d": {
+        "chunk_id": "ba48d",
+        "propositions": [
+            "  \"After completing a session, users save their progress.\",",
+            "  \"Users track progress by checking their planner.\",",
+            "  \"Users celebrate completion by marking the planner as complete.\",",
+            "\"The Companions used to be reluctant to concede a space for newcomers in their assemblies with Allah's Messenger, sallallahu alayhe wa sallam.\", ",
+            "\"Ahmad cited the Prophet Muhammad, sallallahu alayhe wa sallam, as saying: \\\"...but rather make space, and Allah will make space for you.\\\"\", ",
+            "\"When room is made for someone, it should be accepted, and the person should sit down next to those who made it, and thank them.\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"When people take their places and sit, and a man invites a [Muslim] brother of his and makes room for him, let the latter take it.\\\"\", ",
+            "\"It is a generous gesture offered to someone when they are made room for.\", ",
+            "\"Making room for newcomers in a gathering is characteristic of Islam.\", ",
+            "\"It is a sign of affability and mutual affection of all Muslims.\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"O People! Spread greetings. Offer food. Keep in touch with your blood relatives. And pray while people are asleep. And you will be admitted into Paradise in peace\\\".\", "
+        ],
+        "title": "Islamic Hospitality & Inclusivity",
+        "summary": "This chunk focuses on the importance of hospitality, generosity, and humility, reflecting the Islamic value of making space for others and promoting community, and may include information on the significance of being welcoming and inclusive, as exemplified by the teachings of the Prophet Muhammad, sallallahu alayhe wa sallam.",
+        "chunk_index": 11
+    },
+    "a5dec": {
+        "chunk_id": "a5dec",
+        "propositions": [
+            "]",
+            "\"Topics include Salah or Zakat.\", ",
+            "\"Fi Sabilillah (For Allah's sake) is a giving of charity.\", ",
+            "\"Feed the poor.\", ",
+            "\"Don't be miserly nor extravagant.\", ",
+            "\"Don't wrongly consume the wealth of the vulnerable.\", ",
+            "\"Those who can should continue to spend on those less fortunate.\", ",
+            "\"Don't take women by force, nor take back bridal gift without a valid reason & live with them in kindness.\"]"
+        ],
+        "title": "Islamic Charity & Compassion",
+        "summary": "This chunk explores the concept of Islamic charity, encompassing essential practices such as zakat, sadaqah (including giving for the sake of Allah, Fi Sabilillah), and other forms of support for those in need, highlighting their significance in promoting compassion, social responsibility, and spiritual growth among Muslims.",
+        "chunk_index": 12
+    },
+    "63b39": {
+        "chunk_id": "63b39",
+        "propositions": [
+            "\"The app provides knowledge on a particular topic.\", "
+        ],
+        "title": "Seeking Knowledge in Islam",
+        "summary": "This chunk explores the role of technology in disseminating knowledge, reflecting the Islamic value of seeking knowledge for the betterment of society.",
+        "chunk_index": 13
+    },
+    "825c1": {
+        "chunk_id": "825c1",
+        "propositions": [
+            "\"There are 9 important topics broken down into 200+ topics and subtopics.\", ",
+            "\"The top level 9 topics are categorized into more sub-categories.\", ",
+            "\"The Search icon provides the entire topics list.\", ",
+            "\"Allah, subhanahu wa ta'ala, says: \\\"Allah will raise those who have believed among you and those who were given knowledge by degrees.\\\"\", ",
+            "\"The Qur'an holds divine instructions and rules of social conduct.\", "
+        ],
+        "title": "Islamic Knowledge Structure & Organization",
+        "summary": "This chunk provides an overview of the organization and categorization of Islamic knowledge, highlighting the key areas of focus and their detailed breakdown into topics and subtopics for easy understanding and study.",
+        "chunk_index": 14
+    },
+    "aa866": {
+        "chunk_id": "aa866",
+        "propositions": [
+            "\"The topics include the 'Etiquette of Honoring the Guests' and 'Riba (Interest)'.\", ",
+            "\"In Islam, manners and etiquette are essential and impact how Muslims interact with others daily.\", ",
+            "\"Learning good manners isn't just about behaving well in front of others; it's about following the Sunnah and earning the blessings of Allah.\", ",
+            "\"Be good to guests.\", "
+        ],
+        "title": "Islamic Etiquette, Values & Manners",
+        "summary": "This chunk explores essential Islamic values and teachings, specifically focusing on social etiquette, such as hospitality and respect for guests, as well as financial ethics, including the prohibition of riba (interest), to guide Muslims in living a righteous life.",
+        "chunk_index": 15
+    },
+    "f9166": {
+        "chunk_id": "f9166",
+        "propositions": [
+            "\"The menu drawer has an 'Explore by Topic' option.\", ",
+            "\"The Al Quran app provides guidance on daily life and learning about particular topics.\", "
+        ],
+        "title": "Navigating Knowledge in Islam",
+        "summary": "This chunk provides information about navigating a menu system, specifically using the 'Explore by Topic' feature to discover content related to various subjects, which can be a means of seeking knowledge and wisdom, values highly regarded in Islam.",
+        "chunk_index": 16
+    },
+    "e82e7": {
+        "chunk_id": "e82e7",
+        "propositions": [
+            "\"The topics are available in multiple languages including Arabic, Bangla, German, Indonesian, Filipino, Turkish, and Urdu.\", ",
+            "\"More languages will be added in the coming months.\", ",
+            "\"The app supports multiple languages, including Bangla, Chinese, English, French, German, Hindi, Indonesian, Ingush, Malay, Russian, Tamil, Turkish, and Urdu.\", ",
+            "\"Audio translations are available in English, Bangla, and Urdu.\", ",
+            "\"More audio translations are planned.\", ",
+            "\"Audio translations are available in English, Bangla, and Urdu.\", ",
+            "\"More audio translations are planned.\", ",
+            "\"Users can choose from different audio translations.\", "
+        ],
+        "title": "Islamic Resources in Multiple Languages",
+        "summary": "This chunk provides information about the linguistic diversity of Islamic resources, highlighting the availability of topics and translations in multiple languages to cater to a diverse audience.",
+        "chunk_index": 17
+    },
+    "d09cb": {
+        "chunk_id": "d09cb",
+        "propositions": [
+            "\"Users can change the language in the Settings.\", "
+        ],
+        "title": "Islamic Communication & Language Preferences",
+        "summary": "This chunk provides information about adjusting language preferences, reflecting the Islamic value of communication and understanding, and may include instructions on how to access and modify language settings.",
+        "chunk_index": 18
+    },
+    "eef59": {
+        "chunk_id": "eef59",
+        "propositions": [
+            "\"Users can refresh the topics list by swiping down.\", "
+        ],
+        "title": "Seeking Knowledge & Updates",
+        "summary": "This chunk provides guidance on navigating and updating content, reflecting the Islamic value of seeking knowledge and staying informed.",
+        "chunk_index": 19
+    },
+    "dee04": {
+        "chunk_id": "dee04",
+        "propositions": [
+            "\"The app has new Stats, Streaks, and Badges features.\", ",
+            "\"You can track your daily progress.\", ",
+            "\"Streak tracks the number of days in a row you've read the Quran in the app.\", ",
+            "\"Streak is designed to motivate reading the Quran daily.\", ",
+            "\"Each day of reading builds your streak.\", ",
+            "\"Streak helps you stay consistent.\", ",
+            "\"You can earn badges for completing milestones or exploring app features.\", ",
+            "\"Badges celebrate your progress and help you stay motivated.\", ",
+            "\"There are milestone badges for 7-day, 14-day, 30-day, and 100-day streaks.\", ",
+            "\"More badges are coming soon to celebrate your Quran journey.\", ",
+            "\"You can visualize how much time you've spent reading the Quran with a daily breakdown for the current week.\", ",
+            "\"You can see your total ayah read, time spent and best streak.\", ",
+            "\"A streak widget will be available soon.\", ",
+            "\"These features encourage daily reading and help you stay consistent.\", "
+        ],
+        "title": "Quran Reading Tracking & Motivation",
+        "summary": "This chunk contains updates about the app's features, specifically its new statistics, streaks, and badges, which can be used to track progress and encourage consistency in Islamic learning or practices, such as reading the Quran, to help users stay motivated and steadfast in their faith.",
+        "chunk_index": 20
+    },
+    "fae15": {
+        "chunk_id": "fae15",
+        "propositions": [
+            "\"The target can be 1 minute or 60 minutes.\", "
+        ],
+        "title": "Islamic Moderation in Worship",
+        "summary": "This chunk explores the concept of flexibility and moderation in Islamic practices, highlighting the idea that actions, such as prayer or worship, can be performed with varying levels of duration and intensity, as long as they are done with sincerity and dedication.",
+        "chunk_index": 21
+    },
+    "1cb88": {
+        "chunk_id": "1cb88",
+        "propositions": [
+            "\"You can start small and grow gradually.\", ",
+            "\"These goals will help you progress naturally in the future.\", ",
+            "\"There are milestones to build your habit.\", ",
+            "\"3 days is a milestone for getting started.\", ",
+            "\"7 days is a milestone for completing your first week.\", ",
+            "\"30 days is a milestone for being one month strong.\", ",
+            "\"Examples of milestones are 45, 60, 75 days.\", ",
+            "\"You should target small milestones and establish your habit of reading the Quran daily.\", "
+        ],
+        "title": "Establishing Quranic Reading Habits",
+        "summary": "This chunk offers guidance on embarking on a spiritual journey, particularly in establishing a consistent Quranic reading habit, emphasizing Islamic values of gradual progress, incremental growth, and setting achievable milestones to build momentum over time.",
+        "chunk_index": 22
+    },
+    "474b1": {
+        "chunk_id": "474b1",
+        "propositions": [
+            "\"Personalized goals will be introduced to adjust to your reading patterns.\", "
+        ],
+        "title": "Islamic Self-Improvement & Learning",
+        "summary": "This chunk explores the concept of tailored objectives in learning and self-improvement, reflecting the Islamic value of striving for knowledge and personal growth, and invites discussion on adapting goals to individual learning styles.",
+        "chunk_index": 23
+    },
+    "a6016": {
+        "chunk_id": "a6016",
+        "propositions": [
+            "\"New milestones are unlocked every 15 days.\", "
+        ],
+        "title": "Islamic Spiritual Growth & Rewards",
+        "summary": "This chunk discusses the concept of periodic rewards and milestones, potentially relating to spiritual growth or achievements, and may include examples of how Muslims can strive for self-improvement and perseverance in their faith journey.",
+        "chunk_index": 24
+    },
+    "b59b9": {
+        "chunk_id": "b59b9",
+        "propositions": [
+            "\"There are explorer badges for achievements like the Search Explorer or Audio Explorer.\", "
+        ],
+        "title": "Pursuit of Knowledge & Excellence",
+        "summary": "This chunk discusses various explorer badges and achievements, and can be related to the Islamic value of seeking knowledge and personal development, reflecting the pursuit of excellence and self-improvement encouraged in Islamic teachings.",
+        "chunk_index": 25
+    },
+    "484d3": {
+        "chunk_id": "484d3",
+        "propositions": [
+            "\"Lifetime stats are tracked for logged-in users only.\", "
+        ],
+        "title": "Islamic Digital Transparency & Accountability",
+        "summary": "This chunk contains information about user data and online tracking, and can include details about how user statistics are managed and recorded, reflecting the Islamic value of transparency and accountability in one's actions.",
+        "chunk_index": 26
+    },
+    "667f9": {
+        "chunk_id": "667f9",
+        "propositions": [
+            "\"The goal is to help you build a stronger connection with the Quran.\", ",
+            "\"The Library section helps build a deeper connection with the Quran.\"]"
+        ],
+        "title": "Quranic Connection & Spiritual Development",
+        "summary": "This chunk focuses on nurturing a deeper spiritual relationship with the Quran, exploring ways to enhance one's understanding and connection with the holy book.",
+        "chunk_index": 27
+    },
+    "d8b65": {
+        "chunk_id": "d8b65",
+        "propositions": [
+            "\"These features also motivate you to explore the Quran deeply.\", ",
+            "[\"Al Quran (Tafsir & by Word) app makes it easy to understand the Quran in your language with reliable translations and tafsirs.\", ",
+            "[\"The Mushaf Mode allows reading the Quran in familiar Mushaf pages.\", "
+        ],
+        "title": "Quran Understanding & Spiritual Development",
+        "summary": "This chunk discusses the importance of exploring and understanding the Quran, highlighting its motivational aspects for spiritual growth and deeper connection with Islamic teachings.",
+        "chunk_index": 28
+    },
+    "0adf7": {
+        "chunk_id": "0adf7",
+        "propositions": [
+            "\"The features are available in the Profile section in the Al Quran app.\"]"
+        ],
+        "title": "Islamic Knowledge & Resources",
+        "summary": "This chunk provides information about accessing beneficial features and resources, such as those related to the Al Quran, within a mobile application, reflecting the Islamic emphasis on seeking knowledge and guidance.",
+        "chunk_index": 29
+    },
+    "24ec1": {
+        "chunk_id": "24ec1",
+        "propositions": [
+            "\"The app provides Arabic grammar insights, including root/lemma information, grammar details, and verb forms.\", ",
+            "\"The Quran app offers tools for learning Arabic.\", ",
+            "\"The tools make learning Arabic easier and more meaningful.\", ",
+            "\"E3rab explains the grammatical structure of each word in the Quran.\", ",
+            "\"E3rab helps see how grammar changes the meaning of ayahs.\", ",
+            "\"E3rab improves knowledge of Quranic Arabic grammar.\", ",
+            "\"These tools make learning Quranic Arabic easier and more effective.\"]"
+        ],
+        "title": "Islamic Arabic Learning Tools",
+        "summary": "This chunk offers resources for learning Arabic grammar, highlighting linguistic tools that can aid in understanding the language and, by extension, facilitate a deeper appreciation of Islamic texts and communication.",
+        "chunk_index": 30
+    },
+    "9d124": {
+        "chunk_id": "9d124",
+        "propositions": [
+            "\"The app offers over 90 translations and tafsirs.\", ",
+            "\"The app provides access to translations and tafsirs in over 60 languages.\", ",
+            "\"The app includes 8 Arabic Tafsirs.\", ",
+            "\"Tafsir Ibn Kathir is a comprehensive and detailed explanation of the Quran.\", ",
+            "\"Tafsir Ibn Kathir uses the best way and method for interpreting the Quran.\", ",
+            "\"Tafsir Ibn Kathir is available in Arabic, Bangla, English, French, and Urdu.\", ",
+            "\"Tafsir As-Sa'di is a concise and accessible tafsir.\", ",
+            "\"Tafsir As-Sa'di is available in 7 languages.\", ",
+            "\"The app provides a collection of 7+ Arabic tafsirs, including Tafsir Tabari and Tafsir Baghawi.\", ",
+            "\"You can study and compare different tafsirs using the app.\", ",
+            "\"The app offers additional tools like E\u2018rab and Gharib to help with studies.\", ",
+            "\"You can access tafsirs easily by clicking the tafsir icon below any ayah.\", ",
+            "\"You can access tafsirs using the three-dot menu and selecting \u201cTafsir/note view\u201d.\", ",
+            "\"The app provides a vast library of tafsirs and translations in various languages.\"]",
+            "\"E3rab helps understand how words fit into an ayah.\", ",
+            "\"Gharib helps learn the meanings of uncommon words.\", ",
+            "\"Gharib helps understand the context of uncommon words in Quranic ayahs.\", "
+        ],
+        "title": "Quranic Study Aids & Tafsirs",
+        "summary": "This chunk provides information about Quranic resources and tools, specifically digital platforms that offer multiple translations and tafsirs to facilitate understanding and study of the Quran, as well as additional study aids, reflecting the Islamic value of seeking knowledge and in-depth interpretation of sacred texts.",
+        "chunk_index": 31
+    },
+    "0f00e": {
+        "chunk_id": "0f00e",
+        "propositions": [
+            "[\"Deepening Quran Understanding is for students of knowledge and Arabic learners.\", "
+        ],
+        "title": "Quranic Knowledge & Understanding",
+        "summary": "This chunk explores the significance of understanding the Quran, targeting students of knowledge and Arabic learners, reflecting the Islamic value of seeking knowledge and Quranic comprehension.",
+        "chunk_index": 32
+    },
+    "a45ed": {
+        "chunk_id": "a45ed",
+        "propositions": [
+            "\"Gharib helps build vocabulary for classical and modern Arabic.\", "
+        ],
+        "title": "Seeking Knowledge in Islam",
+        "summary": "This chunk explores the significance of learning and linguistic development in Arabic, reflecting the Islamic value of seeking knowledge, as emphasized in the Quran and Hadith.",
+        "chunk_index": 33
+    },
+    "b43e2": {
+        "chunk_id": "b43e2",
+        "propositions": [
+            "\"The Word Lemma and Root tool highlights the base form of words.\", ",
+            "\"The Word Lemma and Root tool highlights the core meaning of words by studying their roots.\", ",
+            "\"Most Arabic words come from three or four letter roots.\", ",
+            "\"The Word occurrences tool tracks how words appear in different forms.\", ",
+            "\"The Word occurrences tool finds every instance of a word in the Quran.\", ",
+            "\"The Word occurrences tool remembers words better by recognizing patterns.\", ",
+            "\"The Word occurrences tool studies how the same word is used in different contexts.\", ",
+            "\"The Grammar details tool labels the grammar for each word.\", ",
+            "\"The Verb forms and conjugation tool helps learn verb forms.\", ",
+            "\"The Verb forms and conjugation tool helps understand how verbs change with tense and case.\", "
+        ],
+        "title": "Linguistic Analysis for Quranic Comprehension",
+        "summary": "This chunk explores the concept of linguistic analysis in Arabic language, specifically the use of tools like the Word Lemma and Root, Word occurrences, and Grammar details to understand word origins, meanings, and usage, reflecting the Islamic emphasis on knowledge and understanding of language as a means to comprehend Quranic teachings and Arabic literature.",
+        "chunk_index": 34
+    },
+    "1c914": {
+        "chunk_id": "1c914",
+        "propositions": [
+            "\"The Library brings all study tools together in one place.\", ",
+            "\"Study tools include saving ayahs for study, tracking recitation progress, and jotting down thoughts.\", "
+        ],
+        "title": "Unified Islamic Study Tools",
+        "summary": "This chunk contains information about unified study tools and resources, reflecting the Islamic principle of seeking knowledge efficiently.",
+        "chunk_index": 35
+    },
+    "17c48": {
+        "chunk_id": "17c48",
+        "propositions": [
+            "\"Collections are folders where multiple ayahs can be saved together.\", ",
+            "\"Collections are perfect for grouping related ayahs under topics.\", ",
+            "\"Any number of ayahs can be saved in each collection.\", ",
+            "\"Notes are automatically organized by surah for easy access.\", ",
+            "\"Collections, pins, and ayahs can be sorted in several ways.\", "
+        ],
+        "title": "Quran Organization & Ayah Categorization",
+        "summary": "This chunk discusses the organizational feature of collections in a digital Quran or Islamic study tool, allowing users to categorize and consolidate related ayahs for easier reference and reflection.",
+        "chunk_index": 36
+    },
+    "cc244": {
+        "chunk_id": "cc244",
+        "propositions": [
+            "\"Pins are simple bookmarks that save one ayah at a time.\", ",
+            "\"Pins are perfect for tracking recitation progress.\", ",
+            "\"Pins can be updated with new ayahs as progress is made.\", ",
+            "\"Notes can be taken for any ayah.\", ",
+            "\"Ayahs can be saved to collections or pins.\", ",
+            "\"Ayahs can be saved by tapping the bookmark icon or using the three dots menu.\", ",
+            "\"Saved ayahs and notes can be accessed conveniently in the library.\", "
+        ],
+        "title": "Digital Quranic Verse Bookmarking",
+        "summary": "This chunk explores the concept of utilizing digital tools as bookmarks to save, track, and reflect on individual Quranic verses (ayahs), promoting a deeper understanding and connection with Islamic scripture.",
+        "chunk_index": 37
+    },
+    "43ac0": {
+        "chunk_id": "43ac0",
+        "propositions": [
+            "\"Pins can be given a meaningful name.\", ",
+            "\"Don't call the Prophet how you call others'.\", ",
+            "\"Don't call the Prophet from outside his rooms.\", ",
+            "\"Don't raise your voice above that of the Prophet's.\", ",
+            "\"Seek permission before entering someone's room.\", ",
+            "\"Seek Prophet's permission when leaving his gathering.\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"No one among you should cause a man to stand and then sit in his place\\\".\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"Do not admit a person who does not begin with a greeting\\\".\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"If one of you joins an assembly, let him greet (the People there). And if he gets up while others are still sitting, let him greet (them).\\\"\", ",
+            "\"Abdurrahman ibn Zaid said: \\\"People used to gather at the house of the Prophet, sallallahu alayhe wa sallam, and when they wanted to leave, each desired to be the last to leave him, sallallahu alayhe wa sallam.\\\"\", ",
+            "[\"You must ask permission to enter a house if it is not your house.\", "
+        ],
+        "title": "Respectful Communication & Adab",
+        "summary": "This chunk explores respectful communication, particularly in reference to revered figures and social interactions, reflecting Islamic values of respect, etiquette, and courtesy, and invites discussions on the importance of mindful language, address, and interaction, similar to the concept of adab (etiquette) in Islamic teachings.",
+        "chunk_index": 38
+    },
+    "11747": {
+        "chunk_id": "11747",
+        "propositions": [
+            "\"Notes can be added by opening the Tafsir reading view.\", ",
+            "\"Notes can be added by selecting 'Add Note'.\", ",
+            "\"Notes are organized by surah under the Notes section.\", "
+        ],
+        "title": "Tafsir Engagement & Note-taking",
+        "summary": "This chunk provides guidance on utilizing features within a Tafsir reading view, specifically adding personal notes, to enhance one's understanding and engagement with Islamic scripture.",
+        "chunk_index": 39
+    },
+    "5e2b7": {
+        "chunk_id": "5e2b7",
+        "propositions": [
+            "\"Collections or pins can be found easily by searching for their names.\", "
+        ],
+        "title": "Efficient Knowledge Search",
+        "summary": "This chunk provides guidance on efficiently locating specific collections or pins through a simple search process, reflecting the Islamic value of seeking knowledge and facilitating ease in daily life.",
+        "chunk_index": 40
+    },
+    "8cc0b": {
+        "chunk_id": "8cc0b",
+        "propositions": [
+            "\"Sorting options include name, date, or custom order.\", "
+        ],
+        "title": "Islamic Organization & Structure",
+        "summary": "This chunk provides guidance on organizing and categorizing information in a systematic manner, reflecting the Islamic value of maintaining order and structure in daily life.",
+        "chunk_index": 41
+    },
+    "38aee": {
+        "chunk_id": "38aee",
+        "propositions": [
+            "\"Collections, pins, and ayahs can be edited or deleted.\", "
+        ],
+        "title": "Islamic Knowledge Management",
+        "summary": "This chunk provides guidance on managing digital content, specifically editing or removing collections, pins, and ayahs, reflecting the Islamic value of organization and responsible stewardship of knowledge.",
+        "chunk_index": 42
+    },
+    "1276f": {
+        "chunk_id": "1276f",
+        "propositions": [
+            "\"Library data can be kept safe by syncing it online.\", ",
+            "\"Library data can be exported as a backup or to share with others.\", "
+        ],
+        "title": "Safeguarding Knowledge through Technology",
+        "summary": "This chunk discusses the importance of safeguarding knowledge and data, such as that stored in libraries, through digital means, reflecting the Islamic value of preservation and protection of knowledge.",
+        "chunk_index": 43
+    },
+    "39a2b": {
+        "chunk_id": "39a2b",
+        "propositions": [
+            "\"Mushaf Mode provides a digital version of a favourite hard-copy mushaf.\", ",
+            "\"Mushaf Mode is perfect for focused recitation with a classic Quran layout without translations.\", ",
+            "\"The Mushaf reading mode is popular among the Arab demographic.\", "
+        ],
+        "title": "Digital Quran Access & Recitation",
+        "summary": "This chunk explores the concept of digital Quranic resources, specifically highlighting tools for accessing and reciting the Quran digitally, reflecting the Islamic value of seeking knowledge and utilizing technology for beneficial purposes.",
+        "chunk_index": 44
+    },
+    "622eb": {
+        "chunk_id": "622eb",
+        "propositions": [
+            "\"The Mushaf reading mode is popular among students of knowledge.\", ",
+            "\"The Mushaf reading mode is popular among people doing hifz.\", ",
+            "\"Consistency in mushaf layouts helps memorization by building photographic memory.\", ",
+            "\"Consistency in mushaf layouts helps traditional readers.\", ",
+            "\"The Al Quran app offers various mushafs.\", ",
+            "\"Mushaf reading mode can be enabled by tapping the book icon at the top right corner.\", ",
+            "\"Mushaf reading mode can be switched back to regular mode by tapping the 3-bar icon.\", ",
+            "\"Translations or tafsirs can be accessed while reciting in mushaf mode by long-pressing any ayah.\", ",
+            "\"Mushaf mode is designed to enhance the Quran reading experience.\", ",
+            "\"Mushaf mode offers a familiar and intuitive way to connect with the Quran.\"]"
+        ],
+        "title": "Quranic Study & Mushaf Modes",
+        "summary": "This chunk explores the significance of the Mushaf reading mode in facilitating Quranic recitation and study, reflecting the Islamic value of seeking knowledge and reverence for the Quran; add propositions about features, benefits, or user experiences related to Mushaf reading modes and Quranic study.",
+        "chunk_index": 45
+    },
+    "edefd": {
+        "chunk_id": "edefd",
+        "propositions": [
+            "\"The Mushaf unicode is a customisable mushaf with options to resize and change fonts.\", "
+        ],
+        "title": "Digital Quran Technology",
+        "summary": "This chunk explores the concept of a customizable digital Quran, specifically the Mushaf unicode, and its features that facilitate easy reading and accessibility, reflecting the Islamic value of seeking knowledge and preserving the Quran.",
+        "chunk_index": 46
+    },
+    "f4aec": {
+        "chunk_id": "f4aec",
+        "propositions": [
+            "\"The Uthmanic mushaf is a classic mushaf.\", ",
+            "\"The Madani mushaf is from the King Fahd Quran Complex (Hijri 1405).\", ",
+            "\"The Updated madani mushaf was published in Hijri 1440.\", ",
+            "\"The Shemerly Mushaf is popular in Egypt and a few other countries.\", ",
+            "\"The Naskh (Indopak) mushaf is popular in Bangladesh, India, Indonesia, and Pakistan.\", ",
+            "\"There are different riwayahs, including the Warsh mushaf.\", ",
+            "\"The Warsh mushaf is used by people in Maghreb, Western and Central Africa, and Western Europe.\", ",
+            "\"There are different riwayahs, including the Qaloon mushaf.\", ",
+            "\"The Qaloon mushaf is used by people in North African countries, including Libya, Tunisia, and some areas in Mauritania, Algeria.\", ",
+            "\"Users should choose a specific riwayah only if they understand it.\", ",
+            "\"The app supports the Hafs riwayah in both Uthmanic and Indopak scripts in normal reading mode.\", ",
+            "\"The app supports the Warsh or Qaloon riwayah only in mushaf mode.\", "
+        ],
+        "title": "Quranic Variations & Riwayahs",
+        "summary": "This chunk contains information about significant historical versions of the Quran, including various mushafs and riwayahs, and their importance in Islamic scripture and tradition.",
+        "chunk_index": 47
+    },
+    "03124": {
+        "chunk_id": "03124",
+        "propositions": [
+            "\"To change the mushaf type, go to settings and select the mushaf type option.\", "
+        ],
+        "title": "Quran Reading Etiquette & Settings",
+        "summary": "This chunk provides guidance on customizing Quran reading settings, specifically changing the mushaf type, reflecting the importance of respecting and properly handling the Quran in Islam.",
+        "chunk_index": 48
+    },
+    "b3825": {
+        "chunk_id": "b3825",
+        "propositions": [
+            "[\"Reading the Quran with proper Tajweed is a key aspect of reciting beautifully and accurately.\", ",
+            "\"The Quran app makes it easier with Tajweed colour coding.\", ",
+            "\"Tajweed colour coding is a system where specific Tajweed rules are highlighted in different colours directly on the Quran text.\", ",
+            "\"Tajweed rules are highlighted in different colours directly on the Quran text to make it easy for readers to apply the rules in real time without needing to memorize them separately.\", ",
+            "\"The Quran app covers several Tajweed rules.\", ",
+            "\"Ghunna (nasalisation) is a Tajweed rule where any \u0646\u0651 or \u0645\u0651 will have a sound that emanates from the nose.\", ",
+            "\"Ikhfaa (lenition/hiding) is a Tajweed rule that highlights where the sound of a letter should be softened or partially hidden.\", ",
+            "\"Idgham (elision/merging) is a Tajweed rule that indicates where letters should merge smoothly during recitation.\", ",
+            "\"Idgham without Ghunnah is a Tajweed rule that marks merging without nasalization.\", ",
+            "\"Iqlab (assimilation/flipping) is a Tajweed rule that is marked to show where a letter changes sound when followed by a specific letter.\", ",
+            "\"Qalqala (echoing) is a Tajweed rule that is highlighted to guide where the echoing sound should be applied.\", ",
+            "\"Tajweed colour coding is perfect for beginners learning Tajweed.\", ",
+            "\"Tajweed colour coding ensures that you don't skip or misapply rules.\", ",
+            "\"Tajweed colour coding helps readers feel more assured while reciting aloud.\", ",
+            "\"The Quran app allows users to enable or disable colour-coded Tajweed.\", ",
+            "\"Users can enable colour-coded Tajweed in the Quran app by ticking the Tajweed checkbox in Quick settings.\", ",
+            "\"Users can disable colour-coded Tajweed in the Quran app by unticking the Tajweed checkbox in Quick settings.\"]"
+        ],
+        "title": "Tajweed & Quranic Recitation Guidance",
+        "summary": "This chunk focuses on the importance of proper Quranic recitation, specifically the role of Tajweed in enhancing the beauty and accuracy of reading the Quran, reflecting the Islamic value of reverence for the holy book.",
+        "chunk_index": 49
+    },
+    "76b2c": {
+        "chunk_id": "76b2c",
+        "propositions": [
+            "[\"The Prophets greeted each other and shared meals.\", ",
+            "\"The Prophet Muhammad encouraged sharing food with family and friends.\", ",
+            "\"The Prophet Muhammad said that none of you truly believes until he loves for his brother what he loves for himself.\"]"
+        ],
+        "title": "Islamic Values of Brotherhood & Compassion",
+        "summary": "This chunk explores the Islamic values of brotherhood, kindness, and generosity, highlighting the importance of loving and caring for one another, as exemplified through the Prophets' interactions and teachings on unity and compassion among Muslims.",
+        "chunk_index": 50
+    },
+    "f4152": {
+        "chunk_id": "f4152",
+        "propositions": [
+            "\"The Prophet Muhammad was a perfect example of kindness, generosity, and respect.\", ",
+            "\"The actions of the Prophet Muhammad show Muslims how to be good to others, treat people with care, and follow the teachings of Islam.\", ",
+            "\"The Prophet Muhammad was known for his incredible patience, kindness, and compassion.\", ",
+            "\"The Prophet Muhammad always used gentle words when speaking to others.\", ",
+            "\"Muslims believe Prophet Muhammad had a character.\", ",
+            "\"Prophet Muhammad had a character as a model for all humanity to follow.\", ",
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, was beloved by his Companions (Sahabah).\", ",
+            "\"The Companions sought to sit as close to the Prophet Muhammad, sallallahu alayhe wa sallam, as possible.\", "
+        ],
+        "title": "Prophet Muhammad's Exemplary Character",
+        "summary": "This chunk explores the exemplary character of the Prophet Muhammad, highlighting his embodiment of Islamic values such as kindness, generosity, and respect, and invites reflections on how his teachings can guide Muslim behavior and interactions.",
+        "chunk_index": 51
+    },
+    "bcb38": {
+        "chunk_id": "bcb38",
+        "propositions": [
+            "\"Allah commands Muslims to speak kindly to mankind.\", ",
+            "\"Speaking kindly, helping others, and showing respect are key parts of Islamic manners.\", ",
+            "\"Compassion is a vital part of good manners and reflects the teachings of the Prophet Muhammad.\", ",
+            "\"Sharing food with others is a kind gesture and a Sunnah.\", ",
+            "\"Speaking kindly can make someone's day and bring peace to one's heart.\", "
+        ],
+        "title": "Kindness and Compassion in Islam",
+        "summary": "This chunk focuses on the Islamic teaching of speaking with kindness and compassion to all people, reflecting Allah's command to treat others with respect and gentle speech.",
+        "chunk_index": 52
+    },
+    "9db20": {
+        "chunk_id": "9db20",
+        "propositions": [
+            "\"A neighbor of the Prophet Muhammad would throw garbage in front of his house every day.\", ",
+            "\"The Prophet Muhammad never retaliated or got angry with his neighbor.\", ",
+            "\"The Prophet Muhammad visited his neighbor when he was sick and found out he was ill.\", ",
+            "\"The neighbor of the Prophet Muhammad became a follower of Islam after being shown kindness.\", "
+        ],
+        "title": "Islamic Neighborly Kindness & Compassion",
+        "summary": "This chunk explores the importance of kindness and consideration towards neighbors in Islam, as exemplified by the actions and teachings of the Prophet Muhammad, highlighting the value of treating those living nearby with compassion and respect.",
+        "chunk_index": 53
+    },
+    "930e9": {
+        "chunk_id": "930e9",
+        "propositions": [
+            "\"Kindness and patience can change hearts, even when others aren't.\", "
+        ],
+        "title": "Islamic Values of Kindness & Compassion",
+        "summary": "This chunk explores the transformative power of kindness and patience in relationships and interactions with others, reflecting the Islamic values of compassion, empathy, and gentle guidance, as embodied in the teachings of the Quran and the Prophet Muhammad (peace be upon him).",
+        "chunk_index": 54
+    },
+    "b8e69": {
+        "chunk_id": "b8e69",
+        "propositions": [
+            "\"Saying 'Bismillah' before eating helps bring the blessings of Allah to a meal.\", ",
+            "\"The Prophet Muhammad taught Muslims to say 'Bismillah' before eating and to use their right hand.\", ",
+            "\"Bismillah (In the name of Allah) is used to start any action with Allah's name.\", "
+        ],
+        "title": "Invoking Allah's Name: Bismillah in Daily Life",
+        "summary": "This chunk explores the significance of invoking Allah's name, specifically saying 'Bismillah', in daily actions and meals as a means of seeking blessings, expressing gratitude, and acknowledging divine guidance in Islam.",
+        "chunk_index": 55
+    },
+    "59a62": {
+        "chunk_id": "59a62",
+        "propositions": [
+            "\"Cleanliness is an important part of Islam.\", ",
+            "\"Cleanliness is often said to be half of faith.\", ",
+            "\"The Prophet Muhammad taught Muslims to keep themselves and their surroundings clean.\", "
+        ],
+        "title": "Importance of Cleanliness in Islam",
+        "summary": "This chunk explores the significance of cleanliness in Islam, emphasizing its role as a fundamental aspect of the faith.",
+        "chunk_index": 56
+    },
+    "29225": {
+        "chunk_id": "29225",
+        "propositions": [
+            "\"Respecting parents and elders is a key part of Islamic manners.\", ",
+            "\"The Prophet Muhammad showed love and care toward his parents, grandparents, and other elders.\", ",
+            "\"Don't be rude to parents.\", "
+        ],
+        "title": "Filial Piety in Islam",
+        "summary": "This chunk explores the significance of filial piety and respect for elders in Islam, highlighting the importance of treating parents and seniors with kindness and deference as a fundamental aspect of Islamic etiquette.",
+        "chunk_index": 57
+    },
+    "89ff1": {
+        "chunk_id": "89ff1",
+        "propositions": [
+            "\"The Golden Rule in Islam is 'Do unto others as you would have them do unto you'.\", "
+        ],
+        "title": "Islamic Values of Kindness & Respect",
+        "summary": "This chunk explores the Islamic principle of treating others with kindness and respect, as encapsulated in the Golden Rule, and invites discussions on its application in daily life.",
+        "chunk_index": 58
+    },
+    "b80c3": {
+        "chunk_id": "b80c3",
+        "propositions": [
+            "[\"The Dhuhr prayer has a specific number of rakats.\", ",
+            "\"A rakat is a unit of prayer.\", ",
+            "\"Non-Arabic speakers need guidance on performing Dhuhr prayer correctly.\", ",
+            "\"The guidance for performing Dhuhr prayer is provided in a step-by-step manner.\", ",
+            "\"The Dhuhr prayer is performed in a specific way.\", ",
+            "\"There is a correct way to perform rakats in Dhuhr prayer.\"]"
+        ],
+        "title": "Dhuhr Prayer Performance Guide",
+        "summary": "This chunk contains information about the specifics of the Dhuhr prayer in Islam, including its rakats and proper performance, relating to the broader topic of Islamic prayer obligations.",
+        "chunk_index": 59
+    },
+    "13b4d": {
+        "chunk_id": "13b4d",
+        "propositions": [
+            "[\"The primary Islamic greeting is \u201cAs-Salamu Alaikum\u201d (\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645).\", ",
+            "\"As-Salamu Alaikum translates to \u201cPeace be upon you.\u201d\", ",
+            "\"The customary reply to As-Salamu Alaikum is \u201cWa Alaikum As-Salam\u201d (\u0648\u0639\u0644\u064a\u0643\u0645 \u0627\u0644\u0633\u0644\u0627\u0645).\", ",
+            "\"As-salamu alaykum is the most common greeting among Muslims and Arabic speakers.\", ",
+            "\"You can use As-salamu alaykum any time, in both formal and informal situations.\", ",
+            "\"It's a very polite and respectful way to say hello, and it is important in Islamic culture.\", ",
+            "\"The response to As-salamu alaykum is \u201cWa alaykumu as-salam\u201d, meaning \u201cAnd peace be upon you too.\u201d\", ",
+            "\"Marhaban is not as formal as As-salamu alaykum, but still polite.\", ",
+            "\"Ahlan wa sahlan is used when you welcome guests or when someone arrives at your house, office, or event.\", ",
+            "\"The response to Ahlan wa sahlan is \u201cAhlan bik\u201d, which means \u201cYou are welcome.\u201d\", ",
+            "\"The response to Masa' al-khair is \u201cMasa' al-noor\u201d, meaning \u201cEvening of light.\u201d\", "
+        ],
+        "title": "Islamic Greetings and Etiquette",
+        "summary": "This chunk explores Islamic greetings and etiquette, specifically highlighting traditional greetings and responses as a way of promoting peace and respect in interactions.",
+        "chunk_index": 60
+    },
+    "f901c": {
+        "chunk_id": "f901c",
+        "propositions": [
+            "\"The Arabic root \u201cS-L-M\u201d (\u0633\u0644\u0627\u0645) signifies peace, safety, and submission to God.\", ",
+            "\"The phrase As-Salamu Alaikum encapsulates Islam's core mission: to establish tranquility in human hearts and societies.\", ",
+            "\"Wa Alaikum As-Salam means \u201cAnd peace be upon you.\u201d\", ",
+            "\"As-Salamu Alaikum wa Rahmatullahi wa Barakatuh (\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645 \u0648\u0631\u062d\u0645\u0629 \u0627\u0644\u0644\u0647 \u0648\u0628\u0631\u0643\u0627\u062a\u0647) is an extended Islamic greeting.\", ",
+            "\"As-Salamu Alaikum wa Rahmatullahi wa Barakatuh means \u201cPeace, mercy, and blessings of Allah be upon you.\u201d\", ",
+            "\"Wa Alaikum As-salam Wa Rahmatullahi Wa Barakatuh is a response to As-Salamu Alaikum wa Rahmatullahi wa Barakatuh.\", ",
+            "\"Allah instructs in Surah An-Nisa (4:86): \u201cWhen you are greeted with a greeting, respond with a better one or return it.\u201d\", ",
+            "\"The Prophet Muhammad (\ufdfa) highlighted the importance of spreading Salam.\", ",
+            "\"The Prophet Muhammad (\ufdfa) said: \u201cYou will not enter Paradise until you believe, and you will not believe until you love one another. Shall I inform you of something that makes you love one another? Spread Salam (greetings) among yourselves.\u201d\", ",
+            "\"The Prophet Muhammad (\ufdfa) said: \u201cThe one who initiates Salam is free from pride.\u201d\", ",
+            "\"As-salamu alaykum means \u201cPeace be upon you.\u201d\", ",
+            "\"As-salamu alaykum is used with friends, family, or even strangers.\", ",
+            "\"Salam is a very short and informal way to say \u201cHello\u201d or \u201cPeace.\u201d\", ",
+            "\"The response to Salam is \u201cSalam\u201d again.\", ",
+            "\"As-salamu alaykum is the primary greeting used by Muslims.\", ",
+            "\"The full version of the Muslim greeting is As-salamu alaykum wa rahmatullahi wa barakatuh, which translates to \u201cPeace be upon you, and the mercy of Allah and His blessings.\u201d\", ",
+            "\"As-salamu alaykum wa rahmatullahi wa barakatuh is typically used in more formal settings or during religious occasions.\", ",
+            "\"When leaving a group, it is proper for a Muslim to commend the people there with salutations of peace.\", ",
+            "\"If someone sneezes and then praises Allah (saying alhamdulillah), the people around should respond with a prayer for Allah's mercy for him.\", "
+        ],
+        "title": "Islamic Greetings & Salam Values",
+        "summary": "This chunk explores the significance of the concept of \"Salam\" in Islam, encompassing the values of peace, safety, and submission to God, and its roots in the Arabic language.",
+        "chunk_index": 61
+    },
+    "febc3": {
+        "chunk_id": "febc3",
+        "propositions": [
+            "\"JazakAllah / JazakAllahu Khairan (May Allah reward you) is an expression of thanks.\", ",
+            "\"BarakAllahu Feek/Feekum (May Allah bless you) is a reply to gratitude.\", ",
+            "\"Jazakallahu khairan means \u201cMay Allah reward you with goodness,\u201d it's often said when someone does a kind act.\", "
+        ],
+        "title": "Expressions of Islamic Gratitude",
+        "summary": "This chunk contains expressions of gratitude and appreciation in Islam, specifically phrases used to acknowledge and thank others for their good deeds.",
+        "chunk_index": 62
+    },
+    "68df5": {
+        "chunk_id": "68df5",
+        "propositions": [
+            "\"Alhamdulillah (Praise be to Allah) is an expression of thanks to Allah.\", ",
+            "\"Maa Shaa Allah (As Allah has willed) is an expression used to admire something without invoking envy.\", ",
+            "\"Mashallah means \u201cWhat Allah has willed,\u201d it's often said to express admiration or gratitude without invoking jealousy.\", "
+        ],
+        "title": "Islamic Expressions of Thanks & Humility",
+        "summary": "This chunk explores the significance of expressions of gratitude and humility in Islam, including phrases used to acknowledge and thank Allah, and to express admiration without invoking envy.",
+        "chunk_index": 63
+    },
+    "d090f": {
+        "chunk_id": "d090f",
+        "propositions": [
+            "\"Tabarak Allah (Blessed be Allah) is a reaction to joyous news.\", ",
+            "\"Barakallahu feek means \u201cMay Allah bless you.\u201d\", "
+        ],
+        "title": "Islamic Expressions of Gratitude & Praise",
+        "summary": "This chunk contains expressions of gratitude and praise in Islam, specifically phrases used to acknowledge and celebrate blessings, such as phrases of supplication and benediction.",
+        "chunk_index": 64
+    },
+    "9f6d5": {
+        "chunk_id": "9f6d5",
+        "propositions": [
+            "\"Insha Allah (If Allah wills) is used to plan future endeavors with humility.\", "
+        ],
+        "title": "Islamic Humility & Taqwa",
+        "summary": "This chunk explores the Islamic concept of humility in planning and decision-making, specifically through the use of the phrase \"Insha Allah\" to acknowledge Allah's will and sovereignty in future endeavors.",
+        "chunk_index": 65
+    },
+    "d8160": {
+        "chunk_id": "d8160",
+        "propositions": [
+            "\"Tawakkal-tu-Allah (I rely on Allah) / Tawakkaltu Alai Allah (We trust in Allah) is an expression of surrendering worries to Him.\", ",
+            "\"When you have decided on a course of action, put your trust in God.\", "
+        ],
+        "title": "Tawakkal & Trust in Allah",
+        "summary": "This chunk explores the concept of trust and reliance on Allah, specifically through the expression of Tawakkal, highlighting the Islamic value of surrendering worries and concerns to Him.",
+        "chunk_index": 66
+    },
+    "a7f00": {
+        "chunk_id": "a7f00",
+        "propositions": [
+            "\"Hasbi Allah (Allah is sufficient for me) is an expression of seeking solace in hardship.\", "
+        ],
+        "title": "Trust in Allah & Patience",
+        "summary": "This chunk explores the concept of seeking comfort and trust in Allah during difficult times, highlighting the significance of expressions such as \"Hasbi Allah\" in Islamic teachings on patience and reliance on God.",
+        "chunk_index": 67
+    },
+    "67afc": {
+        "chunk_id": "67afc",
+        "propositions": [
+            "\"Astaghfirullah (I seek Allah's forgiveness) is an expression of repenting sincerely.\", "
+        ],
+        "title": "Seeking Forgiveness in Islam",
+        "summary": "This chunk explores the concept of repentance in Islam, specifically the significance of Astaghfirullah as a means of seeking Allah's forgiveness and turning back to a righteous path.",
+        "chunk_index": 68
+    },
+    "3387f": {
+        "chunk_id": "3387f",
+        "propositions": [
+            "\"Rahmah Allah (May Allah have mercy on him/her) is an expression used for those in distress.\", ",
+            "\"Rahimakallahu means \u201cMay Allah have mercy on you,\u201d this phrase is often used when speaking about someone who has passed away.\"]"
+        ],
+        "title": "Expressions of Divine Mercy",
+        "summary": "This chunk explores expressions of compassion and mercy in Islam, specifically phrases used to invoke Allah's mercy, such as \"Rahmah Allah\" and \"Rahimakallahu\", and their significance in Islamic culture and teachings.",
+        "chunk_index": 69
+    },
+    "5ca31": {
+        "chunk_id": "5ca31",
+        "propositions": [
+            "\"Na'uzhu-bi-Allah (We seek refuge in Allah) is an expression used to reject harm or evil.\", "
+        ],
+        "title": "Seeking Refuge in Allah",
+        "summary": "This chunk explores the Islamic concept of seeking refuge in Allah, specifically the meaning and significance of the phrase \"Na'uzhu-bi-Allah\" in protecting oneself from harm and evil.",
+        "chunk_index": 70
+    },
+    "4077a": {
+        "chunk_id": "4077a",
+        "propositions": [
+            "\"Salallahu Alaihi Wasallam (S.A.W.) is invoked after Prophet Muhammad's name.\", ",
+            "\"Alaihis Salam (A.S.) is used for other prophets.\", "
+        ],
+        "title": "Invoking Blessings on Prophets",
+        "summary": "This chunk contains information about the prophetic practice of invoking blessings and peace upon prophets, particularly the significance of Salallahu Alaihi Wasallam (S.A.W.) and Alaihis Salam (A.S.) in Islamic tradition and etiquette.",
+        "chunk_index": 71
+    },
+    "39a2f": {
+        "chunk_id": "39a2f",
+        "propositions": [
+            "\"Radi Allah Anhu/Anha/Anhum (R.A.) is used to honor male/female companions of the Prophet.\", "
+        ],
+        "title": "Respecting Islamic Companions",
+        "summary": "This chunk discusses the Islamic tradition of showing respect to the companions of the Prophet Muhammad (peace be upon him) through the use of honorific phrases such as \"Radi Allah Anhu/Anha/Anhum\" (R.A.).",
+        "chunk_index": 72
+    },
+    "7c777": {
+        "chunk_id": "7c777",
+        "propositions": [
+            "\"La Hawla Wa La Quwwata Illa Billah (No power except by Allah) is an expression used to face adversity.\", "
+        ],
+        "title": "Trust in Allah's Power",
+        "summary": "This chunk explores the concept of Tawakkul (reliance on Allah) and the significance of expressions that reinforce trust in Allah's power, particularly during times of adversity.",
+        "chunk_index": 73
+    },
+    "cfc1d": {
+        "chunk_id": "cfc1d",
+        "propositions": [
+            "\"Inna Lillahi Wa Inna Ilayhi Raji'oon (To Allah we belong and return) is an expression used to mourn a loss.\", "
+        ],
+        "title": "Islamic Condolences & Faith",
+        "summary": "This chunk explores the Islamic expression of condolence, \"Inna Lillahi Wa Inna Ilayhi Raji'oon\", and its significance in coping with loss and affirming faith in Allah's sovereignty.",
+        "chunk_index": 74
+    },
+    "84e1e": {
+        "chunk_id": "84e1e",
+        "propositions": [
+            "\"Fi Amanullah (May Allah protect you) is a heartfelt farewell.\", "
+        ],
+        "title": "Islamic Farewell Phrases & Etiquette",
+        "summary": "This chunk explores the significance of farewell phrases in Islamic culture, specifically the expression \"Fi Amanullah\" as a means of invoking Allah's protection and blessings upon parting.",
+        "chunk_index": 75
+    },
+    "ba09a": {
+        "chunk_id": "ba09a",
+        "propositions": [
+            "\"Atqaa Allah (Fear Allah) is an advice against wrongdoing.\", ",
+            "\"Greet people when entering their home.\", ",
+            "\"If unable to help a needy person, at least speak nice words.\", "
+        ],
+        "title": "Taqwa & Righteous Conduct",
+        "summary": "This chunk explores the concept of Taqwa (God-consciousness) in Islam, emphasizing the importance of fearing Allah as a means of deterrence from wrongdoing and encouraging righteous behavior, including acts of etiquette, respect, and kindness towards others.",
+        "chunk_index": 76
+    },
+    "8ebf5": {
+        "chunk_id": "8ebf5",
+        "propositions": [
+            "\"Allahu Yahdika (May Allah guide you) is a correction.\", ",
+            "\"Preach to others in a good and wise manner.\", "
+        ],
+        "title": "Gentle Correction & Guidance",
+        "summary": "This chunk explores the concept of gentle correction and guidance in Islam, highlighting the importance of advising others with compassion and wisdom, as exemplified by phrases such as \"Allahu Yahdika\" (May Allah guide you), and encourages users to share related propositions on offering guidance and correction in a wise and kind manner.",
+        "chunk_index": 77
+    },
+    "0bcfb": {
+        "chunk_id": "0bcfb",
+        "propositions": [
+            "\"Allah A'lam (Allah knows best) is an acknowledgment of human limitation.\", "
+        ],
+        "title": "Islamic Humility & Taqwa",
+        "summary": "This chunk explores the concept of humility and acknowledging one's limitations in Islam, highlighting the importance of recognizing Allah's supreme knowledge and wisdom.",
+        "chunk_index": 78
+    },
+    "e3abc": {
+        "chunk_id": "e3abc",
+        "propositions": [
+            "\"Azhak Allah Sinnaka (May Allah keep you cheerful) is an encouragement of positivity.\", "
+        ],
+        "title": "Islamic Positivity & Mental Well-being",
+        "summary": "This chunk explores the Islamic value of maintaining a positive outlook and the significance of expressions that promote cheerfulness and optimism, reflecting the teachings of Islam on mental well-being and spiritual growth.",
+        "chunk_index": 79
+    },
+    "5181e": {
+        "chunk_id": "5181e",
+        "propositions": [
+            "\"Yaa Allah (O Allah) is a call upon Him in pain or joy.\", "
+        ],
+        "title": "Invoking Allah's Name & Supplication",
+        "summary": "This chunk explores the concept of invoking Allah's name, specifically the phrase \"Yaa Allah\", and its significance in expressing one's emotions and needs, reflecting the Islamic value of turning to Allah in all circumstances.",
+        "chunk_index": 80
+    },
+    "99f74": {
+        "chunk_id": "99f74",
+        "propositions": [
+            "\"Aameen (May it be so) is a conclusion of duas.\", "
+        ],
+        "title": "Islamic Supplications & Duas",
+        "summary": "This chunk explores the significance of Aameen as a concluding phrase in Islamic supplications (duas), highlighting its role in expressing humility and submission to Allah's will.",
+        "chunk_index": 81
+    },
+    "4401a": {
+        "chunk_id": "4401a",
+        "propositions": [
+            "\"Hayyak Allah (May Allah sustain you) is a warm greeting.\"]",
+            "\"Each Arabic greeting offers something unique\u2014sometimes a blessing, other times a gesture of respect.\", ",
+            "\"Barakallahu feek is used in a variety of situations, from offering thanks to praising someone's efforts.\", ",
+            "\"Return a greeting in a better manner.\", "
+        ],
+        "title": "Islamic Greetings & Expressions of Goodwill",
+        "summary": "This chunk explores Islamic greetings and expressions of goodwill, highlighting the significance of kind words and phrases in fostering community and spreading blessings.",
+        "chunk_index": 82
+    },
+    "15c90": {
+        "chunk_id": "15c90",
+        "propositions": [
+            "[\"When learning Arabic, one of the first things you'll encounter is the beauty of Arabic greeting words.\", ",
+            "\"Arabic greetings go beyond simple pleasantries\u2014they carry deep meanings of respect, peace, and blessings, particularly in Muslim culture.\", ",
+            "\"Learning how to greet in Arabic opens doors to understanding the rich cultural and spiritual nuances of the Arabic language.\", ",
+            "\"Arabic greetings are rich in culture and meaning.\", ",
+            "\"Marhaban is a more casual greeting, meaning \u201cHello\u201d or \u201cWelcome.\u201d\", ",
+            "\"You can use Marhaban in both formal and informal situations.\", ",
+            "\"Ahlan wa sahlan is a warm greeting, and it's common when you invite someone to your home or when you meet them.\", ",
+            "\"Sabah al-khair is used in the morning, and it's a polite way to start the day.\", ",
+            "\"Sabah al-khair is used when you see someone in the morning, whether at work, school, or even at home.\", ",
+            "\"The response to Sabah al-khair is \u201cSabah al-noor\u201d, meaning \u201cMorning of light.\u201d\", "
+        ],
+        "title": "Arabic Greetings in Islam",
+        "summary": "This chunk explores the significance of Arabic greetings in Islamic culture, highlighting their importance in everyday interactions and how they reflect the values of kindness, respect, and peace emphasized in Islam.",
+        "chunk_index": 83
+    },
+    "3ece5": {
+        "chunk_id": "3ece5",
+        "propositions": [
+            "\"It's especially used in Muslim-majority countries.\", "
+        ],
+        "title": "Zakat in Muslim Communities",
+        "summary": "This chunk discusses the cultural and geographical context of zakat, highlighting its prevalence and significance in regions with a Muslim-majority population.",
+        "chunk_index": 84
+    },
+    "fba78": {
+        "chunk_id": "fba78",
+        "propositions": [
+            "\"Marhaban is very friendly.\", ",
+            "\"Marhaban is used with friends, colleagues, or when you meet someone for the first time.\", ",
+            "\"The response to Marhaban is \u201cMarhaban bik\u201d, which means \u201cHello to you too\u201d or \u201cWelcome to you.\u201d\", ",
+            "\"Ahlan wa sahlan means \u201cWelcome\u201d and is often used to show hospitality.\", "
+        ],
+        "title": "Islamic Hospitality & Greetings",
+        "summary": "This chunk discusses the Islamic value of hospitality and friendliness, specifically exemplified through greetings and responses in social interactions, and invites exploration of similar examples of warm and welcoming behavior in an Islamic context.",
+        "chunk_index": 85
+    },
+    "31314": {
+        "chunk_id": "31314",
+        "propositions": [
+            "\"Sabah al-khair means \u201cGood morning.\u201d\", ",
+            "\"Tabba sabahak is more formal than Sabah al-khair, and is less commonly used.\", "
+        ],
+        "title": "Islamic Daily Greetings",
+        "summary": "This chunk explores common Arabic phrases and expressions used in daily life, highlighting the importance of kind greetings in Islam, such as sabah al-khair, as a way to foster community and goodwill.",
+        "chunk_index": 86
+    },
+    "f0113": {
+        "chunk_id": "f0113",
+        "propositions": [
+            "\"Masa' al-khair means \u201cGood evening\u201d and is used after the afternoon, usually from late afternoon till night.\", ",
+            "\"Masa' al-khair is used when you meet someone in the evening, whether it's formal or informal.\", ",
+            "\"Tabba masa'ak is used in the evening to greet someone with wishes of a good evening when you want to sound more poetic.\", "
+        ],
+        "title": "Islamic Evening Greetings Etiquette",
+        "summary": "This chunk discusses Islamic greetings and etiquette, specifically the usage and timing of phrases used to promote kindness and courtesy in interactions, reflecting the Islamic value of being considerate towards others.",
+        "chunk_index": 87
+    },
+    "51ccc": {
+        "chunk_id": "51ccc",
+        "propositions": [
+            "\"Tabba sabahak is a polite way to wish someone a pleasant morning.\", ",
+            "\"Tabba sabahak is used when you want to sound more poetic in the morning.\", "
+        ],
+        "title": "Morning Greetings in Islam",
+        "summary": "This chunk explores greetings and expressions of kindness in Islamic culture, focusing on phrases that promote positivity and well-wishings, such as \"Tabba sabahak\", which reflects the values of courtesy and goodwill.",
+        "chunk_index": 88
+    },
+    "4b270": {
+        "chunk_id": "4b270",
+        "propositions": [
+            "\"Salam is used mostly between close friends or in quick conversations.\", ",
+            "\"Kayfa al-haal is a common greeting used to ask about someone's well-being.\", "
+        ],
+        "title": "Islamic Greetings and Salutations",
+        "summary": "This chunk explores the usage and cultural significance of Islamic greetings, including Salam and other phrases used to inquire about someone's well-being, in various social interactions.",
+        "chunk_index": 89
+    },
+    "1619e": {
+        "chunk_id": "1619e",
+        "propositions": [
+            "\"Naharak sa'eed is a cheerful and positive greeting, wishing someone happiness throughout the day.\", ",
+            "\"Naharak sa'eed is used in the morning or afternoon.\", ",
+            "\"The response to Naharak sa'eed is \u201cWa naharak as'ad\u201d, meaning \u201cAnd may your day be happier.\u201d\", "
+        ],
+        "title": "Islamic Greetings & Kindness",
+        "summary": "This chunk explores the Islamic greeting of \"Naharak sa'eed\" and its significance in spreading joy and positivity, reflecting the Islamic value of promoting kindness and goodwill towards others.",
+        "chunk_index": 90
+    },
+    "4ca98": {
+        "chunk_id": "4ca98",
+        "propositions": [
+            "\"Kayfa al-haal is used in all kinds of conversations, from casual to formal.\", ",
+            "\"The response to Kayfa al-haal is \u201cAlhamdulillah\u201d, meaning \u201cPraise be to God,\u201d or \u201cAna bekhair\u201d, meaning \u201cI am fine.\u201d\", "
+        ],
+        "title": "Effective Communication in Islam",
+        "summary": "This chunk explores the versatility of the Arabic phrase \"Kayfa al-haal\" in various conversational contexts, reflecting the Islamic value of effective communication and social interaction.",
+        "chunk_index": 91
+    },
+    "239b6": {
+        "chunk_id": "239b6",
+        "propositions": [
+            "\"Ya Hala is an informal, friendly greeting used mostly in Gulf countries.\", ",
+            "\"Ya Hala means \u201cYou are welcome\u201d or \u201cHello.\u201d\", ",
+            "\"Ya Hala is used when welcoming friends or during casual conversations.\", ",
+            "\"The response to Ya Hala is \u201cYa Hala feek\u201d, meaning \u201cYou are welcome here.\u201d\", "
+        ],
+        "title": "Islamic Greetings & Etiquette",
+        "summary": "This chunk discusses cultural greetings in Islamic societies, specifically informal greetings like \"Ya Hala\" commonly used in Gulf countries, reflecting the importance of social etiquette and friendly interactions in Islamic culture.",
+        "chunk_index": 92
+    },
+    "de886": {
+        "chunk_id": "de886",
+        "propositions": [
+            "\"Allah yahmeek means \u201cMay Allah protect you.\u201d\", "
+        ],
+        "title": "Islamic Supplications & Blessings",
+        "summary": "This chunk contains phrases and expressions of blessings and well-wishes in Islam, specifically exploring supplications for protection and their meanings.",
+        "chunk_index": 93
+    },
+    "1312f": {
+        "chunk_id": "1312f",
+        "propositions": [
+            "[\"However, this is not an excuse for those who step outside the boundaries.\", ",
+            "\"Those who step outside the boundaries become carried away.\", "
+        ],
+        "title": "Adhering to Islamic Boundaries",
+        "summary": "This chunk discusses the importance of adhering to Islamic boundaries and guidelines, and the need for individuals to remain within the limits set by their faith.",
+        "chunk_index": 94
+    },
+    "090a5": {
+        "chunk_id": "090a5",
+        "propositions": [
+            "\"Their Islamic identity is completely lost.\", ",
+            "\"It becomes difficult for those whose Islamic identity is completely lost.\"]"
+        ],
+        "title": "Preserving Islamic Identity & Faith",
+        "summary": "This chunk explores the theme of spiritual disconnection and loss of Islamic identity, relating to the importance of faith and adherence to Islamic values.",
+        "chunk_index": 95
+    },
+    "6ffde": {
+        "chunk_id": "6ffde",
+        "propositions": [
+            "[\"Human nature desires a society based on morals and manners.\", ",
+            "\"Human nature desires a society based on morals and manners which provides a stable and secure life.\", "
+        ],
+        "title": "Building a Righteous Society",
+        "summary": "This chunk explores the Islamic concept of a righteous society, highlighting the importance of morality and good character in human relationships, reflecting the Quranic principles of compassion, justice, and fairness.",
+        "chunk_index": 96
+    },
+    "7be00": {
+        "chunk_id": "7be00",
+        "propositions": [
+            "\"Human nature desires a society based on morals and manners which provides a stable and secure life leading to liberty.\", ",
+            "\"Human nature desires a society based on morals and manners which provides a stable and secure life leading to liberty and happiness.\", ",
+            "\"Human nature desires a society based on morals and manners which provides a stable and secure life leading to liberty and happiness for all people.\", "
+        ],
+        "title": "Moral Values for a Just Society",
+        "summary": "This chunk explores the Islamic concept of a just and harmonious society, rooted in moral values and good character, as essential for achieving stability, security, liberty, and happiness, reflecting the Quranic principles of promoting righteousness and compassion.",
+        "chunk_index": 97
+    },
+    "0264a": {
+        "chunk_id": "0264a",
+        "propositions": [
+            "\"The Quran describes the Prophet Muhammad.\", "
+        ],
+        "title": "Prophetic Biography & Character",
+        "summary": "This chunk contains information about the Prophetic biography and the Quranic portrayal of Prophet Muhammad, highlighting his role and characteristics as described in Islamic scripture.",
+        "chunk_index": 98
+    },
+    "7d503": {
+        "chunk_id": "7d503",
+        "propositions": [
+            "\"By an act of mercy from God, you O' Prophet were gentle in your dealings with them.\", "
+        ],
+        "title": "Islamic Virtues of Mercy & Compassion",
+        "summary": "This chunk explores the Islamic value of mercy and compassion, specifically highlighting the Prophet's gentle nature as a manifestation of divine mercy, and invites reflection on the importance of embodying these qualities.",
+        "chunk_index": 99
+    },
+    "16c3f": {
+        "chunk_id": "16c3f",
+        "propositions": [
+            "\"Had you been harsh, or hard-hearted, they would have dispersed and left you.\", "
+        ],
+        "title": "Islamic Virtues of Compassion & Mercy",
+        "summary": "This chunk explores the Islamic virtue of compassion and gentleness, highlighting the Quranic principle that kindness and mercy are essential for maintaining unity and loyalty, as reflected in the Prophet's approach to his companions.",
+        "chunk_index": 100
+    },
+    "6ac1e": {
+        "chunk_id": "6ac1e",
+        "propositions": [
+            "\"So pardon them and ask forgiveness for them.\", "
+        ],
+        "title": "Islamic Forgiveness & Mercy",
+        "summary": "This chunk explores the Islamic values of forgiveness and mercy, specifically referencing Quranic guidance on pardoning others and seeking forgiveness for them.",
+        "chunk_index": 101
+    },
+    "a1fca": {
+        "chunk_id": "a1fca",
+        "propositions": [
+            "\"Consult with them about matters.\", ",
+            "\"Be lenient to those under you, and consult them in matters.\", "
+        ],
+        "title": "The Value of Shura",
+        "summary": "This chunk explores the Islamic value of consultation and collaboration, highlighting the importance of seeking advice and opinions from others in decision-making processes, as reflected in the principle of shura.",
+        "chunk_index": 102
+    },
+    "985a3": {
+        "chunk_id": "985a3",
+        "propositions": [
+            "\"God loves those who put their trust in Him.\", "
+        ],
+        "title": "Trust in Allah & Tawakkul",
+        "summary": "This chunk explores the Islamic concept of trust in God, specifically highlighting the virtue of relying on Allah and its significance in a Muslim's life.",
+        "chunk_index": 103
+    },
+    "f79eb": {
+        "chunk_id": "f79eb",
+        "propositions": [
+            "\"Don't lie.\", "
+        ],
+        "title": "Islamic Values of Honesty & Truthfulness",
+        "summary": "This chunk discusses the Islamic value of honesty and the prohibition of lying, reflecting the Quranic principle of truthfulness.",
+        "chunk_index": 104
+    },
+    "68ab2": {
+        "chunk_id": "68ab2",
+        "propositions": [
+            "\"Don't spy.\", "
+        ],
+        "title": "Islamic Values of Confidentiality & Trust",
+        "summary": "This chunk focuses on the Islamic teaching of maintaining confidentiality and trust, specifically the prohibition on spying, and invites discussions on related Quranic verses and hadiths that emphasize the importance of guarding one's tongue and respecting others' privacy.",
+        "chunk_index": 105
+    },
+    "96fab": {
+        "chunk_id": "96fab",
+        "propositions": [
+            "\"Don't exult.\", ",
+            "\"Walk in a humble manner.\", ",
+            "\"Don't criticize small contributions of others.\", "
+        ],
+        "title": "Humility in Islamic Conduct",
+        "summary": "This chunk explores the Islamic value of humility, focusing on the importance of avoiding pride and boastfulness, and promoting modest behavior, as exemplified by phrases that caution against excessive self-praise and encourage humble actions.",
+        "chunk_index": 106
+    },
+    "1f10d": {
+        "chunk_id": "1f10d",
+        "propositions": [
+            "\"Don't insult.\", ",
+            "\"Don't backbite.\", ",
+            "\"Don't spread gossip.\", ",
+            "\"Turn away from ill speech.\", ",
+            "\"Don't make fun of others.\", ",
+            "\"Don't call others with bad names.\", ",
+            "\"Speak nicely, even to the ignorant.\", ",
+            "\"Lower your voice and talk moderately.\", ",
+            "\"Speak gently, even to leaders of disbelief.\", ",
+            "\"Don't turn your cheek away from people in arrogance.\", ",
+            "\"Say it's not appropriate to talk of slander when it's mentioned to you.\", "
+        ],
+        "title": "Islamic Speech Etiquette",
+        "summary": "This chunk focuses on the Islamic value of respectful speech, emphasizing the importance of refraining from insults, backbiting, gossip, hurtful language, and ill treatment of others, in line with the Quranic principle of speaking kindly and avoiding harm to others.",
+        "chunk_index": 107
+    },
+    "28489": {
+        "chunk_id": "28489",
+        "propositions": [
+            "\"Don't waste.\", "
+        ],
+        "title": "Islamic Values of Moderation",
+        "summary": "This chunk focuses on the Islamic value of moderation and conservation, emphasizing the importance of avoiding wastefulness, as encouraged by the Quran and the teachings of Prophet Muhammad (peace be upon him).",
+        "chunk_index": 108
+    },
+    "afb7b": {
+        "chunk_id": "afb7b",
+        "propositions": [
+            "\"Keep your oaths.\", "
+        ],
+        "title": "Islamic Promises & Honesty",
+        "summary": "This chunk contains guidance on the importance of fulfilling promises and oaths in Islam, emphasizing the value of honesty and commitment in one's words.",
+        "chunk_index": 109
+    },
+    "4cb63": {
+        "chunk_id": "4cb63",
+        "propositions": [
+            "\"Don't take bribes.\", ",
+            "\"Don't deceive people in trade.\", "
+        ],
+        "title": "Upholding Moral Conduct",
+        "summary": "This chunk focuses on the Islamic principle of honesty and integrity, specifically highlighting the prohibition of bribery and deception in personal and professional life, and invites additions that discuss other aspects of upholding moral conduct and trustworthiness.",
+        "chunk_index": 110
+    },
+    "e132c": {
+        "chunk_id": "e132c",
+        "propositions": [
+            "\"Honour your treaties.\", ",
+            "\"Keep your trusts & promises.\", "
+        ],
+        "title": "Fulfilling Agreements & Promises",
+        "summary": "This chunk explores the Islamic value of fulfilling agreements and covenants, emphasizing the importance of honouring treaties, trusts, and promises as a fundamental aspect of Muslim character and community relationships.",
+        "chunk_index": 111
+    },
+    "414eb": {
+        "chunk_id": "414eb",
+        "propositions": [
+            "\"Restrain your anger.\", "
+        ],
+        "title": "Islamic Emotional Regulation & Self-Control",
+        "summary": "This chunk focuses on the Islamic teaching of managing one's temper and emotions, emphasizing the importance of restraint and self-control, as exemplified by the Prophet Muhammad's (peace be upon him) encouragement to restrain one's anger.",
+        "chunk_index": 112
+    },
+    "3bcd0": {
+        "chunk_id": "3bcd0",
+        "propositions": [
+            "\"Think good of others.\", "
+        ],
+        "title": "Islamic Values of Good Thoughts",
+        "summary": "This chunk focuses on the Islamic value of having a positive opinion of others, emphasizing the importance of maintaining good thoughts about people, as encouraged in Islamic teachings.",
+        "chunk_index": 113
+    },
+    "e667e": {
+        "chunk_id": "e667e",
+        "propositions": [
+            "\"Don't harm believers.\", "
+        ],
+        "title": "Islamic Values of Kindness & Compassion",
+        "summary": "This chunk focuses on the importance of kindness and compassion towards fellow believers, reflecting the Islamic value of treating others with respect and gentleness, as embodied in the teachings of the Quran and the Hadith.",
+        "chunk_index": 114
+    },
+    "f95e8": {
+        "chunk_id": "f95e8",
+        "propositions": [
+            "\"Respond to evil with good.\", ",
+            "\"Don't ask for repayment for favours.\", ",
+            "\"Don't remind others of your favours.\", "
+        ],
+        "title": "Responding to Evil with Kindness",
+        "summary": "This chunk explores the Islamic teaching of responding to wrongdoing with kindness and goodness, reflecting the Quranic principle of turning evil into good as a means of promoting peace and harmony.",
+        "chunk_index": 115
+    },
+    "77b24": {
+        "chunk_id": "77b24",
+        "propositions": [
+            "\"Don't say what you don't do.\", "
+        ],
+        "title": "Islamic Integrity & Honesty",
+        "summary": "This chunk emphasizes the Islamic value of integrity and honesty, highlighting the importance of aligning one's words with their actions, as exemplified by the prophetic teaching that \"a person who claims to have knowledge but doesn't act upon it, or says something they don't do, will be held accountable.\"",
+        "chunk_index": 116
+    },
+    "41f3b": {
+        "chunk_id": "41f3b",
+        "propositions": [
+            "\"Don't insult others' false gods.\", ",
+            "\"Don't accuse others of immorality without proof.\", ",
+            "\"Don't call someone a disbeliever without knowing.\", "
+        ],
+        "title": "Interfaith Respect & Tolerance",
+        "summary": "This chunk explores the Islamic teaching of respecting other faiths and their symbols, emphasizing the importance of kindness, tolerance, and moral conduct towards people of other beliefs.",
+        "chunk_index": 117
+    },
+    "f8522": {
+        "chunk_id": "f8522",
+        "propositions": [
+            "\"Don't take items without right.\", "
+        ],
+        "title": "Islamic Values of Honesty & Property Rights",
+        "summary": "This chunk focuses on the Islamic value of honesty and the prohibition of taking something that does not belong to you, emphasizing the importance of respecting others' property rights.",
+        "chunk_index": 118
+    },
+    "701ef": {
+        "chunk_id": "701ef",
+        "propositions": [
+            "\"Don't ask unnecessary questions.\", "
+        ],
+        "title": "Islamic Humility & Modesty",
+        "summary": "This chunk offers guidance on maintaining discretion and restraint in inquiry, reflecting the Islamic value of humility and avoiding unnecessary curiosity.",
+        "chunk_index": 119
+    },
+    "16456": {
+        "chunk_id": "16456",
+        "propositions": [
+            "\"Don't claim yourselves to be pure.\", "
+        ],
+        "title": "Islamic Humility & Self-Awareness",
+        "summary": "This chunk explores the Islamic teaching of humility and avoiding self-praise, emphasizing the importance of recognizing one's imperfections and leaving self-assessment to Allah.",
+        "chunk_index": 120
+    },
+    "5a990": {
+        "chunk_id": "5a990",
+        "propositions": [
+            "\"Make room for others at gatherings.\", ",
+            "[\"Making room for newcomers in a gathering is a rule of refined conduct taught and encouraged by the Prophet Muhammad, sallallahu alayhe wa sallam.\", ",
+            "\"Allah, subhanahu wa ta'ala, says: \\\"O you who have believed, when you are told, 'Make room [for one another]' in gatherings, then make room; Allah will make room for you.\\\"\", ",
+            "\"The first rule commands making space for newcomers when sitting in an assembly.\", ",
+            "\"Making space for newcomers allows them to sit down, feel welcome and part of the assembly.\", ",
+            "\"Ibn Umar quoted the Prophet Muhammad, sallallahu alayhe wa sallam, as saying: \\\"Let no person get up only to have another to sit in his place, but rather make room and enlarge your circle\\\".\", ",
+            "\"When someone arrives late to a learning session, the people already there should make room.\", "
+        ],
+        "title": "Islamic Etiquette of Inclusivity",
+        "summary": "This chunk focuses on the Islamic value of hospitality, generosity, and courtesy, encouraging believers to prioritize inclusivity in social gatherings by making room for others, as taught by the Prophet Muhammad, sallallahu alayhe wa sallam, and emphasized in the Quran.",
+        "chunk_index": 121
+    },
+    "96e6a": {
+        "chunk_id": "96e6a",
+        "propositions": [
+            "\"If enemy wants peace, then accept it.\", ",
+            "\"Make peace between fighting groups.\", ",
+            "\"Try to make peace between husband & wife.\", ",
+            "\"In a group of three, it is not right for two to talk intimately and privately, leaving the third out.\"]"
+        ],
+        "title": "Peaceful Conflict Resolution",
+        "summary": "This chunk explores the Islamic principle of seeking and accepting peaceful resolutions, particularly in situations of conflict, as guided by the teachings of Islam regarding reconciliation and harmony.",
+        "chunk_index": 122
+    },
+    "14e9c": {
+        "chunk_id": "14e9c",
+        "propositions": [
+            "\"Don't let hatred cause you to be unjust.\", "
+        ],
+        "title": "Islamic Virtues & Character",
+        "summary": "This chunk explores the Islamic principle of justice and compassion, emphasizing the importance of controlling one's emotions, particularly hatred, to ensure fairness and righteousness in all interactions.",
+        "chunk_index": 123
+    },
+    "9814d": {
+        "chunk_id": "9814d",
+        "propositions": [
+            "\"Don't ask too many favours from people.\", "
+        ],
+        "title": "Islamic Values of Self-Reliance & Etiquette",
+        "summary": "This chunk explores the Islamic value of self-reliance and etiquette in requesting help from others, emphasizing the importance of moderation and gratitude.",
+        "chunk_index": 124
+    },
+    "26160": {
+        "chunk_id": "26160",
+        "propositions": [
+            "\"Be just, even against yourself & relatives.\", "
+        ],
+        "title": "Upholding Justice & Righteousness",
+        "summary": "This chunk explores the Islamic value of justice and fairness, emphasizing the importance of upholding truth and righteousness, even when it involves personal sacrifice or difficult decisions, such as standing against oneself or one's own relatives.",
+        "chunk_index": 125
+    },
+    "c0cf3": {
+        "chunk_id": "c0cf3",
+        "propositions": [
+            "\"Oppression/corruption is worse than killing.\", "
+        ],
+        "title": "Islamic Justice & Oppression",
+        "summary": "This chunk explores the severity of oppression and corruption in Islam, highlighting that such injustices are considered grave, even surpassing the wrongdoing of taking a life, reflecting the Quranic emphasis on the protection of human rights and the condemnation of tyranny.",
+        "chunk_index": 126
+    },
+    "5a858": {
+        "chunk_id": "5a858",
+        "propositions": [
+            "\"Consider wives of the Prophet like your mothers.\", ",
+            "\"If required to ask the Prophet's wives, then do so from behind a screen.\", "
+        ],
+        "title": "Reverence for Prophetic Family",
+        "summary": "This chunk contains teachings on the respect and reverence for the Prophet's family, particularly his wives, and their status as mothers to the community, reflecting Islamic values of honor and filial piety.",
+        "chunk_index": 127
+    },
+    "b7f9d": {
+        "chunk_id": "b7f9d",
+        "propositions": [
+            "\"Know your enemies can become your close friends.\", "
+        ],
+        "title": "Islamic Interpersonal Relationships & Kindness",
+        "summary": "This chunk explores the Islamic concept of building relationships and trust, highlighting the value of understanding and potentially transforming adversaries into close friends, reflecting the Quranic principle of treating others with kindness and compassion.",
+        "chunk_index": 128
+    },
+    "a574c": {
+        "chunk_id": "a574c",
+        "propositions": [
+            "\"Forgive others, as you would like Allah to forgive you.\", "
+        ],
+        "title": "Islamic Forgiveness & Mercy",
+        "summary": "This chunk focuses on the importance of forgiveness in Islam, emphasizing the value of pardoning others as a means of seeking Allah's mercy and forgiveness.",
+        "chunk_index": 129
+    },
+    "486a0": {
+        "chunk_id": "486a0",
+        "propositions": [
+            "\"Don't hold secret meetings for sin, rather do so for piety.\", ",
+            "\"These rules address assemblies, social gatherings, groups, and study circles.\", "
+        ],
+        "title": "Islamic Guidance on Gatherings",
+        "summary": "This chunk explores the Islamic guidance on gatherings and meetings, emphasizing the importance of promoting piety and righteousness, and warning against secret meetings for sinful purposes.",
+        "chunk_index": 130
+    },
+    "ca2b9": {
+        "chunk_id": "ca2b9",
+        "propositions": [
+            "\"Don't order others to do good while forgetting it yourself.\", "
+        ],
+        "title": "Islamic Personal Responsibility",
+        "summary": "This chunk explores the Islamic principle of personal responsibility and accountability, emphasizing the importance of practicing what one preaches, particularly in encouraging good deeds.",
+        "chunk_index": 131
+    },
+    "5bdb0": {
+        "chunk_id": "5bdb0",
+        "propositions": [
+            "\"Be patient with your teacher & follow his instructions.\", "
+        ],
+        "title": "Islamic Values of Patience & Obedience",
+        "summary": "This chunk focuses on the importance of patience and obedience, reflecting the Islamic value of sabr (patience) and the teacher-student relationship, emphasizing the need to follow guidance from knowledgeable individuals.",
+        "chunk_index": 132
+    },
+    "a4456": {
+        "chunk_id": "a4456",
+        "propositions": [
+            "\"Don't frown, turn away or neglect those who come to you.\", "
+        ],
+        "title": "Islamic Values of Kindness & Respect",
+        "summary": "This chunk focuses on the Islamic teaching of treating others with kindness and respect, particularly in regards to social interactions, and encourages good character by promoting courteous behavior towards those who approach or interact with you.",
+        "chunk_index": 133
+    },
+    "fe296": {
+        "chunk_id": "fe296",
+        "propositions": [
+            "\"Verify information from a dubious source before acting upon it.\", "
+        ],
+        "title": "Critical Thinking in Islam",
+        "summary": "This chunk emphasizes the Islamic principle of verifying information and seeking knowledge before taking action, reflecting the value of critical thinking and responsible behavior, as encouraged in the Quran and Hadith.",
+        "chunk_index": 134
+    },
+    "6ef94": {
+        "chunk_id": "6ef94",
+        "propositions": [
+            "\"Don't remain in the Prophet's home unnecessarily after a meal.\", "
+        ],
+        "title": "Visiting the Prophet's Household Etiquette",
+        "summary": "This chunk discusses etiquette related to visiting the Prophet's home, emphasizing the importance of modesty and avoiding unnecessary lingering, reflecting the Islamic value of respect for the Prophet and his household.",
+        "chunk_index": 135
+    },
+    "b9530": {
+        "chunk_id": "b9530",
+        "propositions": [
+            "\"Don't enter homes without permission & return if refused entry.\", ",
+            "\"When Muslims visit one another, they should not stay overly long.\", "
+        ],
+        "title": "Visiting Etiquette & Boundaries",
+        "summary": "This chunk discusses etiquette and respect for privacy in social interactions, reflecting the Islamic value of respecting others' boundaries and the guidance on proper behavior when visiting others, as emphasized in the teachings of Islam.",
+        "chunk_index": 136
+    },
+    "bd6f1": {
+        "chunk_id": "bd6f1",
+        "propositions": [
+            "\"Don't sit with those who mock religion until they change the subject.\", "
+        ],
+        "title": "Islamic Company & Social Interactions",
+        "summary": "This chunk discusses the Islamic advice on maintaining good company and avoiding gatherings that disrespect or mock religious beliefs, emphasizing the importance of surrounding oneself with positivity and respect for faith.",
+        "chunk_index": 137
+    },
+    "43d5c": {
+        "chunk_id": "43d5c",
+        "propositions": [
+            "\"Divorce in an amicable manner instead of keeping & harming your wife.\", "
+        ],
+        "title": "Islamic Divorce & Etiquette",
+        "summary": "This chunk discusses the Islamic approach to divorce, emphasizing the importance of parting ways in a peaceful and respectful manner, in accordance with the values of kindness and compassion taught in Islam.",
+        "chunk_index": 138
+    },
+    "203fa": {
+        "chunk_id": "203fa",
+        "propositions": [
+            "\"Punish in an equivalent manner to how you were harmed or be patient.\", "
+        ],
+        "title": "Islamic Response to Adversity",
+        "summary": "This chunk explores the Islamic principle of retribution and patience in response to harm, relating to the Quranic teaching of \"punishing in an equivalent manner\" or choosing patience, emphasizing the importance of balanced reactions to adversity.",
+        "chunk_index": 139
+    },
+    "545e2": {
+        "chunk_id": "545e2",
+        "propositions": [
+            "\"Differences in color & language are signs of Allah, not means of superiority.\", "
+        ],
+        "title": "Islamic Perspective on Diversity & Inclusion",
+        "summary": "This chunk explores the Islamic perspective on diversity, highlighting that variations in characteristics such as color and language are considered signs of Allah's wisdom and creativity, rather than a basis for superiority or discrimination.",
+        "chunk_index": 140
+    },
+    "1b967": {
+        "chunk_id": "1b967",
+        "propositions": [
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, is a religious leader.\", "
+        ],
+        "title": "The Role of the Prophet Muhammad",
+        "summary": "This chunk contains information about the role and significance of the Prophet Muhammad, sallallahu alayhe wa sallam, as a central figure in Islam.",
+        "chunk_index": 141
+    },
+    "a6e7a": {
+        "chunk_id": "a6e7a",
+        "propositions": [
+            "\"Allah, subhanahu wa ta'ala, says: \\\"And when you are told: 'Arise!' then arise.\\\"\", "
+        ],
+        "title": "Islamic Obedience & Service",
+        "summary": "This chunk contains verses and teachings related to the importance of responding to calls for action and rising to serve, reflecting the Islamic value of obedience and diligence.",
+        "chunk_index": 142
+    },
+    "efe2b": {
+        "chunk_id": "efe2b",
+        "propositions": [
+            "\"Allah, subhanahu wa ta'ala, is acquainted with what people do.\", "
+        ],
+        "title": "Allah's Omniscience & Attributes",
+        "summary": "This chunk explores the concept of Allah's omniscience in Islam, highlighting His knowledge of all human actions and deeds.",
+        "chunk_index": 143
+    },
+    "1655f": {
+        "chunk_id": "1655f",
+        "propositions": [
+            "\"Richard Sermon is not mentioned in the text, however,  Qatadah was a great Successor (Tabi'ee).\", "
+        ],
+        "title": "Islamic Leadership & Caliphate",
+        "summary": "This chunk contains information about notable Islamic personalities, specifically the successors of the Prophet, and their biographical details.",
+        "chunk_index": 144
+    },
+    "ec724": {
+        "chunk_id": "ec724",
+        "propositions": [
+            "\"Qatadah said that the verse was revealed concerning assemblies of learning and discussion.\", "
+        ],
+        "title": "Islamic Learning & Knowledge Gathering",
+        "summary": "This chunk explores the significance of gatherings for learning and discussion in Islam, highlighting their importance in acquiring knowledge and spiritual growth.",
+        "chunk_index": 145
+    },
+    "e197a": {
+        "chunk_id": "e197a",
+        "propositions": [
+            "\"It is both a courtesy and a good deed.\", "
+        ],
+        "title": "Islamic Values of Kindness & Manners",
+        "summary": "This chunk explores the Islamic values of kindness and good manners, highlighting the rewards of performing courteous acts as a form of worship and a means of drawing closer to Allah.",
+        "chunk_index": 146
+    },
+    "244f5": {
+        "chunk_id": "244f5",
+        "propositions": [
+            "\"The Prophet Muhammad, sallallahu alayhe wa sallam, said: \\\"Shall I give you an account of these three? The first took refuge with Allah. As for the second, he felt shy and sat behind the people. The third turned away, so Allah turned away from him.\\\"\", "
+        ],
+        "title": "Accountability & Trust in Allah",
+        "summary": "This chunk explores the concept of accountability and consequences of one's actions, as illustrated through a Hadith of the Prophet Muhammad, sallallahu alayhe wa sallam, relating to trust, humility, and the importance of turning to Allah.",
+        "chunk_index": 147
+    },
+    "19943": {
+        "chunk_id": "19943",
+        "propositions": [
+            "\"It is not lawful for any man to separate two people without their permission.\", "
+        ],
+        "title": "Islamic Social Harmony & Unity",
+        "summary": "This chunk explores the Islamic principle of maintaining social harmony and the prohibition of sowing discord, emphasizing the importance of unity and respect for others' relationships.",
+        "chunk_index": 148
+    },
+    "2cbf1": {
+        "chunk_id": "2cbf1",
+        "propositions": [
+            "\"A person who sits in a place first is more entitled to it.\", ",
+            "\"The best practice is for a person joining a group to sit next to the last person in it.\", ",
+            "\"Jabir Ibn Samurah said: \\\"When we joined the Prophet, sallallahu alayhe wa sallam, we used to sit where the end was\\\".\", ",
+            "\"Another important rule of conduct at assemblies is to take the initiative when entering by greeting the people already there.\", ",
+            "\"When sitting with others, Muslims should be both modest and attentive in the way they sit.\", "
+        ],
+        "title": "Respectful Seating Arrangements",
+        "summary": "This chunk discusses the Islamic etiquette of taking one's rightful place and the importance of precedence in seating arrangements, reflecting the value of respect, fairness, and good manners in social interactions.",
+        "chunk_index": 149
+    },
+    "110c8": {
+        "chunk_id": "110c8",
+        "propositions": [
+            "\"Allah, subhanahu wa ta'ala, says: \\\"And when you are told, 'Arise,' then arise.\\\"\", "
+        ],
+        "title": "Islamic Obedience & Diligence",
+        "summary": "This chunk explores the Islamic principle of responding to calls for action with obedience and diligence, as exemplified by the Quranic command to arise when instructed.",
+        "chunk_index": 150
+    },
+    "b5a87": {
+        "chunk_id": "b5a87",
+        "propositions": [
+            "\"When yawning, the mouth should be covered and further yawning resisted as much as possible.\", ",
+            "\"One should not sit with one's back to other people.\", "
+        ],
+        "title": "Islamic Etiquette & Manners",
+        "summary": "This chunk discusses etiquette and manners in Islam, specifically covering aspects of personal behavior and physical actions, such as managing yawning and interacting with others respectfully, and invites additions that explore related Islamic teachings on modesty and self-control.",
+        "chunk_index": 151
+    },
+    "bed0d": {
+        "chunk_id": "bed0d",
+        "propositions": [
+            "\"A house is your house.\", "
+        ],
+        "title": "Islamic Family & Community Ties",
+        "summary": "This chunk explores the Islamic concept of a Muslim's relationship with their home and community, emphasizing the importance of hospitality, respect, and responsibility towards one's family and neighbors.",
+        "chunk_index": 152
+    },
+    "4f126": {
+        "chunk_id": "4f126",
+        "propositions": [
+            "\"No one else is living in the house.\", "
+        ],
+        "title": "Islamic Values on Solitude & Companionship",
+        "summary": "This chunk explores the concept of solitude and seclusion in the context of Islamic values, highlighting the idea that one should be mindful of their surroundings and companions, and encouraging reflection on the importance of being alone or with family, as exemplified in the life of Prophet Muhammad (peace be upon him).",
+        "chunk_index": 153
+    },
+    "263d7": {
+        "chunk_id": "263d7",
+        "propositions": [
+            "[\"Audio is available to listen to the Quran.\", "
+        ],
+        "title": "Quran Recitation & Spiritual Practice",
+        "summary": "This chunk provides resources for accessing and listening to the Quran, highlighting the importance of recitation and contemplation in Islamic spiritual practice.",
+        "chunk_index": 154
+    },
+    "09c2e": {
+        "chunk_id": "09c2e",
+        "propositions": [
+            "\"Listening to the Quran can help to memorise and recharge your soul.\", "
+        ],
+        "title": "Quranic Reflection & Spiritual Growth",
+        "summary": "This chunk explores the spiritual benefits of engaging with the Quran, particularly through listening, and its role in memorization and spiritual rejuvenation.",
+        "chunk_index": 155
+    },
+    "cb782": {
+        "chunk_id": "cb782",
+        "propositions": [
+            "\"The app provides Quran recitations by over 50 renowned reciters.\", "
+        ],
+        "title": "Quran Recitations & Access",
+        "summary": "This chunk contains information about digital access to Quran recitations by prominent reciters, reflecting the Islamic value of reverence for the Quran and facilitating its recitation.",
+        "chunk_index": 156
+    },
+    "8aa3a": {
+        "chunk_id": "8aa3a",
+        "propositions": [
+            "\"The reciters include Mishary Al Afasy, Husary (Muallim), Ayman Suwaid, Abdur Rahman As-Sudais, Abdul Basit, and Minshawi.\", "
+        ],
+        "title": "Renowned Quran Reciters & Tajweed",
+        "summary": "This chunk provides a list of renowned Quran reciters (Qari) whose renditions are highly regarded in the Islamic community, reflecting the diversity and richness of Quranic recitation styles.",
+        "chunk_index": 157
+    },
+    "4c677": {
+        "chunk_id": "4c677",
+        "propositions": [
+            "\"Ayman Suwaid and Husary (Muallim) are suitable for improving recitation and tajweed.\", "
+        ],
+        "title": "Quranic Recitation & Tajweed Guidance",
+        "summary": "This chunk provides guidance on selecting reputable resources, specifically Ayman Suwaid and Husary (Muallim), for enhancing Quranic recitation and tajweed skills in accordance with Islamic principles of proper Quranic recitation.",
+        "chunk_index": 158
+    },
+    "8ee67": {
+        "chunk_id": "8ee67",
+        "propositions": [
+            "\"Yasser Salama Hadr has a faster recitation.\", "
+        ],
+        "title": "Quranic Recitation Techniques",
+        "summary": "This chunk contains information about Quranic recitation and the varying speeds at which it can be recited, reflecting the Islamic practice of reciting the Quran with different levels of pace and emphasis.",
+        "chunk_index": 159
+    },
+    "01610": {
+        "chunk_id": "01610",
+        "propositions": [
+            "\"Audio translations are available in English, Bangla, and Urdu.\", "
+        ],
+        "title": "Islamic Content Accessibility & Translations",
+        "summary": "This chunk provides information about language accessibility for Islamic content, offering translations in multiple languages to cater to a diverse audience.",
+        "chunk_index": 160
+    },
+    "25c7c": {
+        "chunk_id": "25c7c",
+        "propositions": [
+            "\"More audio translations are planned.\", "
+        ],
+        "title": "Islamic Audio Content Expansion",
+        "summary": "This chunk discusses future plans for expanding audio content, likely with a focus on sharing Islamic knowledge and values through various languages.",
+        "chunk_index": 161
+    },
+    "a048c": {
+        "chunk_id": "a048c",
+        "propositions": [
+            "\"The app allows downloading audio for offline listening.\", "
+        ],
+        "title": "Islamic Education & Knowledge Acquisition",
+        "summary": "This chunk discusses the convenience of accessing Islamic educational content offline through downloadable audio, reflecting the importance of seeking knowledge and wisdom, as emphasized in Islamic teachings.",
+        "chunk_index": 162
+    },
+    "20fa4": {
+        "chunk_id": "20fa4",
+        "propositions": [
+            "\"The app allows streaming audio to save storage space.\", "
+        ],
+        "title": "Islamic Values in Technology",
+        "summary": "This chunk discusses technological convenience in Islam, specifically exploring how digital tools and applications, such as streaming audio, can aid in efficient storage and utilization of resources, reflecting the Islamic value of being mindful and responsible in one's consumption and management of resources.",
+        "chunk_index": 163
+    },
+    "6a0ba": {
+        "chunk_id": "6a0ba",
+        "propositions": [
+            "\"The repeat option assists with Quran memorization (Hifz).\", "
+        ],
+        "title": "Quran Memorization & Hifz",
+        "summary": "This chunk contains information about Quran memorization techniques, specifically highlighting the role of repetition in facilitating Hifz, a practice valued in Islamic education for its spiritual and intellectual benefits.",
+        "chunk_index": 164
+    },
+    "bc2bf": {
+        "chunk_id": "bc2bf",
+        "propositions": [
+            "\"Users can choose from different reciters.\", "
+        ],
+        "title": "Quranic Recitation Variations",
+        "summary": "This chunk provides information about the variety of Quranic reciters available for users to select from, reflecting the Islamic value of appreciating the diverse ways to recite and connect with the Quran.",
+        "chunk_index": 165
+    },
+    "9ca91": {
+        "chunk_id": "9ca91",
+        "propositions": [
+            "\"Users can choose from different audio translations.\", "
+        ],
+        "title": "Islamic Translations & Accessibility",
+        "summary": "This chunk discusses the availability of multiple audio translations for users, reflecting the Islamic value of accessibility and facilitating understanding, and can be added to with examples of Quranic or Hadith translations.",
+        "chunk_index": 166
+    },
+    "8311a": {
+        "chunk_id": "8311a",
+        "propositions": [
+            "\"The app has a quick start guide.\", "
+        ],
+        "title": "Islamic Knowledge & Technology",
+        "summary": "This chunk provides information about user-friendly resources and guides, specifically in the context of technology, reflecting the Islamic value of seeking knowledge and facilitating ease in daily life.",
+        "chunk_index": 167
+    },
+    "b11ad": {
+        "chunk_id": "b11ad",
+        "propositions": [
+            "\"The quick start guide explains how to play a Surah.\", "
+        ],
+        "title": "Quranic Recitation & Reflection",
+        "summary": "This chunk provides guidance on reciting and understanding Surahs, reflecting the Islamic value of connecting with the Quran.",
+        "chunk_index": 168
+    },
+    "a46b5": {
+        "chunk_id": "a46b5",
+        "propositions": [
+            "\"The quick start guide explains how to play a range of ayahs or the entire Surah.\", "
+        ],
+        "title": "Reciting & Understanding Quran",
+        "summary": "This chunk provides guidance on reciting and engaging with Quranic verses, specifically offering a quick start guide for navigating and playing ayahs and surahs.",
+        "chunk_index": 169
+    },
+    "05c0f": {
+        "chunk_id": "05c0f",
+        "propositions": [
+            "\"The quick start guide explains how to change reciters or audio translations.\", "
+        ],
+        "title": "Quranic Recitation & Understanding",
+        "summary": "This chunk provides guidance on navigating and customizing Quranic recitations and translations, reflecting the Islamic value of seeking knowledge and understanding of the Quran.",
+        "chunk_index": 170
+    },
+    "72b49": {
+        "chunk_id": "72b49",
+        "propositions": [
+            "\"The quick start guide explains how to use repeat options.\", "
+        ],
+        "title": "Islamic Productivity & Time Management",
+        "summary": "This chunk provides guidance on utilizing repetition effectively, reflecting the Islamic value of diligence and efficient use of time, as exemplified in the concept of \"ilm\" (knowledge) and \"amal\" (action).",
+        "chunk_index": 171
+    },
+    "10451": {
+        "chunk_id": "10451",
+        "propositions": [
+            "\"The app allows adjusting the playback speed.\", "
+        ],
+        "title": "Efficient Islamic Learning Tools",
+        "summary": "This chunk provides information about a feature that enables users to customize their learning experience by adjusting playback speed, reflecting the Islamic value of seeking knowledge efficiently.",
+        "chunk_index": 172
+    },
+    "b8ce6": {
+        "chunk_id": "b8ce6",
+        "propositions": [
+            "\"The app has a single recitation mode.\", "
+        ],
+        "title": "Quran Recitation & Reflection Tools",
+        "summary": "This chunk contains information about Quran recitation tools and features that facilitate solitary or individual recitation experiences.",
+        "chunk_index": 173
+    },
+    "70956": {
+        "chunk_id": "70956",
+        "propositions": [
+            "\"The app has a multiple recitation mode.\", "
+        ],
+        "title": "Quranic Recitation & Technology",
+        "summary": "This chunk contains information about Quranic recitation features, specifically a multiple recitation mode, highlighting the importance of technology in facilitating and enhancing Islamic practices.",
+        "chunk_index": 174
+    },
+    "676ea": {
+        "chunk_id": "676ea",
+        "propositions": [
+            "\"In the single recitation mode, one reciter plays at a time.\", "
+        ],
+        "title": "Quran Recitation Modes",
+        "summary": "This chunk discusses the concept of recitation modes in Islamic Quran recitation, specifically highlighting the single recitation mode where one reciter recites alone.",
+        "chunk_index": 175
+    },
+    "eb74d": {
+        "chunk_id": "eb74d",
+        "propositions": [
+            "\"In the multiple recitation mode, up to 3 reciters play sequentially.\"]"
+        ],
+        "title": "Quran Recitation & Unity",
+        "summary": "This chunk discusses the sequential recitation mode in Quran recitation, highlighting the feature of multiple reciters, and relates to the Islamic practice of reciting and understanding the Quran with harmony and unity.",
+        "chunk_index": 176
+    },
+    "61771": {
+        "chunk_id": "61771",
+        "propositions": [
+            "[\"The Al Quran (Tafsir & by Word) app has a search function.\", "
+        ],
+        "title": "Islamic Learning & Technology",
+        "summary": "This chunk provides information about technology and learning resources, specifically a Quranic study app, and its features that facilitate understanding and exploration of the Quran.",
+        "chunk_index": 177
+    },
+    "49259": {
+        "chunk_id": "49259",
+        "propositions": [
+            "\"The search function allows users to find a specific ayah or topic in the Quran.\", "
+        ],
+        "title": "Quranic Study & Exploration",
+        "summary": "This chunk provides information about utilizing search functions to explore and understand the Quran, facilitating a deeper connection with the holy book.",
+        "chunk_index": 178
+    },
+    "2a34c": {
+        "chunk_id": "2a34c",
+        "propositions": [
+            "\"The search can be used to find surah names.\", "
+        ],
+        "title": "Quran Search & Navigation",
+        "summary": "This chunk provides information about utilizing search functions to locate and identify the names of surahs in the Quran.",
+        "chunk_index": 179
+    },
+    "b85dc": {
+        "chunk_id": "b85dc",
+        "propositions": [
+            "\"The search can be used to find Arabic ayahs.\", "
+        ],
+        "title": "Quranic Study & Exploration",
+        "summary": "This chunk contains information about utilizing search functions to locate and explore Quranic verses, specifically Arabic ayahs, in the pursuit of knowledge and spiritual growth.",
+        "chunk_index": 180
+    },
+    "3e653": {
+        "chunk_id": "3e653",
+        "propositions": [
+            "\"The search can be used to find translations.\", "
+        ],
+        "title": "Seeking Knowledge & Translation Resources",
+        "summary": "This chunk discusses the utilization of search tools for accessing translations, reflecting the Islamic value of seeking knowledge and facilitating communication, and may include additional information on resources or methods for finding translations.",
+        "chunk_index": 181
+    },
+    "b2c76": {
+        "chunk_id": "b2c76",
+        "propositions": [
+            "\"The search can be used to find tafsirs.\", "
+        ],
+        "title": "Understanding Quranic Exegesis",
+        "summary": "This chunk explores the concept of searching for and accessing tafsirs, or Quranic exegeses, as a means of deepening one's understanding of Islamic scripture and teachings.",
+        "chunk_index": 182
+    },
+    "2c0e2": {
+        "chunk_id": "2c0e2",
+        "propositions": [
+            "\"The search understands minor spelling variations.\", "
+        ],
+        "title": "Islamic Values in Technology",
+        "summary": "This chunk discusses the flexibility of search algorithms in handling minor spelling mistakes, reflecting the Islamic value of seeking knowledge with understanding and ease.",
+        "chunk_index": 183
+    },
+    "e0acd": {
+        "chunk_id": "e0acd",
+        "propositions": [
+            "\"Users can type a surah name to open it instantly.\", "
+        ],
+        "title": "Accessing Quranic Knowledge",
+        "summary": "This chunk discusses the ease of accessing Quranic content, specifically the ability to quickly open and recite surahs, reflecting the Islamic value of facilitating the pursuit of knowledge and spiritual growth.",
+        "chunk_index": 184
+    },
+    "c56c1": {
+        "chunk_id": "c56c1",
+        "propositions": [
+            "\"Users can search for specific translations or tafsirs.\", "
+        ],
+        "title": "Understanding the Quran",
+        "summary": "This chunk provides information about accessing Quranic translations and interpretations, reflecting the Islamic pursuit of knowledge and understanding of the Quran.",
+        "chunk_index": 185
+    },
+    "b4734": {
+        "chunk_id": "b4734",
+        "propositions": [
+            "\"Users can filter results by specific translations or tafsirs.\", "
+        ],
+        "title": "Accessing Quranic Knowledge & Resources",
+        "summary": "This chunk provides guidance on navigating Quranic resources, specifically how to access various translations and tafsirs, reflecting the Islamic value of seeking knowledge and understanding of the Quran.",
+        "chunk_index": 186
+    },
+    "0eb89": {
+        "chunk_id": "0eb89",
+        "propositions": [
+            "\"The Al Quran (Tafsir & by Word) app has a collection of Quranic topics.\", "
+        ],
+        "title": "Quranic Digital Resources & Tafsir",
+        "summary": "This chunk is about digital resources for understanding the Quran, specifically an app that offers Tafsir and word-by-word explanations of Quranic topics.",
+        "chunk_index": 187
+    },
+    "4b281": {
+        "chunk_id": "4b281",
+        "propositions": [
+            "\"Users can explore Quranic topics to find related ayahs.\", "
+        ],
+        "title": "Understanding Quranic Scripture",
+        "summary": "This chunk provides guidance on navigating Quranic topics to discover relevant verses, fostering a deeper understanding of Islamic scripture and its application in daily life.",
+        "chunk_index": 188
+    },
+    "9208a": {
+        "chunk_id": "9208a",
+        "propositions": [
+            "\"The Al Quran (Tafsir & by Word) app has a word analysis search function.\", "
+        ],
+        "title": "Quranic Study & Digital Resources",
+        "summary": "This chunk contains information about digital tools and resources that facilitate the understanding and study of the Quran, reflecting the Islamic value of seeking knowledge and exploring the scripture.",
+        "chunk_index": 189
+    },
+    "8875a": {
+        "chunk_id": "8875a",
+        "propositions": [
+            "\"The word analysis search function shows occurrences of Arabic words across the Quran.\", "
+        ],
+        "title": "Quranic Studies & Technology",
+        "summary": "This chunk explores the use of linguistic tools and technology to study and understand the Quran, reflecting the Islamic value of seeking knowledge and exploring the divine word.",
+        "chunk_index": 190
+    },
+    "603f3": {
+        "chunk_id": "603f3",
+        "propositions": [
+            "\"The word analysis search function shows occurrences of lemma across the Quran.\", "
+        ],
+        "title": "Quranic Analysis & Exegesis Methods",
+        "summary": "This chunk explores the concept of Quranic analysis and the utilization of linguistic tools, such as lemma searches, to understand and interpret Islamic scripture.",
+        "chunk_index": 191
+    },
+    "4e191": {
+        "chunk_id": "4e191",
+        "propositions": [
+            "\"The word analysis search function shows occurrences of roots across the Quran.\", "
+        ],
+        "title": "Quranic Exegesis & Linguistics",
+        "summary": "This chunk explores the use of linguistic tools in understanding the Quran, specifically the application of root word analysis to uncover insights and meanings within the holy book.",
+        "chunk_index": 192
+    },
+    "606d2": {
+        "chunk_id": "606d2",
+        "propositions": [
+            "\"Voice search is available on Android experimentally.\", "
+        ],
+        "title": "Islamic Values & Technology",
+        "summary": "This chunk explores the intersection of technology and Islamic values, specifically discussing the use of voice search on Android devices, and invites discussion on responsible and mindful use of technology in accordance with Islamic principles.",
+        "chunk_index": 193
+    },
+    "9e074": {
+        "chunk_id": "9e074",
+        "propositions": [
+            "\"The Al Quran (Tafsir & by Word) app is available for users to start searching.\"]"
+        ],
+        "title": "Quranic Studies & Digital Resources",
+        "summary": "This chunk provides information about digital resources for accessing and understanding the Quran, facilitating personal spiritual growth and Quranic studies.",
+        "chunk_index": 194
+    },
+    "1a6ec": {
+        "chunk_id": "1a6ec",
+        "propositions": [
+            "["
+        ],
+        "title": "There is no summary provided.\n\nPlease go ahead and provide the summary, I'll generate a brief chunk title.",
+        "summary": "I'm ready to help.\n\nWhat is the proposition for the new chunk? \n\nPlease go ahead and provide it, I'll generate a brief 1-sentence summary that relates to Islamic principles.",
+        "chunk_index": 195
+    },
+    "c1f59": {
+        "chunk_id": "c1f59",
+        "propositions": [
+            "  \"The Quran Planner helps users break down their reading into manageable daily sessions.\","
+        ],
+        "title": "Quran Recitation & Discipline",
+        "summary": "This chunk explores the concept of planning and organizing Quran recitation, reflecting the Islamic value of diligence and consistency in studying and understanding the Quran.",
+        "chunk_index": 196
+    },
+    "873b1": {
+        "chunk_id": "873b1",
+        "propositions": [
+            "  \"The Quran Planner keeps users organized and motivated to reach their goal.\","
+        ],
+        "title": "Islamic Productivity & Spiritual Growth",
+        "summary": "This chunk contains guidance on utilizing organizational tools, such as the Quran Planner, to enhance one's spiritual routine and goal attainment, reflecting the Islamic value of striving for self-improvement and diligence in faith.",
+        "chunk_index": 197
+    },
+    "db9a1": {
+        "chunk_id": "db9a1",
+        "propositions": [
+            "  \"Users can read the Quran in 29 days.\","
+        ],
+        "title": "Quran Recitation & Reflection",
+        "summary": "This chunk contains information about the recitation and completion of the Quran within a specific timeframe, relating to the Islamic practice of reading and reflecting on the holy book.",
+        "chunk_index": 198
+    },
+    "57097": {
+        "chunk_id": "57097",
+        "propositions": [
+            "  \"Reading the Quran in 29 days is ideal for Ramadan.\","
+        ],
+        "title": "Quran Recitation in Ramadan",
+        "summary": "This chunk discusses the recommended pace for reciting the Quran during Ramadan, specifically focusing on the virtue of completing it within 29 days.",
+        "chunk_index": 199
+    },
+    "8af20": {
+        "chunk_id": "8af20",
+        "propositions": [
+            "  \"Users can complete the Quran in one year.\","
+        ],
+        "title": "Quranic Study & Recitation",
+        "summary": "This chunk contains guidance on reading and completing the Quran, specifically exploring the goal of finishing its recitation within a year, reflecting the importance of Quranic study and dedication in Islam.",
+        "chunk_index": 200
+    },
+    "2f0bd": {
+        "chunk_id": "2f0bd",
+        "propositions": [
+            "  \"Completing the Quran in one year requires reading about 2 pages daily.\","
+        ],
+        "title": "Quran Reading & Recitation Routines",
+        "summary": "This chunk provides guidance on establishing a consistent Quran reading routine, specifically targeting those who aim to complete the Quran within a year, reflecting the Islamic value of regular Quran recitation and contemplation.",
+        "chunk_index": 201
+    },
+    "00438": {
+        "chunk_id": "00438",
+        "propositions": [
+            "  \"Users can read the Quran translation in 90 days.\","
+        ],
+        "title": "Quran Reading & Engagement Plans",
+        "summary": "This chunk contains information about a reading plan for completing a translation of the Quran within a specific timeframe, reflecting the Islamic value of regularly engaging with and understanding the holy book.",
+        "chunk_index": 202
+    },
+    "6229e": {
+        "chunk_id": "6229e",
+        "propositions": [
+            "  \"Reading the Quran translation in 90 days improves understanding.\","
+        ],
+        "title": "Quran Recitation & Reflection",
+        "summary": "This chunk explores the benefits of completing a Quran translation within a set timeframe, specifically 90 days, and its impact on enhancing comprehension and connection with the Islamic scripture.",
+        "chunk_index": 203
+    },
+    "42bdd": {
+        "chunk_id": "42bdd",
+        "propositions": [
+            "  \"Users can create their own custom schedule.\","
+        ],
+        "title": "Islamic Time Management & Productivity",
+        "summary": "This chunk discusses the flexibility and autonomy in managing one's time, reflecting the Islamic value of being responsible and efficient in daily life, and invites users to explore personalized planning.",
+        "chunk_index": 204
+    },
+    "a0692": {
+        "chunk_id": "a0692",
+        "propositions": [
+            "  \"To start using the Quran Planner, users create a plan.\","
+        ],
+        "title": "Quran Study & Spiritual Growth",
+        "summary": "This chunk provides guidance on initiating a Quran study plan, reflecting the Islamic value of organizing and prioritizing one's spiritual growth and relationship with the Quran.",
+        "chunk_index": 205
+    },
+    "289ed": {
+        "chunk_id": "289ed",
+        "propositions": [
+            "  \"To create a plan, users select the start and end range.\","
+        ],
+        "title": "Islamic Planning & Intentionality",
+        "summary": "This chunk provides guidance on the initial steps of planning, specifically setting a range or timeframe, reflecting the Islamic value of organization and intentionality in one's actions.",
+        "chunk_index": 206
+    },
+    "244fd": {
+        "chunk_id": "244fd",
+        "propositions": [
+            "  \"To create a plan, users set the number of days.\","
+        ],
+        "title": "Islamic Time Management & Goal-Setting",
+        "summary": "This chunk discusses planning and preparation in the context of organizing time, likely related to Islamic time management or Ramadan planning, where setting a timeframe such as the number of days is essential for goal-setting and productivity, reflecting the Islamic value of being responsible and mindful of one's time.",
+        "chunk_index": 207
+    },
+    "af10b": {
+        "chunk_id": "af10b",
+        "propositions": [
+            "  \"Users should set a notification time to stay on track.\","
+        ],
+        "title": "Islamic Time Management",
+        "summary": "This chunk offers guidance on time management and organizational tips, reflecting the Islamic value of being responsible and mindful of one's time, encouraging users to set reminders to prioritize tasks effectively.",
+        "chunk_index": 208
+    },
+    "10b53": {
+        "chunk_id": "10b53",
+        "propositions": [
+            "  \"After creating a plan, users tap Read to begin.\","
+        ],
+        "title": "Islamic Reading & Learning Tools",
+        "summary": "This chunk provides guidance on the steps involved in using a reading feature, specifically the action of tapping \"Read\" to commence the process, and may include additional information on how to effectively utilize this feature in an Islamic context, such as exploring Islamic texts or educational resources.",
+        "chunk_index": 209
+    },
+    "58e17": {
+        "chunk_id": "58e17",
+        "propositions": [
+            "  \"Users read the Quran following their schedule.\","
+        ],
+        "title": "Quran Recitation & Spiritual Growth",
+        "summary": "This chunk explores the importance of establishing a regular routine for reciting and reading the Quran, reflecting the Islamic value of prioritizing spiritual growth and connection with Allah.",
+        "chunk_index": 210
+    },
+    "6bde6": {
+        "chunk_id": "6bde6",
+        "propositions": [
+            "  \"After completing a session, users save their progress.\","
+        ],
+        "title": "Islamic Personal Growth & Accountability",
+        "summary": "This chunk focuses on the importance of perseverance and follow-through, reflecting the Islamic value of striving for knowledge and personal growth, and may include information on how users can track and save their progress in a way that promotes accountability and self-reflection.",
+        "chunk_index": 211
+    },
+    "ceac2": {
+        "chunk_id": "ceac2",
+        "propositions": [
+            "  \"Users track progress by checking their planner.\","
+        ],
+        "title": "Islamic Personal Growth & Accountability",
+        "summary": "This chunk discusses the importance of tracking progress and utilizing planners as a tool for organization and self-reflection, reflecting the Islamic value of being accountable for one's actions and striving for personal growth.",
+        "chunk_index": 212
+    },
+    "c1def": {
+        "chunk_id": "c1def",
+        "propositions": [
+            "  \"Users celebrate completion by marking the planner as complete.\","
+        ],
+        "title": "Acknowledging Accomplishments in Islam",
+        "summary": "This chunk discusses the practice of marking tasks as complete, reflecting the Islamic value of acknowledging and appreciating accomplishments, and can include examples of how Muslims can celebrate small victories while maintaining a sense of humility and gratitude.",
+        "chunk_index": 213
+    },
+    "989ec": {
+        "chunk_id": "989ec",
+        "propositions": [
+            "  \"A tip for success is to start with a realistic goal.\","
+        ],
+        "title": "Islamic Goal-Setting & Excellence",
+        "summary": "This chunk offers guidance on setting achievable objectives, reflecting the Islamic value of striving for excellence in all endeavors, and invites discussion on goal-setting strategies that align with spiritual and worldly success.",
+        "chunk_index": 214
+    },
+    "9692e": {
+        "chunk_id": "9692e",
+        "propositions": [
+            "  \"A tip for success is to set reminders at a consistent time.\","
+        ],
+        "title": "Islamic Values of Consistency & Responsibility",
+        "summary": "This chunk offers guidance on cultivating a consistent and mindful approach to daily routines, reflecting the Islamic value of being punctual and responsible in one's actions, as encouraged in the teachings of the Quran and the Hadith. \n\nHowever, I can make it sound more generalized and related to islamic values.\n\nHere is another attempt:\n\nThis chunk provides tips on establishing a consistent routine, embodying the Islamic principle of being responsible and reliable individuals, as reflected in the concept of 'amr bil ma'ruf' (enjoining good). \n\nLet me try to make it sound more concise.\n\nHere is another attempt:\n\nThis chunk offers guidance on maintaining consistency in daily routines, reflecting Islamic values of responsibility and reliability. \n\nLet me know if that works!",
+        "chunk_index": 215
+    },
+    "e9556": {
+        "chunk_id": "e9556",
+        "propositions": [
+            "  \"A tip for success is to plan ahead for busy days.\","
+        ],
+        "title": "Islamic Time Management & Responsibility",
+        "summary": "This chunk offers guidance on time management and preparation, reflecting the Islamic value of being responsible and proactive, as encouraged in the Quran and Hadith.",
+        "chunk_index": 216
+    },
+    "975be": {
+        "chunk_id": "975be",
+        "propositions": [
+            "  \"A tip for success is to adjust the schedule if needed.\""
+        ],
+        "title": "Islamic Time Management & Productivity",
+        "summary": "This chunk offers advice on time management, emphasizing flexibility and adaptability in pursuit of success, reflecting the Islamic value of being responsible and efficient in one's endeavors.",
+        "chunk_index": 217
+    },
+    "f9f32": {
+        "chunk_id": "f9f32",
+        "propositions": [
+            "]"
+        ],
+        "title": "Islamic Charity & Zakat",
+        "summary": "This chunk explores the concept of zakat, a fundamental aspect of Islamic charity, highlighting its role in fostering compassion and social responsibility among Muslims.",
+        "chunk_index": 218
+    },
+    "2a6d5": {
+        "chunk_id": "2a6d5",
+        "propositions": [
+            "[\"The Quran can be explored by topics.\", "
+        ],
+        "title": "Quranic Study & Exploration",
+        "summary": "This chunk discusses approaches to understanding and exploring the Quran, specifically through topical study and organization.",
+        "chunk_index": 219
+    },
+    "c88c8": {
+        "chunk_id": "c88c8",
+        "propositions": [
+            "\"The Al Quran app allows users to explore topics and read related ayahs.\", "
+        ],
+        "title": "Quranic Exploration through Technology",
+        "summary": "This chunk discusses the utilization of technology, specifically the Al Quran app, to facilitate Quranic exploration and understanding, reflecting the Islamic value of seeking knowledge and the importance of Quranic study.",
+        "chunk_index": 220
+    },
+    "40bfd": {
+        "chunk_id": "40bfd",
+        "propositions": [
+            "\"The app provides knowledge on a particular topic.\", "
+        ],
+        "title": "Seeking Knowledge in Islam",
+        "summary": "This chunk explores the utilization of technology, such as apps, as a means to acquire knowledge and understanding, reflecting the Islamic value of seeking knowledge, which is considered a lifelong pursuit and a means to draw closer to Allah.",
+        "chunk_index": 221
+    },
+    "d1683": {
+        "chunk_id": "d1683",
+        "propositions": [
+            "\"There are 9 important topics broken down into 200+ topics and subtopics.\", "
+        ],
+        "title": "Islamic Knowledge & Scholarship",
+        "summary": "This chunk provides an overview of the organization and categorization of knowledge in Islamic studies, highlighting the comprehensive nature of the subject matter.",
+        "chunk_index": 222
+    },
+    "005c9": {
+        "chunk_id": "005c9",
+        "propositions": [
+            "\"The topics include the 'Etiquette of Honoring the Guests' and 'Riba (Interest)'.\", "
+        ],
+        "title": "Islamic Social & Financial Ethics",
+        "summary": "This chunk explores essential Islamic teachings on social etiquette, specifically the importance of hospitality, as well as financial ethics, including the prohibition of riba, or interest.",
+        "chunk_index": 223
+    },
+    "04632": {
+        "chunk_id": "04632",
+        "propositions": [
+            "\"The Al Quran app provides translation and explanations of the ayahs.\", "
+        ],
+        "title": "Quranic Knowledge & Technology",
+        "summary": "This chunk discusses the utilization of technology for accessing and understanding the Quran, highlighting the importance of seeking knowledge and interpreting Islamic scripture.",
+        "chunk_index": 224
+    },
+    "4712a": {
+        "chunk_id": "4712a",
+        "propositions": [
+            "\"The menu drawer has an 'Explore by Topic' option.\", "
+        ],
+        "title": "Seeking Knowledge in Islam",
+        "summary": "This chunk provides information about navigating a menu system to explore topics, reflecting the Islamic value of seeking knowledge and understanding.",
+        "chunk_index": 225
+    },
+    "c2a64": {
+        "chunk_id": "c2a64",
+        "propositions": [
+            "\"The top level 9 topics are categorized into more sub-categories.\", "
+        ],
+        "title": "Seeking Knowledge in Islam",
+        "summary": "This chunk explores the organization and categorization of knowledge, reflecting the Islamic value of seeking knowledge and understanding, as emphasized in the Quran and Hadith.",
+        "chunk_index": 226
+    },
+    "9c9ff": {
+        "chunk_id": "9c9ff",
+        "propositions": [
+            "\"The Search icon provides the entire topics list.\", "
+        ],
+        "title": "Seeking Knowledge & Access to Information",
+        "summary": "This chunk contains information about navigating and accessing topics, reflecting the Islamic value of seeking knowledge, and may include sentences that discuss the importance of easily finding information to facilitate learning and understanding.",
+        "chunk_index": 227
+    },
+    "b398c": {
+        "chunk_id": "b398c",
+        "propositions": [
+            "\"The topics are available in multiple languages including Arabic, Bangla, German, Indonesian, Filipino, Turkish, and Urdu.\", "
+        ],
+        "title": "Islamic Resources in Multiple Languages",
+        "summary": "This chunk provides information about the linguistic diversity of Islamic resources, highlighting the availability of topics in multiple languages to cater to a diverse audience.",
+        "chunk_index": 228
+    },
+    "2e0ff": {
+        "chunk_id": "2e0ff",
+        "propositions": [
+            "\"Users can change the language in the Settings.\", "
+        ],
+        "title": "Islamic Communication & Understanding",
+        "summary": "This chunk provides information about customizing user experience, specifically changing the language, which can be seen as a reflection of the Islamic value of understanding and communicating effectively with people of diverse backgrounds, as emphasized in the Quran, \"And We have not sent down to you the Book except that you may explain clearly to them...\" (16:44).",
+        "chunk_index": 229
+    },
+    "23e88": {
+        "chunk_id": "23e88",
+        "propositions": [
+            "\"Users can refresh the topics list by swiping down.\", "
+        ],
+        "title": "Islamic Content Guidance & Updates",
+        "summary": "This chunk provides guidance on navigating and updating content related to Islamic topics and resources.",
+        "chunk_index": 230
+    },
+    "61767": {
+        "chunk_id": "61767",
+        "propositions": [
+            "\"More languages will be added in the coming months.\", "
+        ],
+        "title": "Islamic Knowledge & Communication",
+        "summary": "This chunk provides updates on the expansion of language support, reflecting the Islamic value of knowledge sharing and communication, and will include future developments and additions.",
+        "chunk_index": 231
+    },
+    "5eac7": {
+        "chunk_id": "5eac7",
+        "propositions": [
+            "\"The Al Quran app provides guidance on daily life and learning about particular topics.\", "
+        ],
+        "title": "Islamic Learning & Digital Resources",
+        "summary": "This chunk explores the role of digital resources, specifically the Al Quran app, in facilitating learning and spiritual growth, reflecting the Islamic emphasis on seeking knowledge and guidance.",
+        "chunk_index": 232
+    },
+    "baff3": {
+        "chunk_id": "baff3",
+        "propositions": [
+            "\"The app helps users find relevant ayahs in one place.\"]"
+        ],
+        "title": "Islamic Tech & Quranic Knowledge",
+        "summary": "This chunk explores the utilization of technology to facilitate access to and understanding of the Quran, reflecting the Islamic value of seeking knowledge and guidance.",
+        "chunk_index": 233
+    },
+    "e73f6": {
+        "chunk_id": "e73f6",
+        "propositions": [
+            "[\"Build a daily Quran reading habit.\", "
+        ],
+        "title": "Quran Recitation & Spiritual Growth",
+        "summary": "This chunk focuses on cultivating a consistent Quran recitation practice, reflecting the Islamic value of regularly engaging with the holy book and seeking spiritual growth through its verses.",
+        "chunk_index": 234
+    },
+    "baf71": {
+        "chunk_id": "baf71",
+        "propositions": [
+            "\"Daily Quran reading is key to developing a deeper connection with the Quran.\", "
+        ],
+        "title": "Quran Recitation & Spiritual Growth",
+        "summary": "This chunk explores the significance of regular Quran recitation in fostering a spiritual bond with the holy book, reflecting the Islamic value of tilawat (Quran recitation) and its role in deepening one's faith.",
+        "chunk_index": 235
+    },
+    "e2084": {
+        "chunk_id": "e2084",
+        "propositions": [
+            "\"Consistency helps you build a lasting connection with Allah's words.\", "
+        ],
+        "title": "Quranic Reflection & Spiritual Growth",
+        "summary": "This chunk explores the significance of consistency in strengthening one's relationship with Allah through the regular recitation and reflection of the Quran.",
+        "chunk_index": 236
+    },
+    "9548c": {
+        "chunk_id": "9548c",
+        "propositions": [
+            "\"Whether you read one ayah or several pages, it helps.\", "
+        ],
+        "title": "Quranic Reflection & Spiritual Growth",
+        "summary": "This chunk discusses the importance and benefits of reading and reflecting on the Quran, highlighting the value of even a small amount of reading in spiritual growth and connection with Allah.",
+        "chunk_index": 237
+    },
+    "a4e8b": {
+        "chunk_id": "a4e8b",
+        "propositions": [
+            "\"The app has new Stats, Streaks, and Badges features.\", "
+        ],
+        "title": "Islamic Learning & Tracking Tools",
+        "summary": "This chunk contains updates about the app's features, including statistics, streaks, and badges, but to relate it to Islamic values, users can reflect on how such tools can be used to track and encourage consistency in acts of worship or learning about Islam.",
+        "chunk_index": 238
+    },
+    "35ccc": {
+        "chunk_id": "35ccc",
+        "propositions": [
+            "\"These features make the journey of reading the Quran more rewarding and motivational.\", "
+        ],
+        "title": "Quranic Recitation & Spiritual Growth",
+        "summary": "This chunk explores the spiritual benefits and motivational aspects of reading the Quran, highlighting its rewarding nature in the Islamic faith.",
+        "chunk_index": 239
+    },
+    "1281c": {
+        "chunk_id": "1281c",
+        "propositions": [
+            "\"You can track your daily progress.\", "
+        ],
+        "title": "Islamic Self-Reflection & Accountability",
+        "summary": "This chunk offers guidance on monitoring one's daily spiritual growth and development, reflecting the Islamic value of self-reflection and accountability, such as tracking progress in acts of worship or good deeds.",
+        "chunk_index": 240
+    },
+    "13c80": {
+        "chunk_id": "13c80",
+        "propositions": [
+            "\"You can set a daily reading goal.\", "
+        ],
+        "title": "Islamic Reading & Personal Development",
+        "summary": "This chunk contains guidance on cultivating a consistent and mindful approach to reading, reflecting the Islamic value of seeking knowledge and personal development.",
+        "chunk_index": 241
+    },
+    "40c59": {
+        "chunk_id": "40c59",
+        "propositions": [
+            "\"The daily reading target can fit your schedule.\", "
+        ],
+        "title": "Daily Quran Reading & Spiritual Growth",
+        "summary": "This chunk discusses the flexibility and importance of incorporating daily Quran reading into one's schedule, reflecting the Islamic value of making time for spiritual growth and development.",
+        "chunk_index": 242
+    },
+    "840c7": {
+        "chunk_id": "840c7",
+        "propositions": [
+            "\"The target can be 1 minute or 60 minutes.\", "
+        ],
+        "title": "Islamic Lectures & Da'wah Practices",
+        "summary": "This chunk discusses the flexibility and varying lengths of time allocated for Islamic lectures or educational sessions, reflecting the adaptable nature of da'wah and knowledge-sharing in Islam.",
+        "chunk_index": 243
+    },
+    "93896": {
+        "chunk_id": "93896",
+        "propositions": [
+            "\"You can start small and grow gradually.\", "
+        ],
+        "title": "Islamic Spiritual Growth & Progress",
+        "summary": "This chunk offers guidance on gradual progress and patience in spiritual growth, reflecting the Islamic value of striving for self-improvement and the encouragement to take small steps towards achieving goals, as embodied in the concept of \"tadarruj\" or gradual progress.",
+        "chunk_index": 244
+    },
+    "b40bd": {
+        "chunk_id": "b40bd",
+        "propositions": [
+            "\"Personalized goals will be introduced to adjust to your reading patterns.\", "
+        ],
+        "title": "Islamic Self-Improvement & Learning",
+        "summary": "This chunk explores the concept of tailoring objectives to individual learning styles and reading habits, reflecting the Islamic value of striving for knowledge and self-improvement, and may include discussions on the importance of adapting educational approaches to suit diverse learners.",
+        "chunk_index": 245
+    },
+    "20751": {
+        "chunk_id": "20751",
+        "propositions": [
+            "\"These goals will help you progress naturally in the future.\", "
+        ],
+        "title": "Islamic Self-Improvement & Righteousness",
+        "summary": "This chunk focuses on the concept of striving for personal growth and progress in a virtuous manner, reflecting the Islamic value of self-improvement and the pursuit of righteousness, and consider adding related concepts such as striving for taqwa (God-consciousness) and seeking knowledge.",
+        "chunk_index": 246
+    },
+    "f6577": {
+        "chunk_id": "f6577",
+        "propositions": [
+            "\"Streak tracks the number of days in a row you've read the Quran in the app.\", "
+        ],
+        "title": "Quran Reading Habits & Discipline",
+        "summary": "This chunk provides information about utilizing a streak feature to maintain consistent Quran reading habits, reflecting the Islamic value of regular scripture engagement.",
+        "chunk_index": 247
+    },
+    "40569": {
+        "chunk_id": "40569",
+        "propositions": [
+            "\"Streak is designed to motivate reading the Quran daily.\", "
+        ],
+        "title": "Quranic Recitation & Reflection",
+        "summary": "This chunk focuses on the importance of consistent Quranic recitation and explores ways to cultivate a daily habit of reading the Quran, reflecting the Islamic value of regularly engaging with the sacred scripture.",
+        "chunk_index": 248
+    },
+    "9ecfc": {
+        "chunk_id": "9ecfc",
+        "propositions": [
+            "[\"Audio is available to listen to the Quran.\", "
+        ],
+        "title": "Quranic Engagement & Recitation",
+        "summary": "This chunk provides resources for accessing and listening to the Quran, highlighting the importance of engaging with the holy book in Islam.",
+        "chunk_index": 249
+    },
+    "63e5a": {
+        "chunk_id": "63e5a",
+        "propositions": [
+            "\"Listening to the Quran can help to memorise and recharge your soul.\", "
+        ],
+        "title": "Quranic Spiritual Growth",
+        "summary": "This chunk explores the spiritual benefits of reciting and listening to the Quran, highlighting its role in spiritual growth and rejuvenation.",
+        "chunk_index": 250
+    },
+    "5909f": {
+        "chunk_id": "5909f",
+        "propositions": [
+            "\"The app provides Quran recitations by over 50 renowned reciters.\", "
+        ],
+        "title": "Quranic Engagement & Recitation",
+        "summary": "This chunk contains information about digital access to Quran recitations, highlighting the importance of engaging with the Quran through various means, a value cherished in Islamic culture.",
+        "chunk_index": 251
+    },
+    "aad21": {
+        "chunk_id": "aad21",
+        "propositions": [
+            "\"The reciters include Mishary Al Afasy, Husary (Muallim), Ayman Suwaid, Abdur Rahman As-Sudais, Abdul Basit, and Minshawi.\", "
+        ],
+        "title": "Quranic Recitation & Tawat",
+        "summary": "This chunk features a collection of renowned Quranic reciters (Tawari) from the Islamic tradition, highlighting notable voices in the recitation of the Holy Quran.",
+        "chunk_index": 252
+    },
+    "a872c": {
+        "chunk_id": "a872c",
+        "propositions": [
+            "\"Ayman Suwaid and Husary (Muallim) are suitable for improving recitation and tajweed.\", "
+        ],
+        "title": "Quranic Recitation & Tajweed Guidance",
+        "summary": "This chunk provides guidance on reputable resources for enhancing Quranic recitation and Tajweed skills, reflecting the Islamic emphasis on proper Quranic recitation.",
+        "chunk_index": 253
+    },
+    "a05cb": {
+        "chunk_id": "a05cb",
+        "propositions": [
+            "\"Yasser Salama Hadr has a faster recitation.\", "
+        ],
+        "title": "Quranic Recitation Styles & Variations",
+        "summary": "This chunk discusses variations in Quranic recitation, specifically highlighting individual differences in pace, such as Yasser Salama Hadr's rapid recitation style.",
+        "chunk_index": 254
+    },
+    "37668": {
+        "chunk_id": "37668",
+        "propositions": [
+            "\"Audio translations are available in English, Bangla, and Urdu.\", "
+        ],
+        "title": "Islamic Content Accessibility & Translations",
+        "summary": "This chunk provides information about language accessibility for Islamic content, specifically mentioning the availability of audio translations in multiple languages to cater to a diverse audience.",
+        "chunk_index": 255
+    },
+    "37586": {
+        "chunk_id": "37586",
+        "propositions": [
+            "\"More audio translations are planned.\", "
+        ],
+        "title": "Islamic Audio Content Expansion",
+        "summary": "This chunk discusses future plans for expanding audio content, likely with a focus on sharing Islamic knowledge and values through various languages.",
+        "chunk_index": 256
+    },
+    "ca752": {
+        "chunk_id": "ca752",
+        "propositions": [
+            "\"The app allows downloading audio for offline listening.\", "
+        ],
+        "title": "Accessing Islamic Knowledge Offline",
+        "summary": "This chunk discusses the convenience of accessing Islamic educational or religious content, such as lectures or Quran recitations, offline through downloadable audio, facilitating continuous learning and spiritual growth in accordance with Islamic values of seeking knowledge.",
+        "chunk_index": 257
+    },
+    "cbd31": {
+        "chunk_id": "cbd31",
+        "propositions": [
+            "\"The app allows streaming audio to save storage space.\", "
+        ],
+        "title": "Islamic Values & Technological Stewardship",
+        "summary": "This chunk discusses technological convenience in Islam, specifically exploring how digital tools can optimize resource usage, aligning with Islamic values of moderation and stewardship. \n\nPlease add more propositions related to how technology can be used to promote efficiency, conservation, and responsible resource management in a Muslim's daily life. \n\nGeneralization: This chunk can be generalized to explore the intersection of technology and Islamic principles, highlighting how innovative solutions can support a balanced and mindful lifestyle.",
+        "chunk_index": 258
+    },
+    "d8fbe": {
+        "chunk_id": "d8fbe",
+        "propositions": [
+            "[\"Audio is available to listen to the Quran.\", "
+        ],
+        "title": "Quran Recitation & Reflection",
+        "summary": "This chunk provides resources for accessing and listening to the Quran, reflecting the Islamic value of reciting and contemplating the holy book.",
+        "chunk_index": 259
+    },
+    "3c220": {
+        "chunk_id": "3c220",
+        "propositions": [
+            "\"Listening to the Quran can help to memorise and recharge your soul.\", "
+        ],
+        "title": "Quranic Recitation & Spiritual Growth",
+        "summary": "This chunk explores the spiritual benefits of reciting and listening to the Quran, highlighting its role in spiritual growth and rejuvenation.",
+        "chunk_index": 260
+    },
+    "36d7d": {
+        "chunk_id": "36d7d",
+        "propositions": [
+            "\"The app provides Quran recitations by over 50 renowned reciters.\", "
+        ],
+        "title": "Quran Recitations & Digital Access",
+        "summary": "This chunk contains information about digital access to Quran recitations, highlighting the diversity of Islamic scripture renditions by esteemed reciters.",
+        "chunk_index": 261
+    },
+    "5b2f3": {
+        "chunk_id": "5b2f3",
+        "propositions": [
+            "\"The reciters include Mishary Al Afasy, Husary (Muallim), Ayman Suwaid, Abdur Rahman As-Sudais, Abdul Basit, and Minshawi.\", "
+        ],
+        "title": "Notable Quran Reciters & Tajwid",
+        "summary": "This chunk provides information about notable Quran reciters (Qari) recognized for their expertise in reciting the Holy Quran, reflecting the importance of Tajwid and Quranic recitation in Islamic tradition.",
+        "chunk_index": 262
+    },
+    "14918": {
+        "chunk_id": "14918",
+        "propositions": [
+            "\"Ayman Suwaid and Husary (Muallim) are suitable for improving recitation and tajweed.\", "
+        ],
+        "title": "Quranic Recitation & Tajweed Resources",
+        "summary": "This chunk provides guidance on selecting resources, specifically Ayman Suwaid and Husary (Muallim), for enhancing Quranic recitation and tajweed skills, reflecting the Islamic emphasis on proper Quranic recitation.",
+        "chunk_index": 263
+    },
+    "f2359": {
+        "chunk_id": "f2359",
+        "propositions": [
+            "\"Yasser Salama Hadr has a faster recitation.\", "
+        ],
+        "title": "Quranic Recitation Styles & Tajwid",
+        "summary": "This chunk discusses the varying recitation speeds of Quranic readers, specifically highlighting Yasser Salama Hadr's rapid recitation style, and relates to the Islamic practice of reciting the Quran with different tajwid and speeds, as seen in the diverse styles of Quranic recitation (Tartil and Tajwid).",
+        "chunk_index": 264
+    },
+    "57f2e": {
+        "chunk_id": "57f2e",
+        "propositions": [
+            "\"Audio translations are available in English, Bangla, and Urdu.\", "
+        ],
+        "title": "Islamic Knowledge Sharing & Inclusivity",
+        "summary": "This chunk provides information about the availability of multilingual audio resources, facilitating access to knowledge and understanding across diverse linguistic communities, reflecting the Islamic value of sharing knowledge and promoting inclusivity.",
+        "chunk_index": 265
+    },
+    "cf302": {
+        "chunk_id": "cf302",
+        "propositions": [
+            "[\"Audio is available to listen to the Quran.\", "
+        ],
+        "title": "Quran Recitation & Reflection",
+        "summary": "This chunk provides resources for accessing and listening to the Quran, reflecting the Islamic value of recitation and contemplation of the holy book.",
+        "chunk_index": 266
+    },
+    "5f85c": {
+        "chunk_id": "5f85c",
+        "propositions": [
+            "\"Listening to the Quran can help to memorise and recharge your soul.\", "
+        ],
+        "title": "The Quran & Spiritual Growth",
+        "summary": "This chunk explores the spiritual benefits of reciting and listening to the Quran, highlighting its role in spiritual growth and rejuvenation.",
+        "chunk_index": 267
+    },
+    "6ff74": {
+        "chunk_id": "6ff74",
+        "propositions": [
+            "\"The app provides Quran recitations by over 50 renowned reciters.\", "
+        ],
+        "title": "Digital Quranic Engagement & Scholarship",
+        "summary": "This chunk contains information about digital access to Quran recitations, highlighting the diversity of Islamic scholarship and the facilitation of Quranic engagement through technology.",
+        "chunk_index": 268
+    },
+    "768f0": {
+        "chunk_id": "768f0",
+        "propositions": [
+            "\"The reciters include Mishary Al Afasy, Husary (Muallim), Ayman Suwaid, Abdur Rahman As-Sudais, Abdul Basit, and Minshawi.\", "
+        ],
+        "title": "Notable Quran Reciters & Tajwid",
+        "summary": "This chunk contains information about notable Quran reciters (or Qari) who are renowned for their beautiful recitation of the Holy Quran, reflecting the Islamic emphasis on proper and melodious Quranic recitation.",
+        "chunk_index": 269
+    },
+    "00502": {
+        "chunk_id": "00502",
+        "propositions": [
+            "\"Ayman Suwaid and Husary (Muallim) are suitable for improving recitation and tajweed.\", "
+        ],
+        "title": "Quranic Recitation & Tajweed Guidance",
+        "summary": "This chunk provides guidance on selecting reliable resources, specifically Ayman Suwaid and Husary (Muallim), for enhancing Quranic recitation and tajweed skills, reflecting the Islamic emphasis on proper Quranic recitation.",
+        "chunk_index": 270
+    },
+    "77be5": {
+        "chunk_id": "77be5",
+        "propositions": [
+            "\"Yasser Salama Hadr has a faster recitation.\", "
+        ],
+        "title": "Quranic Recitation & Tajweed",
+        "summary": "This chunk contains information about Quranic recitation styles, specifically highlighting individuals known for their rapid and melodious recitation, reflecting the Islamic appreciation for Tajweed and Quranic recitation skills.",
+        "chunk_index": 271
+    },
+    "76e3a": {
+        "chunk_id": "76e3a",
+        "propositions": [
+            "\"Audio translations are available in English, Bangla, and Urdu.\", "
+        ],
+        "title": "Islamic Content Accessibility",
+        "summary": "This chunk provides information about language accessibility options for Islamic content, offering translations in multiple languages to cater to a diverse audience.",
+        "chunk_index": 272
+    },
+    "69b2a": {
+        "chunk_id": "69b2a",
+        "propositions": [
+            "\"More audio translations are planned.\", "
+        ],
+        "title": "Islamic Knowledge & Media Expansion",
+        "summary": "This chunk discusses future plans for expanding audio content, likely with a focus on sharing Islamic knowledge and values through various languages and media, in line with the Islamic principle of spreading wisdom and guidance.",
+        "chunk_index": 273
+    },
+    "f2b2d": {
+        "chunk_id": "f2b2d",
+        "propositions": [
+            "\"The app allows downloading audio for offline listening.\", "
+        ],
+        "title": "Accessing Islamic Knowledge Offline",
+        "summary": "This chunk discusses the convenience of accessing Islamic audio content offline, reflecting the Islamic value of seeking knowledge and spiritual growth, and invites additions about related apps or platforms that facilitate such learning.",
+        "chunk_index": 274
+    },
+    "10139": {
+        "chunk_id": "10139",
+        "propositions": [
+            "\"The app allows streaming audio to save storage space.\", "
+        ],
+        "title": "Islamic Values in Resource Management",
+        "summary": "This chunk discusses technological convenience and efficient use of resources, reflecting the Islamic value of being mindful of one's resources and avoiding waste, as exemplified in the concept of \"Zakat\" and \"Maqasid al-shariah\" (the five objectives of Islamic law), specifically the preservation of wealth.",
+        "chunk_index": 275
+    },
+    "6644e": {
+        "chunk_id": "6644e",
+        "propositions": [
+            "\"Yasser Salama Hadr has a faster recitation.\", "
+        ],
+        "title": "Quranic Recitation & Excellence",
+        "summary": "This chunk contains information about Quranic recitation and the notable talents of individuals, such as Yasser Salama Hadr, in the field of Quranic recitation, reflecting the Islamic value of appreciating and striving for excellence in worship and spiritual pursuits.",
+        "chunk_index": 276
+    },
+    "402f2": {
+        "chunk_id": "402f2",
+        "propositions": [
+            "\"The app allows downloading audio for offline listening.\", "
+        ],
+        "title": "Islamic Digital Learning Resources",
+        "summary": "This chunk contains information about utilizing technology for convenient access to Islamic educational and spiritual resources, such as lectures and recitations, for personal development and reflection, even in the absence of internet connectivity.",
+        "chunk_index": 277
+    },
+    "8e9ac": {
+        "chunk_id": "8e9ac",
+        "propositions": [
+            "\"Yasser Salama Hadr has a faster recitation.\", "
+        ],
+        "title": "Quranic Recitation Styles & Tilawat",
+        "summary": "This chunk discusses the varying recitation speeds of Quranic readers, highlighting the unique characteristics of Yasser Salama Hadr's recitation style, and relates to the Islamic tradition of tilawat (Quranic recitation).",
+        "chunk_index": 278
+    },
+    "abb3e": {
+        "chunk_id": "abb3e",
+        "propositions": [
+            "\"The app allows downloading audio for offline listening.\", "
+        ],
+        "title": "Accessing Islamic Knowledge Digitally",
+        "summary": "This chunk provides information about facilitating access to Islamic educational and spiritual resources, such as lectures and Quran recitations, through technology, allowing users to benefit from them anywhere, anytime, in line with the Islamic principle of seeking knowledge and spreading wisdom.",
+        "chunk_index": 279
+    },
+    "4cd61": {
+        "chunk_id": "4cd61",
+        "propositions": [
+            "\"The app has a quick start guide.\", "
+        ],
+        "title": "Islamic Learning Resources & Guides",
+        "summary": "This chunk provides information about user guides and manuals for Islamic apps, focusing on facilitating easy access to resources and knowledge. \n\nHowever, there might be a better summary that has more relation to the Islamic context. An alternative could be: \nThis chunk contains information about accessible learning tools and resources, reflecting the Islamic value of seeking knowledge. \n\nConsidering your proposition specifically mentions a 'quick start guide', another summary can be:\nThis chunk provides information about user-friendly resources and guides for navigating Islamic apps and tools.",
+        "chunk_index": 280
+    },
+    "6f268": {
+        "chunk_id": "6f268",
+        "propositions": [
+            "\"The quick start guide explains how to use repeat options.\", "
+        ],
+        "title": "Islamic Productivity & Time Management",
+        "summary": "This chunk provides guidance on utilizing repetition effectively, reflecting the Islamic value of diligence and efficient use of time, as exemplified in the concept of \"ilm\" (knowledge) and \"amal\" (action).",
+        "chunk_index": 281
+    },
+    "3182e": {
+        "chunk_id": "3182e",
+        "propositions": [
+            "\"The app allows adjusting the playback speed.\", "
+        ],
+        "title": "Islamic Media Playback Tools",
+        "summary": "This chunk discusses features related to media playback, specifically the ability to adjust playback speed, and may include related tools or functionalities that facilitate learning or recitation of Islamic content, such as Quranic verses or lectures.",
+        "chunk_index": 282
+    },
+    "99362": {
+        "chunk_id": "99362",
+        "propositions": [
+            "\"The app has a single recitation mode.\", "
+        ],
+        "title": "Islamic Apps for Quranic Recitation & Spiritual Growth",
+        "summary": "This chunk contains information about features of Quranic or Islamic apps, specifically recitation modes, reflecting the Islamic value of utilizing technology for spiritual growth and education.",
+        "chunk_index": 283
+    }
+}

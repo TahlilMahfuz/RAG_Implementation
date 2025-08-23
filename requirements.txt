@@ -43,3 +43,4 @@ langchain_openai
 umap-learn>=0.5.0
 pyabsa
 logger
+google-play-scraper
