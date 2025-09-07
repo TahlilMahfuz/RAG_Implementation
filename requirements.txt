@@ -45,3 +45,5 @@ pyabsa
 logger
 google-play-scraper
 langdetect
+statsmodels
+krippendorff
